@@ -3,12 +3,12 @@ Name: CallBar X
 Version: 0.3-4
 Architecture: iphoneos-arm
 Description: CallBar X 夜雪鈴重新製作打包
-Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Depends: mobilesubstrate, preferenceloader
 Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
 Filename: ./deb/nightsnowlin.CallBarX-0.3-4.deb
 Conflicts: net.limneos.callbarx, nightsnowlin.callbarx
 Maintainer: NightSnowLin <yenhank0531@gmail.com>
 Author: NightSnowLin <yenhank0531@gmail.com>
-Size: 138706
-MD5sum: 943ea621e3e4176c29f0fab6f5a4b8f8
+Size: 138688
+MD5sum: 7b532fce4d181b8c78e25122222686fe
 Section: 調校
