@@ -1,15 +1,3 @@
-Package: com.mrmadtw.AlegreyaSans
-Version: 1.1
-Section: Fonts
-Maintainer: Mrmad <mrmadtw@gmail.com>
-Depends: com.anemonetheming.anemone (>=2.0-1)
-Architecture: iphoneos-arm
-Filename: ./deb/com.mrmadtw.AlegreyaSans_1.1_iphoneos-arm.deb
-
-Description: Anemone 專用英文字體
-Name: Alegreya Sans Font for Anemone
-Author: Mrmad <mrmadtw@gmail.com>
-
 Package: nightsnowlin.callbarx
 Name: CallBar X
 Version: 0.3-1
