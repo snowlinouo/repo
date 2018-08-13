@@ -5,8 +5,21 @@ Maintainer: Mrmad <mrmadtw@gmail.com>
 Depends: com.anemonetheming.anemone (>=2.0-1)
 Architecture: iphoneos-arm
 Filename: ./deb/com.mrmadtw.AlegreyaSans_1.1_iphoneos-arm.deb
-Size: 4914696
-MD5sum: d4c939a2076e84ed31545224184251fd
+
 Description: Anemone 專用英文字體
 Name: Alegreya Sans Font for Anemone
 Author: Mrmad <mrmadtw@gmail.com>
+
+Package: nightsnowlin.callbarx
+Name: CallBar X
+Version: 0.3-1
+Architecture: iphoneos-arm
+Description: CallBar X 夜雪鈴重新製作打包
+Depends: mobilesubstrate, preferenceloader, firmware (>= 11.0)
+Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
+Conflicts: net.limneos.callbarx, nightsnowlin.callbarx
+Maintainer: NightSnowLin <yenhank0531@gmail.com>
+Author: NightSnowLin <yenhank0531@gmail.com>
+Size: 137498
+MD5sum: f4141e7b6c37c7ee642169b112a6bafd
+Section: 夜雪鈴
