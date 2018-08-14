@@ -55,3 +55,16 @@ Author: NightSnowLin <yenhank0531@gmail.com>
 Size: 2460
 MD5sum: be81b1cfd01508db0a8f7f68d22d54b0
 Section: Localization
+
+Package: nightsnowlin.Palette
+Name: Palette 繁化中文包
+Version: 1.0
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: Palette 繁化中文包 夜雪鈴製作,請先安裝Palette
+Filename: ./deb/nightsnowlin.Palette_Palette.cht.deb
+Maintainer: NightSnowLin <yenhank0531@gmail.com>
+Author: NightSnowLin <yenhank0531@gmail.com>
+Size: 2460
+MD5sum: be81b1cfd01508db0a8f7f68d22d54b0
+Section: Localization
