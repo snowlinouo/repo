@@ -1,5 +1,5 @@
 # NightSnowLin Repo
-歡迎來到夜雪鈴的 Cydia Repo.
+歡迎來到夜雪鈴的 Cydia 軟體源.
 
 &nbsp;
 
