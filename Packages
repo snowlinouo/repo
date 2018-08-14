@@ -9,8 +9,8 @@ Filename: ./deb/nightsnowlin.CallBarX-0.3-4.deb
 Conflicts: net.limneos.callbarx, nightsnowlin.callbarx
 Maintainer: NightSnowLin <yenhank0531@gmail.com>
 Author: NightSnowLin <yenhank0531@gmail.com>
-Size: 138704
-MD5sum: 3f065ec3638906ccfedce12a56fa5434
+Size: 138702
+MD5sum: da81b30610427a511c477afc3fa59c13
 Section: Tweaks
 
 Package: nightsnowlin.callbarx
