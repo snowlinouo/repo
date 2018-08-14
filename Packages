@@ -43,7 +43,7 @@ Size: 139032
 MD5sum: d8c7ebc68b4fb8f27ba140b1836c1e99
 Section: Tweaks
 
-Package: com.nightsnowlin.homegesturecht
+Package: nightsnowlin.homegesturecht
 Name: HomeGesture 繁化中文包
 Version: 1.8.1
 Architecture: iphoneos-arm
