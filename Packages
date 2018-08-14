@@ -11,4 +11,19 @@ Maintainer: NightSnowLin <yenhank0531@gmail.com>
 Author: NightSnowLin <yenhank0531@gmail.com>
 Size: 138704
 MD5sum: 3f065ec3638906ccfedce12a56fa5434
-Section: 調校
+Section: Tweaks
+
+Package: nightsnowlin.callbarx
+Name: CallBar X
+Version: 0.3-11
+Architecture: iphoneos-arm
+Description: CallBar X 夜雪鈴重新製作打包
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
+Filename: ./deb/nightsnowlin.CallBarX-0.3-11.deb
+Conflicts: net.limneos.callbarx, nightsnowlin.callbarx
+Maintainer: NightSnowLin <yenhank0531@gmail.com>
+Author: NightSnowLin <yenhank0531@gmail.com>
+Size: 137922
+MD5sum: 70545235bfe85f81a0014fb2f1bfbeed
+Section: Tweaks
