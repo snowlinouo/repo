@@ -53,6 +53,6 @@ Filename: ./deb/nightsnowlin.homegesturecht.deb
 Conflicts: nightsnowlin.homegesturecht
 Maintainer: NightSnowLin <yenhank0531@gmail.com>
 Author: NightSnowLin <yenhank0531@gmail.com>
-Size: 2462
-MD5sum: d23744abd8139abbb01db8d4affaca7e
+Size: 2460
+MD5sum: be81b1cfd01508db0a8f7f68d22d54b0
 Section: Localization
