@@ -49,7 +49,7 @@ Version: 1.8.1
 Architecture: iphoneos-arm
 Depends: firmware (>=11.0)
 Description: HomeGesture 繁化中文包 夜雪鈴製作,請先安裝HomeGesture
-Filename: ./deb/com.nightsnowlin.homegesturecht.deb
+Filename: ./deb/nightsnowlin.homegesturecht.deb
 Conflicts: nightsnowlin.homegesturecht
 Maintainer: NightSnowLin <yenhank0531@gmail.com>
 Author: NightSnowLin <yenhank0531@gmail.com>
