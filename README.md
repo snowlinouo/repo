@@ -1,5 +1,5 @@
-# 夜雪鈴 Repo
-Welcome to my Cydia Repo.
+# NightSnowLin Repo
+歡迎來到夜雪鈴的 Cydia Repo.
 
 &nbsp;
 
