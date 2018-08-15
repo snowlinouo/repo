@@ -54,8 +54,8 @@ Filename: ./deb/nightsnowlin.CallBarX-0.3-16.deb
 Conflicts: net.limneos.callbarx, nightsnowlin.callbarx
 Maintainer: NightSnowLin <yenhank0531@gmail.com>
 Author: NightSnowLin <yenhank0531@gmail.com>
-Size: 
-MD5sum: 
+Size: 138668
+MD5sum: cbe1718bd49447252990079808fec7af
 Section: Tweaks
 
 Package: nightsnowlin.homegesturecht
