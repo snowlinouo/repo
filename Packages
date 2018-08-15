@@ -43,6 +43,21 @@ Size: 139032
 MD5sum: d8c7ebc68b4fb8f27ba140b1836c1e99
 Section: Tweaks
 
+Package: nightsnowlin.callbarx
+Name: CallBar X
+Version: 0.3-16
+Architecture: iphoneos-arm
+Description: CallBar X 夜雪鈴重新製作打包
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
+Filename: ./deb/nightsnowlin.CallBarX-0.3-16.deb
+Conflicts: net.limneos.callbarx, nightsnowlin.callbarx
+Maintainer: NightSnowLin <yenhank0531@gmail.com>
+Author: NightSnowLin <yenhank0531@gmail.com>
+Size: 
+MD5sum: 
+Section: Tweaks
+
 Package: nightsnowlin.homegesturecht
 Name: HomeGesture 繁化中文包
 Version: 1.8.1
