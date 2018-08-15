@@ -83,17 +83,3 @@ Author: NightSnowLin <yenhank0531@gmail.com>
 Size: 1914
 MD5sum: 52642d2c9a92367f2ce13ab1a4557bb9
 Section: Localization
-
-Package: guanda.NaviKing3D
-Name: 樂客導航王3D
-Version: 3.1.556
-Architecture: iphoneos-arm
-Depends: mobilesubstrate, preferenceloader, firmware (>=9.0)
-Description: 樂客導航王3D GuanDa打包
-Filename: ./deb/guanda.NaviKing3D.deb
-Conflicts: guanda.NaviKing3D
-Maintainer: GuanDa
-Author: GuanDa
-Size: 1758114368
-MD5sum: bcd89c05f164239cfdc31e794402bf01
-Section: Tweaks
