@@ -70,7 +70,7 @@ Conflicts: net.limneos.callbarx, nightsnowlin.callbarx
 Maintainer: NightSnowLin <yenhank0531@gmail.com>
 Author: NightSnowLin <yenhank0531@gmail.com>
 Size: 138920
-MD5sum: b3ee0f73ddc13470d8cdeeed33762e09138,920
+MD5sum: b3ee0f73ddc13470d8cdeeed33762e09
 Section: Tweaks
 
 Package: nightsnowlin.homegesturecht
