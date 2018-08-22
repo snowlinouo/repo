@@ -98,3 +98,17 @@ Author: NightSnowLin <yenhank0531@gmail.com>
 Size: 1914
 MD5sum: 52642d2c9a92367f2ce13ab1a4557bb9
 Section: Localization
+
+Package: com.nightsnowlin.mssagehadsXI
+Name: MessageHeadsXI
+Version: 1.1-6
+Architecture: iphoneos-arm
+Description: MessageHeadsXI 夜雪鈴重新製作打包
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Filename: ./deb/com.nightsnowlin.mssagehadsXI.deb
+Conflicts: com.nightsnowlin.mssagehadsXI
+Maintainer: NightSnowLin <yenhank0531@gmail.com>
+Author: NightSnowLin <yenhank0531@gmail.com>
+Size: 1914
+MD5sum: eb513582ca90ae6078aa9c1820304429
+Section: Tweaks
