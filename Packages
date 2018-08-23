@@ -112,3 +112,17 @@ Author: NightSnowLin <yenhank0531@gmail.com>
 Size: 2440846
 MD5sum: 37090c0220ecba1e6ef16522e9a84999
 Section: Tweaks
+
+Package: com.nightsnowlin.audiorecorder
+Name: Audiorecorder
+Version: 1.7-10
+Architecture: iphoneos-arm
+Description: Audiorecorder X 夜雪鈴重新製作打包
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Filename: ./deb/com.nightsnowlin.audiorecorder.deb
+Conflicts: com.nightsnowlin.audiorecorder
+Maintainer: NightSnowLin <yenhank0531@gmail.com>
+Author: NightSnowLin <yenhank0531@gmail.com>
+Size: 2485542
+MD5sum: 67a1d22f5b40be13e3920e15f13c787c
+Section: Tweaks
