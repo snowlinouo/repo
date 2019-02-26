@@ -129,14 +129,14 @@ Section: Tweaks
 
 Package: com.nightsnowlin.batterypercentx
 Name: BatteryPercentX 繁化中文包
-Version: 1.3.5-2
+Version: 1.3.5-2.1
 Architecture: iphoneos-arm
 Depends: firmware (>=11.0)
 Description: BatteryPercentX 繁化中文包 夜雪鈴製作,請先安裝BatteryPercentX
-Filename: ./deb/com.nightsnowlin.batterypercentx-1.3.5-2.deb
+Filename: ./deb/com.nightsnowlin.batterypercentx-1.3.5-2.1.deb
 Conflicts: com.nightsnowlin.batterypercentx
 Maintainer: NightSnowLin <yenhank0531@gmail.com>
 Author: NightSnowLin <yenhank0531@gmail.com>
-Size: 1760
-MD5sum: 4941eac69a9aed284311ef373ba02411
+Size: 1762
+MD5sum: 83ec292be90bc956a168b4687e7f8814
 Section: Localization
