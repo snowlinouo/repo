@@ -153,3 +153,17 @@ Author: NightSnowLin <yenhank0531@gmail.com>
 Size: 156130
 MD5sum: a700855e21d23c4bc08c57e5d7f62710
 Section: Tweaks
+
+Package: com.nightsnowlin.bytafont3
+Name: BytaFont 3
+Version: 3.5
+Architecture: iphoneos-arm
+Description: BytaFont 3 夜雪鈴重新製作打包
+Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
+Filename: ./deb/com.nightsnowlin.bytafont3-3.5.deb
+Conflicts: com.nightsnowlin.bytafont3
+Maintainer: NightSnowLin <yenhank0531@gmail.com>
+Author: NightSnowLin <yenhank0531@gmail.com>
+Size: 1033994
+MD5sum: fded4d39ee56329b033eee850e0355cb
+Section: System
