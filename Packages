@@ -140,6 +140,19 @@ Size: 1760
 MD5sum: 1e88dadc0d3a366cb9989aefe0b9d9b9
 Section: Localization
 
+Package: com.nightsnowlin.batterypercentx
+Name: BatteryPercentX 繁化中文包
+Version: 1.3.5-3.1
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: BatteryPercentX 繁化中文包 夜雪鈴製作,請先安裝BatteryPercentX
+Filename: ./deb/com.nightsnowlin.batterypercentx-1.3.5-3.1.deb
+Maintainer: NightSnowLin <yenhank0531@gmail.com>
+Author: NightSnowLin <yenhank0531@gmail.com>
+Size: 1758
+MD5sum: 4c1cac7bc50f5d22146374d5ef752b72
+Section: Localization
+
 Package: com.nightsnowlin.batterypercentx.tk
 Name: BatteryPercent X
 Version: 1.3.5-2
