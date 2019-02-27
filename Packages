@@ -1,4 +1,4 @@
-﻿Package: nightsnowlin.callbarx
+Package: nightsnowlin.callbarx
 Name: CallBar X
 Version: 0.3-4
 Architecture: iphoneos-arm
@@ -151,5 +151,5 @@ Conflicts: com.nightsnowlin.batterypercentx.tweak
 Maintainer: NightSnowLin <yenhank0531@gmail.com>
 Author: NightSnowLin <yenhank0531@gmail.com>
 Size: 156132
-MD5sum: 47b541264528cee2c638c03f8795fd83
+MD5sum: a383aecf5988dcfb8f1d1f95712fe602
 Section: Tweaks
