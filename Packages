@@ -180,3 +180,17 @@ Author: NightSnowLin <yenhank0531@gmail.com>
 Size: 1033994
 MD5sum: fded4d39ee56329b033eee850e0355cb
 Section: System
+
+Package: com.nightsnowlin.carrierizer
+Name: Carrierizer 繁化中文包
+Version: 1.0.2
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: Carrierizer 繁化中文包 夜雪鈴製作,請先安裝Carrierizer
+Filename: ./deb/com.nightsnowlin.carrierizer-1.0.2.deb
+Conflicts: com.nightsnowlin.carrierizer
+Maintainer: NightSnowLin <yenhank0531@gmail.com>
+Author: NightSnowLin <yenhank0531@gmail.com>
+Size: 1776
+MD5sum: b4ab3ec3931c4fa6f2e10f72d30d1cfc
+Section: Localization
