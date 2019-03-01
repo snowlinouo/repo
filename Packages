@@ -194,3 +194,38 @@ Author: NightSnowLin <yenhank0531@gmail.com>
 Size: 1776
 MD5sum: b4ab3ec3931c4fa6f2e10f72d30d1cfc
 Section: Localization
+
+Package: com.nightsnowlin.anemone3
+Name: Anemone 3
+Depends: firmware (>=11.0), org.coolstar.tweakinject, com.ex.libsubstitute, pincrush
+Provides: org.coolstar.themelib, anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Replaces: org.coolstar.themelib, anemoneteam.anemone,  com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Filename: ./deb/com.nightsnowlin.anemone3-3.0~beta5.deb
+Conflicts: winterboard, com.codethemed.iconbundles, com.idd.iconomatic
+Version: 3.0~beta5
+Architecture: iphoneos-arm
+Description: An awesome theme manager!
+SileoDepiction: https://coolstar.moe/sileoassets/depictionoverride.php?package=com.anemonetheming.anemone3
+Icon: https://coolstar.moe/sileoassets/featured/anemone3-icon.png
+Maintainer: AnemoneTeam <anemonetheming@gmail.com>
+Author: AnemoneTeam <anemonetheming@gmail.com>
+Size: 16818838
+MD5sum: 5cb5f4d4eb08bc6be8ef61329f804e29
+Section: Tweaks
+
+Package: com.nightsnowlin.anemone3-extsb
+Name: Anemone 3 SpringBoard Extension Pack
+Depends: firmware (>=11.0), org.coolstar.tweakinject, com.ex.libsubstitute, com.anemonetheming.anemone3 (>=3.0~beta3)
+Provides: org.coolstar.classicdock, org.coolstar.classicbadges
+Replaces: org.coolstar.classicdock, org.coolstar.classicbadges
+Filename: ./deb/com.nightsnowlin.anemone3-extsb-3.0~beta3.deb
+Version: 3.0~beta3
+Architecture: iphoneos-arm
+Description: An awesome theme manager!
+SileoDepiction: https://coolstar.moe/sileoassets/depictionoverride.php?package=com.anemonetheming.anemone3-extsb
+Icon: https://coolstar.moe/sileoassets/featured/anemone3-icon.png
+Maintainer: AnemoneTeam <anemonetheming@gmail.com>
+Author: AnemoneTeam <anemonetheming@gmail.com>
+Size: 29942
+MD5sum: ba5b982b32016dccc5d6362c41b5d2bf
+Section: Tweaks
