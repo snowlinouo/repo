@@ -197,7 +197,7 @@ Section: Localization
 
 Package: com.nightsnowlin.anemone3
 Name: Anemone 3
-Depends: firmware (>=11.0), org.coolstar.tweakinject, com.ex.libsubstitute, pincrush
+Depends: firmware (>=11.0), org.nightsnowlin.tweakinject, com.nightsnowlin.libsubstitute, pincrush
 Provides: org.coolstar.themelib, anemoneteam.anemone, com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
 Replaces: org.coolstar.themelib, anemoneteam.anemone,  com.anemonetheming.anemone, winterboard, com.codethemed.iconbundles, com.idd.iconomatic
 Filename: ./deb/com.nightsnowlin.anemone3-3.0~beta5.deb
@@ -209,13 +209,13 @@ SileoDepiction: https://coolstar.moe/sileoassets/depictionoverride.php?package=c
 Icon: https://coolstar.moe/sileoassets/featured/anemone3-icon.png
 Maintainer: AnemoneTeam <anemonetheming@gmail.com>
 Author: AnemoneTeam <anemonetheming@gmail.com>
-Size: 16818838
-MD5sum: 5cb5f4d4eb08bc6be8ef61329f804e29
+Size: 16818840
+MD5sum: 41264d82934b34cd780e3dbf9dfa0a99
 Section: Tweaks
 
 Package: com.nightsnowlin.anemone3-extsb
 Name: Anemone 3 SpringBoard Extension Pack
-Depends: firmware (>=11.0), org.coolstar.tweakinject, com.ex.libsubstitute, com.anemonetheming.anemone3 (>=3.0~beta3)
+Depends: firmware (>=11.0), org.nightsnowlin.tweakinject, com.nightsnowlin.libsubstitute, com.anemonetheming.anemone3 (>=3.0~beta3)
 Provides: org.coolstar.classicdock, org.coolstar.classicbadges
 Replaces: org.coolstar.classicdock, org.coolstar.classicbadges
 Filename: ./deb/com.nightsnowlin.anemone3-extsb-3.0~beta3.deb
@@ -227,5 +227,32 @@ Icon: https://coolstar.moe/sileoassets/featured/anemone3-icon.png
 Maintainer: AnemoneTeam <anemonetheming@gmail.com>
 Author: AnemoneTeam <anemonetheming@gmail.com>
 Size: 29942
-MD5sum: ba5b982b32016dccc5d6362c41b5d2bf
+MD5sum: 0014f19e04f680642eb7742f121ae06c
 Section: Tweaks
+
+Package: org.nightsnowlin.tweakinject
+Architecture: iphoneos-arm
+Name: Tweak Injector
+Description: General purpose tweak loader with safe mode in case of crashes
+Filename: ./deb/org.nightsnowlin.tweakinject_1.1.0-sileo_iphoneos-arm.deb
+Author: CoolStar <coolstarorganization@gmail.com>
+Version: 1.1.0-sileo
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Section: System
+Size: 36520
+MD5sum: 725db44cb4447fe8b80e16a0a2893eaf
+Depends: firmware (>= 10.0), cy+cpu.arm64, com.nightsnowlin.libsubstitute
+
+Package: com.nightsnowlin.libsubstitute
+Architecture: iphoneos-arm
+Name: Substitute
+Filename: ./deb/com.nightsnowlin.libsubstitute_0.0.8-coolstar_iphoneos-arm.deb
+Author: comex <comexk+da@gmail.com>
+Priority: optional
+Version: 0.0.8-coolstar
+Description: Substrate substitute for code substitution (library only)
+Maintainer: CoolStar <coolstarorganization@gmail.com>
+Section: System
+Size: 52368
+MD5sum: 6f101a91a63a0f239d0261a4c14db257
+Depends: firmware (>= 8.0), cy+cpu.arm64
