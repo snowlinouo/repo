@@ -194,3 +194,31 @@ Author: NightSnowLin <yenhank0531@gmail.com>
 Size: 1776
 MD5sum: b4ab3ec3931c4fa6f2e10f72d30d1cfc
 Section: Localization
+
+Package: com.nightsnowlin.neptune
+Name: Neptune
+Depends: mobilesubstrate, firmware(>=12.0)
+Architecture: iphoneos-arm
+Description: Enable Apple's modern fluid gestural interface on all devices.
+Filename: ./deb/com.nightsnowlin.neptune_1.0.0-15_iphoneos-arm.deb
+Maintainer: Duraid Abdul
+Author: Duraid Abdul
+Section: Tweaks
+Version: 1.0.0-15
+Size: 36994
+MD5sum: 26ddb7c2e4f1acc57688b84fc7b1f356
+Installed-Size: 260
+
+Package: com.nightsnowlin.neptune
+Name: Neptune
+Depends: mobilesubstrate, firmware(>=12.0)
+Architecture: iphoneos-arm
+Description: Enable Apple's modern fluid gestural interface on all devices.
+Filename: ./deb/com.nightsnowlin.neptune_1.0.0-22_iphoneos-arm.deb
+Maintainer: Duraid Abdul
+Author: Duraid Abdul
+Section: Tweaks
+Version: 1.0.0-22
+Size: 37070
+MD5sum: 1d6a2fc92e0f02ad918d64954ee3e3d0
+Installed-Size: 260
