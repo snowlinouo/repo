@@ -222,3 +222,17 @@ Version: 1.0.0-22
 Size: 37070
 MD5sum: 1d6a2fc92e0f02ad918d64954ee3e3d0
 Installed-Size: 260
+
+Package: com.nightsnowlin.callbarxs.tw
+Name: CallBar XS 繁化中文包
+Version: 2.1-14
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: CallBar XS 繁化中文包 夜雪鈴製作,請先安裝CallBar XS
+Filename: ./deb/com.nightsnowlin.callbarxs.tw-2.1-14.deb
+Conflicts: com.nightsnowlin.callbarxs.tw
+Maintainer: NightSnowLin <yenhank0531@gmail.com>
+Author: NightSnowLin <yenhank0531@gmail.com>
+Size: 2136
+MD5sum: fe8a39ca40904f2c3d27f8c758a148ce
+Section: Localization
