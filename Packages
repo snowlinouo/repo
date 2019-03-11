@@ -278,3 +278,17 @@ Author: NightSnowLin ,KevinLin(敬貿) <yenhank0531@gmail.com>
 Size: 2646
 MD5sum: 3433da8e651d72f2c98d206c97b23880
 Section: Localization
+
+Package: com.nightsnowlin.audiorecorderxs.tw
+Name: AudioRecorder XS 繁化中文包
+Version: 3.0-74
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: AudioRecorder XS 繁化中文包 夜雪鈴製作,請先安裝AudioRecorder XS
+Filename: ./deb/com.nightsnowlin.audiorecorderxs-3.0-74.deb
+Conflicts: com.nightsnowlin.audiorecorderxs.tw
+Maintainer: NightSnowLin <yenhank0531@gmail.com>
+Author: NightSnowLin <yenhank0531@gmail.com>
+Size: 4164
+MD5sum: 006372544263ce6b7f7218690225e158
+Section: Localization
