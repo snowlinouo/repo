@@ -228,7 +228,7 @@ Name: CallBar XS 繁化中文包
 Version: 2.1-14
 Architecture: iphoneos-arm
 Depends: firmware (>=11.0)
-Description: CallBar XS 繁化中文包 夜雪鈴製作,請先安裝CallBar XS
+Description: https://nightsnowlin.github.io/repo/depiction/callbarxs/index.html
 Filename: ./deb/com.nightsnowlin.callbarxs.tw-2.1-14.deb
 Conflicts: com.nightsnowlin.callbarxs.tw
 Maintainer: NightSnowLin <yenhank0531@gmail.com>
@@ -242,7 +242,7 @@ Name: CallBar XS 繁化中文包
 Version: 2.1-14.1
 Architecture: iphoneos-arm
 Depends: firmware (>=11.0)
-Description: CallBar XS 繁化中文包 夜雪鈴製作,請先安裝CallBar XS
+Description: https://nightsnowlin.github.io/repo/depiction/callbarxs/index.html
 Filename: ./deb/com.nightsnowlin.callbarxs.tw-2.1-14.1.deb
 Conflicts: com.nightsnowlin.callbarxs.tw
 Maintainer: NightSnowLin ,KevinLin(敬貿)<yenhank0531@gmail.com>
@@ -256,7 +256,7 @@ Name: CallBar XS 繁化中文包
 Version: 2.1-14.2
 Architecture: iphoneos-arm
 Depends: firmware (>=11.0)
-Description: CallBar XS 繁化中文包 夜雪鈴製作,請先安裝CallBar XS
+Description: https://nightsnowlin.github.io/repo/depiction/callbarxs/index.html
 Filename: ./deb/com.nightsnowlin.callbarxs.tw-2.1-14.2.deb
 Conflicts: com.nightsnowlin.callbarxs.tw
 Maintainer: NightSnowLin ,KevinLin(敬貿)<yenhank0531@gmail.com>
@@ -270,7 +270,7 @@ Name: CallBar XS 繁化中文包
 Version: 2.1-22
 Architecture: iphoneos-arm
 Depends: firmware (>=11.0)
-Description: CallBar XS 繁化中文包 夜雪鈴製作,請先安裝CallBar XS
+Description: https://nightsnowlin.github.io/repo/depiction/callbarxs/index.html
 Filename: ./deb/com.nightsnowlin.callbarxs.tw-2.1-22.deb
 Conflicts: com.nightsnowlin.callbarxs.tw
 Maintainer: NightSnowLin ,KevinLin(敬貿)<yenhank0531@gmail.com>
