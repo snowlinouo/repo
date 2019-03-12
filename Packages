@@ -186,7 +186,7 @@ Name: Carrierizer 繁化中文包
 Version: 1.0.2
 Architecture: iphoneos-arm
 Depends: firmware (>=11.0)
-Description: Carrierizer 繁化中文包 夜雪鈴製作,請先安裝 Carrierizer
+Description: Carrierizer 繁化中文包 夜雪鈴製作,請先安裝Carrierizer
 Depiction: https://nightsnowlin.github.io/repo/depiction/carrierizer/index.html
 Filename: ./deb/com.nightsnowlin.carrierizer-1.0.2.deb
 Conflicts: com.nightsnowlin.carrierizer
@@ -229,7 +229,7 @@ Name: CallBar XS 繁化中文包
 Version: 2.1-14
 Architecture: iphoneos-arm
 Depends: firmware (>=11.0)
-Description: CallBar XS 繁化中文包 夜雪鈴製作,請先安裝 CallBar XS
+Description: CallBar XS 繁化中文包 夜雪鈴製作,請先安裝CallBar XS
 Depiction: https://nightsnowlin.github.io/repo/depiction/callbarxs/index.html
 Filename: ./deb/com.nightsnowlin.callbarxs.tw-2.1-14.deb
 Conflicts: com.nightsnowlin.callbarxs.tw
@@ -244,7 +244,7 @@ Name: CallBar XS 繁化中文包
 Version: 2.1-14.1
 Architecture: iphoneos-arm
 Depends: firmware (>=11.0)
-Description: CallBar XS 繁化中文包 夜雪鈴製作,請先安裝 CallBar XS
+Description: CallBar XS 繁化中文包 夜雪鈴製作,請先安裝CallBar XS
 Depiction: https://nightsnowlin.github.io/repo/depiction/callbarxs/index.html
 Filename: ./deb/com.nightsnowlin.callbarxs.tw-2.1-14.1.deb
 Conflicts: com.nightsnowlin.callbarxs.tw
@@ -259,7 +259,7 @@ Name: CallBar XS 繁化中文包
 Version: 2.1-14.2
 Architecture: iphoneos-arm
 Depends: firmware (>=11.0)
-Description: CallBar XS 繁化中文包 夜雪鈴製作,請先安裝 CallBar XS
+Description: CallBar XS 繁化中文包 夜雪鈴製作,請先安裝CallBar XS
 Depiction: https://nightsnowlin.github.io/repo/depiction/callbarxs/index.html
 Filename: ./deb/com.nightsnowlin.callbarxs.tw-2.1-14.2.deb
 Conflicts: com.nightsnowlin.callbarxs.tw
@@ -274,7 +274,7 @@ Name: CallBar XS 繁化中文包
 Version: 2.1-22
 Architecture: iphoneos-arm
 Depends: firmware (>=11.0)
-Description: CallBar XS 繁化中文包 夜雪鈴製作,請先安裝 CallBar XS
+Description: CallBar XS 繁化中文包 夜雪鈴製作,請先安裝CallBar XS
 Depiction: https://nightsnowlin.github.io/repo/depiction/callbarxs/index.html
 Filename: ./deb/com.nightsnowlin.callbarxs.tw-2.1-22.deb
 Conflicts: com.nightsnowlin.callbarxs.tw
@@ -289,7 +289,7 @@ Name: AudioRecorder XS 繁化中文包
 Version: 3.0-74
 Architecture: iphoneos-arm
 Depends: firmware (>=11.0)
-Description: AudioRecorder XS 繁化中文包 夜雪鈴製作,請先安裝 AudioRecorder XS
+Description: AudioRecorder XS 繁化中文包 夜雪鈴製作,請先安裝AudioRecorder XS
 Depiction: https://nightsnowlin.github.io/repo/depiction/audiorecorderxs/index.html
 Filename: ./deb/com.nightsnowlin.audiorecorderxs.tw-3.0-74.deb
 Conflicts: com.nightsnowlin.audiorecorderxs.tw
@@ -304,7 +304,7 @@ Name: PerfectTime XS 繁化中文包
 Version: 0.1.3-1
 Architecture: iphoneos-arm
 Depends: firmware (>=11.0)
-Description: PerfectTime XS 繁化中文包 夜雪鈴製作,請先安裝 PerfectTime XS
+Description: PerfectTime XS 繁化中文包 夜雪鈴製作,請先安裝PerfectTime XS
 Depiction: https://nightsnowlin.github.io/repo/depiction/perfecttimexs/index.html
 Filename: ./deb/com.nightsnowlin.perfecttimexs.tw-0.1.3-1.deb
 Conflicts: com.nightsnowlin.perfecttimexs.tw
