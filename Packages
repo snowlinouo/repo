@@ -187,6 +187,7 @@ Version: 1.0.2
 Architecture: iphoneos-arm
 Depends: firmware (>=11.0)
 Description: Carrierizer 繁化中文包 夜雪鈴製作,請先安裝Carrierizer
+Depiction: https://nightsnowlin.github.io/repo/depiction/carrierizer/index.html
 Filename: ./deb/com.nightsnowlin.carrierizer-1.0.2.deb
 Conflicts: com.nightsnowlin.carrierizer
 Maintainer: NightSnowLin <yenhank0531@gmail.com>
