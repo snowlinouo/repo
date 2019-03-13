@@ -313,3 +313,18 @@ Author: NightSnowLin <yenhank0531@gmail.com>
 Size: 1612
 MD5sum: a4519334cd39900b5eba3f65304d7223
 Section: Localization
+
+Package: com.nightsnowlin.bazzi.tw
+Name: Bazzi 繁化中文包
+Version: 2.0.1
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: Bazzi 繁化中文包 夜雪鈴製作,請先安裝 Bazzi
+Depiction: https://nightsnowlin.github.io/repo/depiction/bazzi/index.html
+Filename: ./deb/com.nightsnowlin.bazzi.tw-2.0.1.deb
+Conflicts: com.nightsnowlin.bazzi.tw
+Maintainer: NightSnowLin <yenhank0531@gmail.com>
+Author: NightSnowLin <yenhank0531@gmail.com>
+Size: 1256
+MD5sum: 50208c204d634a89fc30688998e19ae6
+Section: Localization
