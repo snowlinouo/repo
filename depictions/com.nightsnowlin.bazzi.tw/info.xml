@@ -1,0 +1,23 @@
+<package>
+	<id>com.nightsnowlin.bazzi.tw</id>
+	<name>Bazzi 繁化中文包</name>
+	<version>2.0.1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>12.0</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>Bazzi 繁化中文包 夜雪鈴製作,請先安裝 Bazzi</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>新版本推出</change>
+	</changelog>
+	<links></links>
+</package>

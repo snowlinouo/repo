@@ -1,0 +1,23 @@
+<package>
+	<id>com.nightsnowlin.perfecttimexs.tw</id>
+	<name>PerfectTime XS 繁化中文包</name>
+	<version>0.1.3-1</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>12.0</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>PerfectTime XS 繁化中文包 夜雪鈴製作,請先安裝 PerfectTime XS</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>新版本推出</change>
+	</changelog>
+	<links></links>
+</package>

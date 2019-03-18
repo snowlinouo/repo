@@ -1,0 +1,23 @@
+<package>
+	<id>com.nightsnowlin.callbarxs.tw</id>
+	<name>Callbar XS 繁化中文包</name>
+	<version>2.1-22</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>12.0</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>CallBar XS 繁化中文包 夜雪鈴製作,請先安裝 CallBar XS</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>翻譯再次更新</change>
+	</changelog>
+	<links></links>
+</package>
