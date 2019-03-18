@@ -13,7 +13,13 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>Bazzi 繁化中文包 夜雪鈴製作,請先安裝 Bazzi</description>
+		<description>
+        <![CDATA[
+		Bazzi 繁化中文包 夜雪鈴製作
+		<br/>
+		請先安裝 Bazzi
+		]]>
+		</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>

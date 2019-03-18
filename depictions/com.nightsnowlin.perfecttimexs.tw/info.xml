@@ -13,7 +13,13 @@
 	</compatibility>
 	<dependencies></dependencies>
 	<descriptionlist>
-		<description>PerfectTime XS 繁化中文包 夜雪鈴製作,請先安裝 PerfectTime XS</description>
+		<description>
+        <![CDATA[
+		PerfectTime XS 繁化中文包 夜雪鈴製作
+		<br/>
+		請先安裝 PerfectTime XS
+		]]>
+		</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
