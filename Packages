@@ -330,16 +330,16 @@ MD5sum: 50208c204d634a89fc30688998e19ae6
 Section: Localization
 
 Package: com.nightsnowlin.ioshelper12.tw
-Conflicts: com.nightsnowlin.ioshelper12.tw
 Name: iOS Helper 12 繁化中文包
 Version: 1.4.0
 Architecture: iphoneos-arm
 Depends: firmware (>=11.0)
 Description: iOS Helper 12 繁化中文包 夜雪鈴製作,請先安裝 iOS Helper 12
 Depiction: https://nightsnowlin.github.io/repo/depictions/?p=com.nightsnowlin.ioshelper12.tw
+Filename: ./deb/com.nightsnowlin.ioshelper12.tw-1.4.0.deb
+Conflicts: com.nightsnowlin.ioshelper12.tw
 Maintainer: NightSnowLin <yenhank0531@gmail.com>
 Author: NightSnowLin <yenhank0531@gmail.com>
-Filename: ./deb/com.nightsnowlin.ioshelper12.tw-1.4.0.deb
-Size: 3930
-MD5sum: f44be1ff5ecae8a3965aa0a59b46edfe
+Size: 3932
+MD5sum: cb44b336369243ef2839cdce00ae5080
 Section: Localization
