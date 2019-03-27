@@ -328,3 +328,33 @@ Author: NightSnowLin <yenhank0531@gmail.com>
 Size: 1256
 MD5sum: 50208c204d634a89fc30688998e19ae6
 Section: Localization
+
+Package: com.nightsnowlin.ioshelper12.tw
+Conflicts: com.nightsnowlin.ioshelper12.tw
+Name: iOS Helper 12 繁化中文包
+Version: 1.4.0
+Architecture: iphoneos-arm
+Description: iOS Helper 12 繁化中文包 夜雪鈴製作,請先安裝 iOS Helper 12
+Depiction: https://nightsnowlin.github.io/repo/depiction/ioshelper12/index.html
+Depends: firmware (>=11.0)
+Maintainer: NightSnowLin <yenhank0531@gmail.com>
+Author: NightSnowLin <yenhank0531@gmail.com>
+Filename: ./deb/com.nightsnowlin.ioshelper12.tw-1.4.0.deb
+Size: 3932
+MD5sum: cb44b336369243ef2839cdce00ae5080
+Section: Localization
+
+Package: com.nightsnowlin.jellyfish.tw
+Conflicts: com.nightsnowlin.jellyfish.tw
+Name: JellyFish 繁化中文包
+Version: 1.1.2
+Architecture: iphoneos-arm
+Description: JellyFish 繁化中文包 夜雪鈴製作,請先安裝 JellyFish
+Depiction: https://nightsnowlin.github.io/repo/depiction/jellyfish/index.html
+Depends: firmware (>=11.0)
+Maintainer: NightSnowLin <yenhank0531@gmail.com>
+Author: NightSnowLin <yenhank0531@gmail.com>
+Filename: ./deb/com.nightsnowlin.jellyfish.tw-1.1.2.deb
+Size: 1408
+MD5sum: 534fabd3410ae91cdc5b117a8a7ce548
+Section: Localization
