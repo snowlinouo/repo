@@ -358,3 +358,17 @@ Filename: ./deb/com.nightsnowlin.jellyfish.tw-1.1.2.deb
 Size: 1408
 MD5sum: 534fabd3410ae91cdc5b117a8a7ce548
 Section: Localization
+
+Package: com.nightsnowlin.showtouch
+Conflicts: com.nightsnowlin.showtouch
+Name: ShowTouch
+Version: 1.0.3-1
+Architecture: iphoneos-arm
+Description: Shows where you touch the screen ,ShowTouch 夜雪鈴重新打包
+Depends: firmware (>=11.0), mobilesubstrate, org.thebigboss.libcolorpicker
+Maintainer: NightSnowLin <yenhank0531@gmail.com>
+Author: NightSnowLin <yenhank0531@gmail.com>
+Filename: ./deb/com.nightsnowlin.showtouch_1.0.3-1_iphoneos-arm.deb
+Size: 109724
+MD5sum: 28371e1a5500312bc430d7ff0d1e0a5b
+Section: Tweaks
