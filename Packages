@@ -50,20 +50,6 @@ Size: 1758
 MD5sum: 4c1cac7bc50f5d22146374d5ef752b72
 Section: Localization
 
-Package: com.nightsnowlin.batterypercentx.tk
-Name: BatteryPercent X
-Version: 1.3.5-2
-Architecture: iphoneos-arm
-Description:  BatteryPercent X 夜雪鈴重新製作打包
-Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
-Filename: ./deb/com.nightsnowlin.batterypercentx.tk-1.3.5-2.deb
-Conflicts: com.nightsnowlin.batterypercentx.tk
-Maintainer: NightSnowLin <yenhank0531@gmail.com>
-Author: NightSnowLin <yenhank0531@gmail.com>
-Size: 156130
-MD5sum: a700855e21d23c4bc08c57e5d7f62710
-Section: Tweaks
-
 Package: com.nightsnowlin.bytafont3
 Name: BytaFont 3
 Version: 3.5
