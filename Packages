@@ -1,78 +1,3 @@
-Package: nightsnowlin.callbarx
-Name: CallBar X
-Version: 0.3-4
-Architecture: iphoneos-arm
-Description: CallBar X 夜雪鈴重新製作打包
-Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
-Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
-Filename: ./deb/nightsnowlin.CallBarX-0.3-4.deb
-Conflicts: net.limneos.callbarx, nightsnowlin.callbarx
-Maintainer: NightSnowLin <yenhank0531@gmail.com>
-Author: NightSnowLin <yenhank0531@gmail.com>
-Size: 138702
-MD5sum: da81b30610427a511c477afc3fa59c13
-Section: Tweaks
-
-Package: nightsnowlin.callbarx
-Name: CallBar X
-Version: 0.3-11
-Architecture: iphoneos-arm
-Description: CallBar X 夜雪鈴重新製作打包
-Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
-Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
-Filename: ./deb/nightsnowlin.CallBarX-0.3-11.deb
-Conflicts: net.limneos.callbarx, nightsnowlin.callbarx
-Maintainer: NightSnowLin <yenhank0531@gmail.com>
-Author: NightSnowLin <yenhank0531@gmail.com>
-Size: 137922
-MD5sum: 70545235bfe85f81a0014fb2f1bfbeed
-Section: Tweaks
-
-Package: nightsnowlin.callbarx
-Name: CallBar X
-Version: 0.3-14
-Architecture: iphoneos-arm
-Description: CallBar X 夜雪鈴重新製作打包
-Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
-Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
-Filename: ./deb/nightsnowlin.CallBarX-0.3-14.deb
-Conflicts: net.limneos.callbarx, nightsnowlin.callbarx
-Maintainer: NightSnowLin <yenhank0531@gmail.com>
-Author: NightSnowLin <yenhank0531@gmail.com>
-Size: 139032
-MD5sum: d8c7ebc68b4fb8f27ba140b1836c1e99
-Section: Tweaks
-
-Package: nightsnowlin.callbarx
-Name: CallBar X
-Version: 0.3-16
-Architecture: iphoneos-arm
-Description: CallBar X 夜雪鈴重新製作打包
-Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
-Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
-Filename: ./deb/nightsnowlin.CallBarX-0.3-16.deb
-Conflicts: net.limneos.callbarx, nightsnowlin.callbarx
-Maintainer: NightSnowLin <yenhank0531@gmail.com>
-Author: NightSnowLin <yenhank0531@gmail.com>
-Size: 138668
-MD5sum: cbe1718bd49447252990079808fec7af
-Section: Tweaks
-
-Package: nightsnowlin.callbarx
-Name: CallBar X
-Version: 0.3-34
-Architecture: iphoneos-arm
-Description: CallBar X 夜雪鈴重新製作打包
-Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
-Icon: file:///Library/PreferenceBundles/CallBarXPreferences.bundle/CallBarXPreferences@3x.png
-Filename: ./deb/nightsnowlin.CallBarX-0.3-34.deb
-Conflicts: net.limneos.callbarx, nightsnowlin.callbarx
-Maintainer: NightSnowLin <yenhank0531@gmail.com>
-Author: NightSnowLin <yenhank0531@gmail.com>
-Size: 138920
-MD5sum: b3ee0f73ddc13470d8cdeeed33762e09
-Section: Tweaks
-
 Package: nightsnowlin.homegesturecht
 Name: HomeGesture 繁化中文包
 Version: 1.8.1
@@ -98,20 +23,6 @@ Author: NightSnowLin <yenhank0531@gmail.com>
 Size: 1914
 MD5sum: 52642d2c9a92367f2ce13ab1a4557bb9
 Section: Localization
-
-Package: com.nightsnowlin.mssagehadsXI
-Name: MessageHeadsXI
-Version: 1.1-7
-Architecture: iphoneos-arm
-Description: MessageHeadsXI 夜雪鈴重新製作打包
-Depends: mobilesubstrate, preferenceloader, firmware (>=11.0)
-Filename: ./deb/com.nightsnowlin.mssagehadsXI-1.1-7.deb
-Conflicts: com.nightsnowlin.mssagehadsxi
-Maintainer: NightSnowLin <yenhank0531@gmail.com>
-Author: NightSnowLin <yenhank0531@gmail.com>
-Size: 2441986
-MD5sum: 4f4de3a07def72f8aea4496ec5699181
-Section: Tweaks
 
 Package: com.nightsnowlin.audiorecorder
 Name: Audiorecorder
