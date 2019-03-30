@@ -233,7 +233,7 @@ Name: JellyFish 繁化中文包
 Version: 1.1.2
 Architecture: iphoneos-arm
 Description: JellyFish 繁化中文包 夜雪鈴製作,請先安裝 JellyFish
-Depiction: https://nightsnowlin.github.io/repo/depictions/?p=com.nightsnowlin.jellyfish
+Depiction: https://nightsnowlin.github.io/repo/depictions/?p=com.nightsnowlin.jellyfish.tw
 Depends: firmware (>=11.0)
 Maintainer: NightSnowLin <yenhank0531@gmail.com>
 Author: NightSnowLin <yenhank0531@gmail.com>
