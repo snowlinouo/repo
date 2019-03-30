@@ -7,4 +7,6 @@
 
 Fb - https://www.facebook.com/NightSnowOuO/
 
+Discord - https://discord.gg/gNdbzRe
+
 Twitter - [@nightsnowlin](https://twitter.com/nightsnowlin)
