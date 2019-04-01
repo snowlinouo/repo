@@ -5,7 +5,7 @@
 	<compatibility>
 		<firmware>
 			<maxiOS>12.1.2</maxiOS>
-			<otherVersions>12.0</otherVersions>
+			<otherVersions>11.0</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
 			-->
@@ -23,7 +23,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>新版本推出</change>
+		<change>原作備份包</change>
 	</changelog>
 	<links></links>
 </package>
