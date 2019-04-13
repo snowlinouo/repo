@@ -1,0 +1,29 @@
+<package>
+	<id>com.nightsnowlin.cydown</id>
+	<name>CyDown</name>
+	<version>6.9.7</version>
+	<compatibility>
+		<firmware>
+			<maxiOS>12.1.2</maxiOS>
+			<otherVersions>8.3</otherVersions>
+			<!--
+			for otherVersions, you can put either unsupported or unconfirmed
+			-->
+		</firmware>
+	</compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>
+        <![CDATA[
+		Cydia Download Manager & Extra Features!
+		<br/>
+		CyDown 夜雪鈴重新打包
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>原作備份包</change>
+	</changelog>
+	<links></links>
+</package>
