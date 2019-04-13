@@ -283,6 +283,6 @@ Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1
 Maintainer: Xarold <contact@xarold.com>
 Author: julioverne 
 Filename: ./deb/com.nightsnowlin.cydown_6.9.7_iphoneos-arm.deb
-Size: 1547196
-MD5sum: 247bb6147b0a68b0d08ee8a2f285121f
+Size: 1547190
+MD5sum: d0c0da957f498b2ef4f2ef4dc543c241
 Section: Tweaks
