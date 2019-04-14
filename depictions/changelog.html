@@ -32,6 +32,22 @@
 				,"paragraphElement"	: "<li class='list-group-item'>"
 
 			}
+			,"#packageLink" :
+            {"type":"custom"
+                ,"source" :"package"
+                ,"render":function(element, source){
+                    $("#packageLink").remove();
+                    if ($(source).size() == 0) {
+                        return
+                    }
+                    // create changelog link
+                    $("#package").append(
+                        $("<a class='link-item list-group-item'>")
+                            .attr("href","?p="+bundleid)
+                            .text("返回")
+                    );
+                }
+            }
 	}
     $( document ).ready(function() {
         $.ajax({
