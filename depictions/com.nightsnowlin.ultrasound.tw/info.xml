@@ -1,7 +1,7 @@
 <package>
-	<id>com.nightsnowlin.ioshelper12.tw</id>
-	<name>iOS Helper 12 繁化中文包</name>
-	<version>1.4.1</version>
+	<id>com.nightsnowlin.ultrasound.tw</id>
+	<name>Ultrasound 繁化中文包</name>
+	<version>1.2.5</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>12.1.2</maxiOS>
@@ -15,15 +15,15 @@
 	<descriptionlist>
 		<description>
         <![CDATA[
-		iOS Helper 12 繁化中文包 夜雪鈴製作
+		Ultrasound 繁化中文包 夜雪鈴製作
 		<br/>
-		請先安裝 iOS Helper 12
+		請先安裝 Ultrasound
 		]]>
 		</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>新增翻譯</change>
+		<change>新版本推出</change>
 	</changelog>
 	<links></links>
 </package>

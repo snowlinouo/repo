@@ -227,6 +227,21 @@ Size: 3932
 MD5sum: cb44b336369243ef2839cdce00ae5080
 Section: Localization
 
+Package: com.nightsnowlin.ioshelper12.tw
+Conflicts: com.nightsnowlin.ioshelper12.tw
+Name: iOS Helper 12 繁化中文包
+Version: 1.4.1
+Architecture: iphoneos-arm
+Description: iOS Helper 12 繁化中文包 夜雪鈴製作,請先安裝 iOS Helper 12
+Depiction: https://nightsnowlin.github.io/repo/depictions/?p=com.nightsnowlin.ioshelper12.tw
+Depends: firmware (>=11.0)
+Maintainer: NightSnowLin <yenhank0531@gmail.com>
+Author: NightSnowLin <yenhank0531@gmail.com>
+Filename: ./deb/com.nightsnowlin.ioshelper12.tw_1.4.1_iphoneos-arm.deb
+Size: 4200
+MD5sum: 3b402d0f7b056143cf7acd0b91f26f36
+Section: Localization
+
 Package: com.nightsnowlin.jellyfish.tw
 Conflicts: com.nightsnowlin.jellyfish.tw
 Name: JellyFish 繁化中文包
@@ -286,3 +301,18 @@ Filename: ./deb/com.nightsnowlin.cydown_6.9.7_iphoneos-arm.deb
 Size: 1547190
 MD5sum: d0c0da957f498b2ef4f2ef4dc543c241
 Section: Tweaks
+
+Package: com.nightsnowlin.ultrasound.tw
+Conflicts: com.nightsnowlin.ultrasound.tw
+Name: Ultrasound 繁化中文包
+Version: 1.2.5
+Architecture: iphoneos-arm
+Description: Ultrasound 繁化中文包 夜雪鈴製作,請先安裝 Ultrasound
+Depiction: https://nightsnowlin.github.io/repo/depictions/?p=com.nightsnowlin.ultrasound.tw
+Depends: firmware (>=11.0)
+Maintainer: NightSnowLin <yenhank0531@gmail.com>
+Author: NightSnowLin <yenhank0531@gmail.com>
+Filename: ./deb/com.nightsnowlin.ultrasound.tw_1.2.5_iphoneos-arm.deb
+Size: 1830
+MD5sum: ef2e925b399ceb7b5d84ad0d6784412d
+Section: Localization
