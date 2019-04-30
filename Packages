@@ -9,6 +9,7 @@ Maintainer: NightSnowLin <yenhank0531@gmail.com>
 Author: NightSnowLin <yenhank0531@gmail.com>
 Size: 2460
 MD5sum: be81b1cfd01508db0a8f7f68d22d54b0
+SHA256: 34dbb0e7b583ce9f01ead84c4117d37fd4888c87fbb574c76fc7dde05c42f5e8
 Section: Localization
 
 Package: nightsnowlin.Palette
@@ -22,6 +23,7 @@ Maintainer: NightSnowLin <yenhank0531@gmail.com>
 Author: NightSnowLin <yenhank0531@gmail.com>
 Size: 1914
 MD5sum: 52642d2c9a92367f2ce13ab1a4557bb9
+SHA256: 7e3fe8728810f53a512c5c7dde1725934295f464896fe2b0e43618f7a849bc05
 Section: Localization
 
 Package: com.nightsnowlin.batterypercentx
@@ -35,6 +37,7 @@ Maintainer: NightSnowLin <yenhank0531@gmail.com>
 Author: NightSnowLin <yenhank0531@gmail.com>
 Size: 1760
 MD5sum: 1e88dadc0d3a366cb9989aefe0b9d9b9
+SHA256: a1b5f2192166a683811671d05dff28e1b91bb0d6faf8494af182ab2c6c47cf19
 Section: Localization
 
 Package: com.nightsnowlin.batterypercentx
@@ -48,6 +51,7 @@ Maintainer: NightSnowLin <yenhank0531@gmail.com>
 Author: NightSnowLin <yenhank0531@gmail.com>
 Size: 1758
 MD5sum: 4c1cac7bc50f5d22146374d5ef752b72
+SHA256: 333adb9b542c1005fe78534d6acadc77a658ac0d969de912fad3be3a51394319
 Section: Localization
 
 Package: com.nightsnowlin.bytafont3
@@ -62,6 +66,7 @@ Maintainer: NightSnowLin <yenhank0531@gmail.com>
 Author: NightSnowLin <yenhank0531@gmail.com>
 Size: 1033994
 MD5sum: fded4d39ee56329b033eee850e0355cb
+SHA256: 0e5cfbf7371b7d6fac22d2e4c051c832563283cb759a0dfea8e9187322a94684
 Section: System
 
 Package: com.nightsnowlin.carrierizer
@@ -77,6 +82,7 @@ Maintainer: NightSnowLin <yenhank0531@gmail.com>
 Author: NightSnowLin <yenhank0531@gmail.com>
 Size: 1776
 MD5sum: b4ab3ec3931c4fa6f2e10f72d30d1cfc
+SHA256: 66d97e97d09f0538a2fe1d1421beebae07a3dc0b3cd598568e387dd7aa36adc3
 Section: Localization
 
 Package: com.nightsnowlin.neptune
@@ -91,6 +97,7 @@ Section: Tweaks
 Version: 1.0.0-15
 Size: 36994
 MD5sum: 26ddb7c2e4f1acc57688b84fc7b1f356
+SHA256: eca89f63a238c557bcf370116c6008475c16ed5ec8b744a18f9d90a8dafbf103
 Installed-Size: 260
 
 Package: com.nightsnowlin.neptune
@@ -105,6 +112,7 @@ Section: Tweaks
 Version: 1.0.0-22
 Size: 37070
 MD5sum: 1d6a2fc92e0f02ad918d64954ee3e3d0
+SHA256: d66bb506f1619ad55ae0dbf75f1f3e57c98ed5493c67d3241f2fa02b35840418
 Installed-Size: 260
 
 Package: com.nightsnowlin.callbarxs.tw
@@ -120,6 +128,7 @@ Maintainer: NightSnowLin <yenhank0531@gmail.com>
 Author: NightSnowLin <yenhank0531@gmail.com>
 Size: 2136
 MD5sum: fe8a39ca40904f2c3d27f8c758a148ce
+SHA256: 7df3d0b3d519ae4dc7602bce8b542555945aac1eaf992ad89586050700f5add5
 Section: Localization
 
 Package: com.nightsnowlin.callbarxs.tw
@@ -135,6 +144,7 @@ Maintainer: NightSnowLin ,KevinLin(敬貿)<yenhank0531@gmail.com>
 Author: NightSnowLin ,KevinLin(敬貿) <yenhank0531@gmail.com>
 Size: 2648
 MD5sum: 715704baa1f3bd924854720a7d53b919
+SHA256: 53c21d569227ced383d2829d2f6a56356f9e726181980b97eeab5250df7df289
 Section: Localization
 
 Package: com.nightsnowlin.callbarxs.tw
@@ -150,6 +160,7 @@ Maintainer: NightSnowLin ,KevinLin(敬貿)<yenhank0531@gmail.com>
 Author: NightSnowLin ,KevinLin(敬貿) <yenhank0531@gmail.com>
 Size: 2650
 MD5sum: 225debb49611bd00b76e098f0da2c11b
+SHA256: 9de08111eb9adb0b223e313cc9ba49fcb61a8801e34d8f68994c88dc1b9af1c5
 Section: Localization
 
 Package: com.nightsnowlin.callbarxs.tw
@@ -165,6 +176,7 @@ Maintainer: NightSnowLin ,KevinLin(敬貿)<yenhank0531@gmail.com>
 Author: NightSnowLin ,KevinLin(敬貿) <yenhank0531@gmail.com>
 Size: 2646
 MD5sum: 3433da8e651d72f2c98d206c97b23880
+SHA256: 7e03834979da59a3ae6f44456ef47b2ac01f70969dc85fbb052f45b67baf2b0f
 Section: Localization
 
 Package: com.nightsnowlin.audiorecorderxs.tw
@@ -180,6 +192,7 @@ Maintainer: NightSnowLin <yenhank0531@gmail.com>
 Author: NightSnowLin <yenhank0531@gmail.com>
 Size: 4164
 MD5sum: 006372544263ce6b7f7218690225e158
+SHA256: 606be555f8d4a9095b84e476e25042405bda59e6940b210816b4dc515eb7e939
 Section: Localization
 
 Package: com.nightsnowlin.perfecttimexs.tw
@@ -195,6 +208,7 @@ Maintainer: NightSnowLin <yenhank0531@gmail.com>
 Author: NightSnowLin <yenhank0531@gmail.com>
 Size: 1612
 MD5sum: a4519334cd39900b5eba3f65304d7223
+SHA256: 71b9900f67fa1b65a0ade6e92d6cb15e7d521fd6e6b5b44d3d1ff210b61b09a3
 Section: Localization
 
 Package: com.nightsnowlin.bazzi.tw
@@ -210,6 +224,7 @@ Maintainer: NightSnowLin <yenhank0531@gmail.com>
 Author: NightSnowLin <yenhank0531@gmail.com>
 Size: 1256
 MD5sum: 50208c204d634a89fc30688998e19ae6
+SHA256: 87d27b0be28f7fd8f1100d0dea0e7cf3617d6d03caec5b159d5c1f2e7f54c9b9
 Section: Localization
 
 Package: com.nightsnowlin.ioshelper12.tw
@@ -225,6 +240,7 @@ Author: NightSnowLin <yenhank0531@gmail.com>
 Filename: ./deb/com.nightsnowlin.ioshelper12.tw-1.4.0.deb
 Size: 3932
 MD5sum: cb44b336369243ef2839cdce00ae5080
+SHA256: b6886d010b97790998826dffd791c2a57a15920d4be3dad3a960497af677a7ad
 Section: Localization
 
 Package: com.nightsnowlin.ioshelper12.tw
@@ -240,6 +256,7 @@ Author: NightSnowLin <yenhank0531@gmail.com>
 Filename: ./deb/com.nightsnowlin.ioshelper12.tw_1.4.1_iphoneos-arm.deb
 Size: 4200
 MD5sum: 3b402d0f7b056143cf7acd0b91f26f36
+SHA256: dea6a2a83ffa020ac0898d59127313d2a8bba998f92072390826ce95ae272465
 Section: Localization
 
 Package: com.nightsnowlin.jellyfish.tw
@@ -255,6 +272,7 @@ Author: NightSnowLin <yenhank0531@gmail.com>
 Filename: ./deb/com.nightsnowlin.jellyfish.tw-1.1.2.deb
 Size: 1408
 MD5sum: 534fabd3410ae91cdc5b117a8a7ce548
+SHA256: bb715ad61d10c7b57cc558f27616033713892f173f39bfce9b24961b87f99e48
 Section: Localization
 
 Package: com.nightsnowlin.showtouch
@@ -270,6 +288,7 @@ Author: NightSnowLin <yenhank0531@gmail.com>
 Filename: ./deb/com.nightsnowlin.showtouch_1.0.3-1_iphoneos-arm.deb
 Size: 109724
 MD5sum: 28371e1a5500312bc430d7ff0d1e0a5b
+SHA256: 7c99421775c5ec7f293b0c1e52c735db25d6aa8332fb176612697aca0570b75a
 Section: Tweaks
 
 Package: com.nightsnowlin.sileoicon
@@ -285,6 +304,7 @@ Author: NightSnowLin <yenhank0531@gmail.com>
 Filename: ./deb/com.nightsnowlin.sileoicon_1.0_iphoneos-arm.deb
 Size: 12966
 MD5sum: 05a4fed7814ea4c8321b9963c38701ee
+SHA256: 1167ecf6184db58c7f761739a49a96f139c5f61714b835a7ce4c2fa069eb12ad
 Section: Themes
 
 Package: com.nightsnowlin.cydown
@@ -300,6 +320,7 @@ Author: julioverne
 Filename: ./deb/com.nightsnowlin.cydown_6.9.7_iphoneos-arm.deb
 Size: 1547190
 MD5sum: d0c0da957f498b2ef4f2ef4dc543c241
+SHA256: 8ba24775a1b3697f986825a0c2f685299933c33b803028975551234b47d101f5
 Section: Tweaks
 
 Package: com.nightsnowlin.ultrasound.tw
@@ -315,4 +336,5 @@ Author: NightSnowLin <yenhank0531@gmail.com>
 Filename: ./deb/com.nightsnowlin.ultrasound.tw_1.2.5_iphoneos-arm.deb
 Size: 1830
 MD5sum: ef2e925b399ceb7b5d84ad0d6784412d
+SHA256: 05ba4229d64449279876bf47ba5baaff0631a374fd61b48622937fb0d308b294
 Section: Localization
