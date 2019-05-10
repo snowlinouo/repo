@@ -5,7 +5,7 @@
 
 &nbsp;
 
-Fb - https://www.facebook.com/NightSnowOuO/
+FB - https://www.facebook.com/NightSnowOuO/
 
 Discord - https://discord.gg/gNdbzRe
 
