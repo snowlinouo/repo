@@ -76,6 +76,7 @@ Architecture: iphoneos-arm
 Depends: firmware (>=11.0)
 Description: Carrierizer 繁化中文包 夜雪鈴製作,請先安裝 Carrierizer
 Depiction:https://nightsnowlin.github.io/repo/depictions/?p=com.nightsnowlin.carrierizer.tw
+SileoDepiction: https://nightsnowlin.github.io/repo/sileodepictions/com.nightsnowlin.carrierizer.tw/depiction.json
 Filename: ./deb/com.nightsnowlin.carrierizer-1.0.2.deb
 Conflicts: com.nightsnowlin.carrierizer
 Maintainer: NightSnowLin <yenhank0531@gmail.com>
@@ -122,6 +123,7 @@ Architecture: iphoneos-arm
 Depends: firmware (>=11.0)
 Description: CallBar XS 繁化中文包 夜雪鈴製作,請先安裝 CallBar XS
 Depiction: https://nightsnowlin.github.io/repo/depictions/?p=com.nightsnowlin.callbarxs.tw
+SileoDepiction: https://nightsnowlin.github.io/repo/sileodepictions/com.nightsnowlin.callbarxs.tw/depiction.json
 Filename: ./deb/com.nightsnowlin.callbarxs.tw-2.1-14.deb
 Conflicts: com.nightsnowlin.callbarxs.tw
 Maintainer: NightSnowLin <yenhank0531@gmail.com>
@@ -138,6 +140,7 @@ Architecture: iphoneos-arm
 Depends: firmware (>=11.0)
 Description: CallBar XS 繁化中文包 夜雪鈴製作,請先安裝 CallBar XS
 Depiction: https://nightsnowlin.github.io/repo/depictions/?p=com.nightsnowlin.callbarxs.tw
+SileoDepiction: https://nightsnowlin.github.io/repo/sileodepictions/com.nightsnowlin.callbarxs.tw/depiction.json
 Filename: ./deb/com.nightsnowlin.callbarxs.tw-2.1-14.1.deb
 Conflicts: com.nightsnowlin.callbarxs.tw
 Maintainer: NightSnowLin ,KevinLin(敬貿)<yenhank0531@gmail.com>
@@ -154,6 +157,7 @@ Architecture: iphoneos-arm
 Depends: firmware (>=11.0)
 Description: CallBar XS 繁化中文包 夜雪鈴製作,請先安裝 CallBar XS
 Depiction: https://nightsnowlin.github.io/repo/depictions/?p=com.nightsnowlin.callbarxs.tw
+SileoDepiction: https://nightsnowlin.github.io/repo/sileodepictions/com.nightsnowlin.callbarxs.tw/depiction.json
 Filename: ./deb/com.nightsnowlin.callbarxs.tw-2.1-14.2.deb
 Conflicts: com.nightsnowlin.callbarxs.tw
 Maintainer: NightSnowLin ,KevinLin(敬貿)<yenhank0531@gmail.com>
@@ -170,6 +174,7 @@ Architecture: iphoneos-arm
 Depends: firmware (>=11.0)
 Description: CallBar XS 繁化中文包 夜雪鈴製作,請先安裝 CallBar XS
 Depiction: https://nightsnowlin.github.io/repo/depictions/?p=com.nightsnowlin.callbarxs.tw
+SileoDepiction: https://nightsnowlin.github.io/repo/sileodepictions/com.nightsnowlin.callbarxs.tw/depiction.json
 Filename: ./deb/com.nightsnowlin.callbarxs.tw-2.1-22.deb
 Conflicts: com.nightsnowlin.callbarxs.tw
 Maintainer: NightSnowLin ,KevinLin(敬貿)<yenhank0531@gmail.com>
@@ -186,6 +191,7 @@ Architecture: iphoneos-arm
 Depends: firmware (>=11.0)
 Description: AudioRecorder XS 繁化中文包 夜雪鈴製作,請先安裝 AudioRecorder XS
 Depiction: https://nightsnowlin.github.io/repo/depictions/?p=com.nightsnowlin.audiorecorderxs.tw
+SileoDepiction: https://nightsnowlin.github.io/repo/sileodepictions/com.nightsnowlin.audiorecorderxs.tw/depiction.json
 Filename: ./deb/com.nightsnowlin.audiorecorderxs.tw-3.0-74.deb
 Conflicts: com.nightsnowlin.audiorecorderxs.tw
 Maintainer: NightSnowLin <yenhank0531@gmail.com>
@@ -202,6 +208,7 @@ Architecture: iphoneos-arm
 Depends: firmware (>=11.0)
 Description: PerfectTime XS 繁化中文包 夜雪鈴製作,請先安裝 PerfectTime XS
 Depiction: https://nightsnowlin.github.io/repo/depictions/?p=com.nightsnowlin.perfecttimexs.tw
+SileoDepiction: https://nightsnowlin.github.io/repo/sileodepictions/com.nightsnowlin.perfecttimexs.tw/depiction.json
 Filename: ./deb/com.nightsnowlin.perfecttimexs.tw-0.1.3-1.deb
 Conflicts: com.nightsnowlin.perfecttimexs.tw
 Maintainer: NightSnowLin <yenhank0531@gmail.com>
@@ -218,6 +225,7 @@ Architecture: iphoneos-arm
 Depends: firmware (>=11.0)
 Description: Bazzi 繁化中文包 夜雪鈴製作,請先安裝 Bazzi
 Depiction: https://nightsnowlin.github.io/repo/depictions/?p=com.nightsnowlin.bazzi.tw
+SileoDepiction: https://nightsnowlin.github.io/repo/sileodepictions/com.nightsnowlin.bazzi.tw/depiction.json
 Filename: ./deb/com.nightsnowlin.bazzi.tw-2.0.1.deb
 Conflicts: com.nightsnowlin.bazzi.tw
 Maintainer: NightSnowLin <yenhank0531@gmail.com>
@@ -234,6 +242,7 @@ Version: 1.4.0
 Architecture: iphoneos-arm
 Description: iOS Helper 12 繁化中文包 夜雪鈴製作,請先安裝 iOS Helper 12
 Depiction: https://nightsnowlin.github.io/repo/depictions/?p=com.nightsnowlin.ioshelper12.tw
+SileoDepiction: https://nightsnowlin.github.io/repo/sileodepictions/com.nightsnowlin.ioshelper12.tw/depiction.json
 Depends: firmware (>=11.0)
 Maintainer: NightSnowLin <yenhank0531@gmail.com>
 Author: NightSnowLin <yenhank0531@gmail.com>
@@ -250,6 +259,7 @@ Version: 1.4.1
 Architecture: iphoneos-arm
 Description: iOS Helper 12 繁化中文包 夜雪鈴製作,請先安裝 iOS Helper 12
 Depiction: https://nightsnowlin.github.io/repo/depictions/?p=com.nightsnowlin.ioshelper12.tw
+SileoDepiction: https://nightsnowlin.github.io/repo/sileodepictions/com.nightsnowlin.ioshelper12.tw/depiction.json
 Depends: firmware (>=11.0)
 Maintainer: NightSnowLin <yenhank0531@gmail.com>
 Author: NightSnowLin <yenhank0531@gmail.com>
@@ -266,6 +276,7 @@ Version: 1.1.2
 Architecture: iphoneos-arm
 Description: JellyFish 繁化中文包 夜雪鈴製作,請先安裝 JellyFish
 Depiction: https://nightsnowlin.github.io/repo/depictions/?p=com.nightsnowlin.jellyfish.tw
+SileoDepiction: https://nightsnowlin.github.io/repo/sileodepictions/com.nightsnowlin.jellyfish.tw/depiction.json
 Depends: firmware (>=11.0)
 Maintainer: NightSnowLin <yenhank0531@gmail.com>
 Author: NightSnowLin <yenhank0531@gmail.com>
@@ -282,6 +293,7 @@ Version: 1.0.3-1
 Architecture: iphoneos-arm
 Description: Shows where you touch the screen ,ShowTouch 夜雪鈴重新打包
 Depiction: https://nightsnowlin.github.io/repo/depictions/?p=com.nightsnowlin.showtouch
+SileoDepiction: https://nightsnowlin.github.io/repo/sileodepictions/com.nightsnowlin.showtouch/depiction.json
 Depends: firmware (>=11.0), mobilesubstrate, org.thebigboss.libcolorpicker
 Maintainer: NightSnowLin <yenhank0531@gmail.com>
 Author: NightSnowLin <yenhank0531@gmail.com>
@@ -298,6 +310,7 @@ Version: 1.0
 Architecture: iphoneos-arm
 Description: Sileo Icon 主題 夜雪鈴製作
 Depiction: https://nightsnowlin.github.io/repo/depictions/?p=com.nightsnowlin.sileoicon
+SileoDepiction: https://nightsnowlin.github.io/repo/sileodepictions/com.nightsnowlin.sileoicon/depiction.json
 Depends: firmware (>=11.0), com.spark.snowboard | com.anemonetheming.anemone
 Maintainer: NightSnowLin <yenhank0531@gmail.com>
 Author: NightSnowLin <yenhank0531@gmail.com>
@@ -314,6 +327,7 @@ Version: 6.9.7
 Architecture: iphoneos-arm
 Description: Cydia Download Manager & Extra Features!
 Depiction: https://nightsnowlin.github.io/repo/depictions/?p=com.nightsnowlin.cydown
+SileoDepiction: https://nightsnowlin.github.io/repo/sileodepictions/com.nightsnowlin.cydown/depiction.json
 Depends: cydia, coreutils-bin, coreutils, apt7, firmware (<< 8.3) | ldid (>= 1:1.2.1), mobilesubstrate, preferenceloader
 Maintainer: Xarold <contact@xarold.com>
 Author: julioverne 
@@ -330,6 +344,7 @@ Version: 1.2.5
 Architecture: iphoneos-arm
 Description: Ultrasound 繁化中文包 夜雪鈴製作,請先安裝 Ultrasound
 Depiction: https://nightsnowlin.github.io/repo/depictions/?p=com.nightsnowlin.ultrasound.tw
+SileoDepiction: https://nightsnowlin.github.io/repo/sileodepictions/com.nightsnowlin.ultrasound.tw/depiction.json
 Depends: firmware (>=11.0)
 Maintainer: NightSnowLin <yenhank0531@gmail.com>
 Author: NightSnowLin <yenhank0531@gmail.com>

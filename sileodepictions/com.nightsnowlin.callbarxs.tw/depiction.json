@@ -1,0 +1,112 @@
+{
+	"minVersion": "0.1",
+	"tintColor": "#14caca",
+	"tabs": [
+		{
+			"tabname": "詳情",
+			"views": [
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "CallBar XS 繁化中文包 夜雪鈴製作\n請先安裝 CallBar XS"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "最新版本",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "版本",
+					"text": "2.1-22",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "系統支援",
+					"text": "iOS 12",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "更新日期",
+					"text": "2019-03-24",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "價錢",
+					"text": "FREE",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "開發人員",
+					"text": "NightSnowLin",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Github",
+					"action": "https://github.com/nightsnowlin",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "更新紀錄",
+			"views": [
+				{
+					"title": "2.1-22",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "翻譯再次更新",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "2.1-14.2",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "部分文字修正",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"title": "2.1-14.1",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "補翻譯",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+								{
+					"title": "2.1-14",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "新版本推出",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}

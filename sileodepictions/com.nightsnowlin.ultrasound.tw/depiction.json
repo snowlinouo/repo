@@ -1,0 +1,84 @@
+{
+	"minVersion": "0.1",
+	"tintColor": "#14caca",
+	"tabs": [
+		{
+			"tabname": "詳情",
+			"views": [
+				{
+					"class": "DepictionMarkdownView",
+					"markdown": "Ultrasound 繁化中文包 夜雪鈴製作\n請先安裝 Ultrasound"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "最新版本",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "版本",
+					"text": "1.2.5",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "系統支援",
+					"text": "iOS 12",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "更新日期",
+					"text": "2019-04-14",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "價錢",
+					"text": "FREE",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "開發人員",
+					"text": "NightSnowLin",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Github",
+					"action": "https://github.com/nightsnowlin",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"spacing": 16,
+					"class": "DepictionSpacerView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "更新紀錄",
+			"views": [
+				{
+					"title": "1.2.5",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "新版本推出",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">更新日期 2019-04-14</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}
