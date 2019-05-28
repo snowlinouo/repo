@@ -6,6 +6,21 @@
 			"tabname": "詳情",
 			"views": [
 				{
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://nightsnowlin.github.io/repo/gh-pages/depictions/com.struggling.darkify/screenshots/image0.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://nightsnowlin.github.io/repo/gh-pages/depictions/com.struggling.darkify/screenshots/image1.png"
+                        }
+                    ],
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{170, 350.4533333333333}"
+                },
+				{
                     "useBoldText": true,
                     "title": "CallBar XS 繁化中文包介绍",
                     "useBottomMargin": false,
