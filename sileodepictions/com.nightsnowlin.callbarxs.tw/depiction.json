@@ -6,21 +6,6 @@
 			"tabname": "詳情",
 			"views": [
 				{
-                    "screenshots": [
-                        {
-                            "accessibilityText": "Screenshot",
-                            "url": "https://nightsnowlin.github.io/repo/gh-pages/depictions/com.struggling.darkify/screenshots/image0.png"
-                        },
-                        {
-                            "accessibilityText": "Screenshot",
-                            "url": "https://nightsnowlin.github.io/repo/gh-pages/depictions/com.struggling.darkify/screenshots/image1.png"
-                        }
-                    ],
-                    "class": "DepictionScreenshotsView",
-                    "itemCornerRadius": 6,
-                    "itemSize": "{170, 350.4533333333333}"
-                },
-				{
                     "useBoldText": true,
                     "title": "CallBar XS 繁化中文包介绍",
                     "useBottomMargin": false,
@@ -31,6 +16,21 @@
 					"class": "DepictionMarkdownView",
 					"markdown": "CallBar XS 繁化中文包 夜雪鈴製作<br>請先安裝 CallBar XS"
 				},
+				{
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://raw.githubusercontent.com/nightsnowlin/repo/gh-pages/sileodepictions/com.nightsnowlin.callbarxs.tw/screenshots/image0.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://raw.githubusercontent.com/nightsnowlin/repo/gh-pages/sileodepictions/com.nightsnowlin.callbarxs.tw/screenshots/image1.png"
+                        }
+                    ],
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{170, 350.4533333333333}"
+                },
 				{
 					"class": "DepictionSeparatorView"
 				},
