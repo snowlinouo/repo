@@ -7,7 +7,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Cydia Download Manager & Extra Features!\nCyDown 夜雪鈴重新打包"
+					"markdown": "Cydia Download Manager & Extra Features!<br>CyDown 夜雪鈴重新打包"
 				},
 				{
 					"class": "DepictionSeparatorView"

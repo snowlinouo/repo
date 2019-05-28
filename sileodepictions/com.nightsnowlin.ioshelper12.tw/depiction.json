@@ -7,7 +7,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "iOS Helper 12 繁化中文包 夜雪鈴製作\n請先安裝 iOS Helper 12"
+					"markdown": "iOS Helper 12 繁化中文包 夜雪鈴製作<br>請先安裝 iOS Helper 12"
 				},
 				{
 					"class": "DepictionSeparatorView"

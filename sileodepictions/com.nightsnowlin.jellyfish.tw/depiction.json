@@ -7,7 +7,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "JellyFish 繁化中文包 夜雪鈴製作\n請先安裝 JellyFish"
+					"markdown": "JellyFish 繁化中文包 夜雪鈴製作<br>請先安裝 JellyFish"
 				},
 				{
 					"class": "DepictionSeparatorView"

@@ -7,7 +7,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Shows where you touch the screen \nShowTouch 夜雪鈴重新打包"
+					"markdown": "Shows where you touch the screen<br>ShowTouch 夜雪鈴重新打包"
 				},
 				{
 					"class": "DepictionSeparatorView"

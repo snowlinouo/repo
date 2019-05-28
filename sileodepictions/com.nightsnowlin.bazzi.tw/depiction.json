@@ -7,7 +7,7 @@
 			"views": [
 				{
 					"class": "DepictionMarkdownView",
-					"markdown": "Bazzi 繁化中文包 夜雪鈴製作\n請先安裝 Bazzi"
+					"markdown": "Bazzi 繁化中文包 夜雪鈴製作<br>請先安裝 Bazzi"
 				},
 				{
 					"class": "DepictionSeparatorView"
