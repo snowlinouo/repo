@@ -6,6 +6,13 @@
 			"tabname": "詳情",
 			"views": [
 				{
+                    "useBoldText": true,
+                    "title": "ShowTouch 介绍",
+                    "useBottomMargin": false,
+                    "class": "DepictionHeaderView"
+                },
+				{
+					"useSpacing": true,
 					"class": "DepictionMarkdownView",
 					"markdown": "Shows where you touch the screen<br>ShowTouch 夜雪鈴重新打包"
 				},
@@ -40,6 +47,21 @@
 					"title": "開發人員",
 					"text": "NightSnowLin",
 					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Facebook",
+					"action": "https://www.facebook.com/NightSnowOuO/",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Twitter",
+					"action": "https://twitter.com/nightsnowlin",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Discord",
+					"action": "https://discord.gg/gNdbzRe",
+					"class": "DepictionTableButtonView"
 				},
 				{
 					"title": "Github",
