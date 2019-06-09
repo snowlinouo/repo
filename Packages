@@ -379,11 +379,11 @@ Architecture: iphoneos-arm
 Description: An awesome MobileSubstrate tweak! ,iOS Helper 12 夜雪鈴重新打包
 Depiction: https://nightsnowlin.github.io/repo/depictions/?p=com.nightsnowlin.ioshelper12
 SileoDepiction: https://nightsnowlin.github.io/repo/sileodepictions/com.nightsnowlin.ioshelper12/depiction.json
-Depends: firmware (>=11.0)
+Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Maintainer: iBreak
 Author: iBreak
 Filename: ./deb/com.nightsnowlin.ioshelper12_2.0_iphoneos-arm.deb
-Size: 218906
-MD5sum: 6fcabc51b18d71a8ded4e4804e27a741
-SHA256: 9722f70917797742cc5464d5a1b0a0ac35c1415fed03ed1019970ba96cc931fb
+Size: 218966
+MD5sum: 10af260d8684924ede02ec70884491db
+SHA256: fb7f8a8e36809d8c91ad16c8d32e598efe9221cbfcedc1f4f1bba694a8316ac8
 Section: Tweaks
