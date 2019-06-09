@@ -382,8 +382,9 @@ SileoDepiction: https://nightsnowlin.github.io/repo/sileodepictions/com.nightsno
 Depends: firmware (>= 12.0), mobilesubstrate, preferenceloader
 Maintainer: iBreak
 Author: iBreak
+Installed-Size: 980
 Filename: ./deb/com.nightsnowlin.ioshelper12_2.0_iphoneos-arm.deb
-Size: 218966
-MD5sum: 10af260d8684924ede02ec70884491db
-SHA256: fb7f8a8e36809d8c91ad16c8d32e598efe9221cbfcedc1f4f1bba694a8316ac8
+Size: 218976
+MD5sum: c7180335589a507a36b3995ba1a04a48
+SHA256: cf73dacffdd007ee25a8d361a7db5ba9bf217fe97cbff7e8e12e80bcda71f609
 Section: Tweaks
