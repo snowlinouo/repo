@@ -269,6 +269,23 @@ MD5sum: 3b402d0f7b056143cf7acd0b91f26f36
 SHA256: dea6a2a83ffa020ac0898d59127313d2a8bba998f92072390826ce95ae272465
 Section: Localization
 
+Package: com.nightsnowlin.ioshelper12.tw
+Conflicts: com.nightsnowlin.ioshelper12.tw
+Name: iOS Helper 12 繁化中文包
+Version: 2.0
+Architecture: iphoneos-arm
+Description: iOS Helper 12 繁化中文包 夜雪鈴製作,請先安裝 iOS Helper 12
+Depiction: https://nightsnowlin.github.io/repo/depictions/?p=com.nightsnowlin.ioshelper12.tw
+SileoDepiction: https://nightsnowlin.github.io/repo/sileodepictions/com.nightsnowlin.ioshelper12.tw/depiction.json
+Depends: firmware (>=11.0)
+Maintainer: NightSnowLin <yenhank0531@gmail.com>
+Author: NightSnowLin <yenhank0531@gmail.com>
+Filename: ./deb/com.nightsnowlin.ioshelper12.tw_2.0_iphoneos-arm.deb
+Size: 4436
+MD5sum: 78bb1d0da0e0a26aa962678c12525859
+SHA256: 443278982d40e506505b0ee06bd0c74f00289fbc7153dcdf18954d0b1fc96188
+Section: Localization
+
 Package: com.nightsnowlin.jellyfish.tw
 Conflicts: com.nightsnowlin.jellyfish.tw
 Name: JellyFish 繁化中文包
@@ -353,3 +370,20 @@ Size: 1830
 MD5sum: ef2e925b399ceb7b5d84ad0d6784412d
 SHA256: 05ba4229d64449279876bf47ba5baaff0631a374fd61b48622937fb0d308b294
 Section: Localization
+
+Package: com.nightsnowlin.ioshelper12
+Conflicts: com.nightsnowlin.ioshelper12
+Name: iOS Helper 12
+Version: 2.0
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak! ,iOS Helper 12 夜雪鈴重新打包
+Depiction: https://nightsnowlin.github.io/repo/depictions/?p=com.nightsnowlin.ioshelper12
+SileoDepiction: https://nightsnowlin.github.io/repo/sileodepictions/com.nightsnowlin.ioshelper12/depiction.json
+Depends: firmware (>=11.0)
+Maintainer: iBreak
+Author: iBreak
+Filename: ./deb/com.nightsnowlin.ioshelper12_2.0_iphoneos-arm.deb
+Size: 218906
+MD5sum: 6fcabc51b18d71a8ded4e4804e27a741
+SHA256: 9722f70917797742cc5464d5a1b0a0ac35c1415fed03ed1019970ba96cc931fb
+Section: Tweaks

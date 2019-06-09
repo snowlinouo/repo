@@ -7,14 +7,14 @@
 			"views": [
 				{
                     "useBoldText": true,
-                    "title": "iOS Helper 12 繁化中文包介绍",
+                    "title": "iOS Helper 12",
                     "useBottomMargin": false,
                     "class": "DepictionHeaderView"
                 },
 				{
 					"useSpacing": true,
 					"class": "DepictionMarkdownView",
-					"markdown": "iOS Helper 12 繁化中文包 夜雪鈴製作<br>請先安裝 iOS Helper 12"
+					"markdown": "An awesome MobileSubstrate tweak! <br>iOS Helper 12 夜雪鈴重新打包"
 				},
 				{
 					"class": "DepictionSeparatorView"
@@ -45,7 +45,7 @@
 				},
 				{
 					"title": "開發人員",
-					"text": "NightSnowLin",
+					"text": "iBreak",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -89,44 +89,12 @@
 					"class": "DepictionSubheaderView"
 				},
 				{
-					"markdown": "新增翻譯",
+					"markdown": "原作備份包",
 					"useSpacing": false,
 					"class": "DepictionMarkdownView"
 				},
 				{
 					"markdown": "<small style=\"color: #999; margin-top: -8px;\">更新日期 2019-06-09</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"title": "1.4.1",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "新增翻譯",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">更新日期 2019-04-14</small>",
-					"useRawFormat": true,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"title": "1.4.0",
-					"useBoldText": true,
-					"useBottomMargin": true,
-					"class": "DepictionSubheaderView"
-				},
-				{
-					"markdown": "新版本推出",
-					"useSpacing": false,
-					"class": "DepictionMarkdownView"
-				},
-				{
-					"markdown": "<small style=\"color: #999; margin-top: -8px;\">更新日期 2019-04-08</small>",
 					"useRawFormat": true,
 					"class": "DepictionMarkdownView"
 				}

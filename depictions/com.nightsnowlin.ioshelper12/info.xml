@@ -1,6 +1,6 @@
 <package>
-	<id>com.nightsnowlin.ioshelper12.tw</id>
-	<name>iOS Helper 12 繁化中文包</name>
+	<id>com.nightsnowlin.ioshelper12</id>
+	<name>iOS Helper 12</name>
 	<version>2.0</version>
 	<compatibility>
 		<firmware>
@@ -15,15 +15,15 @@
 	<descriptionlist>
 		<description>
         <![CDATA[
-		iOS Helper 12 繁化中文包 夜雪鈴製作
+		An awesome MobileSubstrate tweak! 
 		<br/>
-		請先安裝 iOS Helper 12
+		iOS Helper 12 夜雪鈴重新打包
 		]]>
 		</description>
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>新增翻譯</change>
+		<change>原作備份包</change>
 	</changelog>
 	<links></links>
 </package>
