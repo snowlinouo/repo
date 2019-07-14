@@ -87,7 +87,24 @@
                     "class": "DepictionButtonView",
                     "text":"夜雪鈴的雪花世界",
                     "action":"http://nightsnowlin.iwebs.tw"
-                }
+                },
+				{	
+					"markdown": "<small style=\"color: #aaa; font-size: 8pt;\">All prices shown are in American Dollars (USD).</small><style>body { text-align: center; }</style>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"URL": "https://assets.dynastic.co/brand/img/footer@2x.png",
+					"width": 44,
+					"height": 27,
+					"alignment": 1,
+					"cornerRadius": 0,
+					"class": "DepictionImageView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
 			],
 			"class": "DepictionStackView"
 		},
