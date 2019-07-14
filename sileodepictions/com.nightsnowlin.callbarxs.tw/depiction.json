@@ -84,13 +84,10 @@
 					"class": "DepictionTableButtonView"
 				},
 				{
-					"spacing": 16,
-					"class": "DepictionSpacerView"
-				},
-				{
-					"spacing": 20,
-					"class": "DepictionSpacerView"
-				}
+                    "class": "DepictionButtonView",
+                    "text":"夜雪鈴的雪花世界",
+                    "action":"http://nightsnowlin.iwebs.tw"
+                }
 			],
 			"class": "DepictionStackView"
 		},
