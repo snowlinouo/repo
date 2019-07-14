@@ -303,6 +303,23 @@ MD5sum: 534fabd3410ae91cdc5b117a8a7ce548
 SHA256: bb715ad61d10c7b57cc558f27616033713892f173f39bfce9b24961b87f99e48
 Section: Localization
 
+Package: com.nightsnowlin.jellyfish.tw
+Conflicts: com.nightsnowlin.jellyfish.tw
+Name: JellyFish 繁化中文包
+Version: 1.2.1
+Architecture: iphoneos-arm
+Description: JellyFish 繁化中文包 夜雪鈴製作,請先安裝 JellyFish
+Depiction: https://nightsnowlin.github.io/repo/depictions/?p=com.nightsnowlin.jellyfish.tw
+SileoDepiction: https://nightsnowlin.github.io/repo/sileodepictions/com.nightsnowlin.jellyfish.tw/depiction.json
+Depends: firmware (>=11.0)
+Maintainer: NightSnowLin <yenhank0531@gmail.com>
+Author: NightSnowLin <yenhank0531@gmail.com>
+Filename: ./deb/com.nightsnowlin.jellyfish.tw_1.2.1_iphoneos-arm.deb
+Size: 1616
+MD5sum: 507874bb34c2f674481ecf685bdfdaa1
+SHA256: 878e6600f188f95cf96760d77338baea48f1826f451b8b0b90fd797a73565e55
+Section: Localization
+
 Package: com.nightsnowlin.showtouch
 Conflicts: com.nightsnowlin.showtouch
 Name: ShowTouch
