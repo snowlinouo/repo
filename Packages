@@ -417,7 +417,7 @@ SileoDepiction: https://nightsnowlin.github.io/repo/sileodepictions/com.nightsno
 Depends: firmware (>=11.0), com.spark.snowboard | com.anemonetheming.anemone
 Maintainer: NightSnowLin <yenhank0531@gmail.com>
 Author: NightSnowLin <yenhank0531@gmail.com>
-Filename: ./deb/com.nightsnowlin.sileo.tw_0.0.1_iphoneos-arm.deb
+Filename: ./deb/com.nightsnowlin.sileo.tw_1.0.0_iphoneos-arm.deb
 Size: 5648
 MD5sum: 0c660dd9fa7ecaf4d099c990730ebf22
 SHA256: f9362ac47ffa403e98dee3785c3f1fd8326b01c0a318d2f902672f4bd933dcce
