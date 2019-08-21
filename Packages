@@ -405,3 +405,20 @@ Size: 218976
 MD5sum: c7180335589a507a36b3995ba1a04a48
 SHA256: cf73dacffdd007ee25a8d361a7db5ba9bf217fe97cbff7e8e12e80bcda71f609
 Section: Tweaks
+
+Package: com.nightsnowlin.sileo.tw
+Conflicts: com.nightsnowlin.sileo.tw
+Name: Sileo 繁體中文化
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: 針對 Sileo 加入繁體中文化語系 夜雪鈴製作
+Depiction: https://nightsnowlin.github.io/repo/depictions/?p=com.nightsnowlin.sileo.tw
+SileoDepiction: https://nightsnowlin.github.io/repo/sileodepictions/com.nightsnowlin.sileo.tw/depiction.json
+Depends: firmware (>=11.0), com.spark.snowboard | com.anemonetheming.anemone
+Maintainer: NightSnowLin <yenhank0531@gmail.com>
+Author: NightSnowLin <yenhank0531@gmail.com>
+Filename: ./deb/com.nightsnowlin.sileo.tw_0.0.1_iphoneos-arm.deb
+Size: 5648
+MD5sum: 0c660dd9fa7ecaf4d099c990730ebf22
+SHA256: f9362ac47ffa403e98dee3785c3f1fd8326b01c0a318d2f902672f4bd933dcce
+Section: Localization

@@ -1,7 +1,7 @@
 <package>
 	<id>com.nightsnowlin.sileoicon</id>
-	<name>Sileo Icon 主題</name>
-	<version>1.0</version>
+	<name>Sileo 繁化中文包</name>
+	<version>1.0.0</version>
 	<compatibility>
 		<firmware>
 			<maxiOS>12.4</maxiOS>
@@ -15,7 +15,9 @@
 	<descriptionlist>
 		<description>
         <![CDATA[
-		Sileo Icon 主題 夜雪鈴製作
+		針對 Sileo 加入繁體中文化語系
+		<br/>
+		Sileo 繁體中文 夜雪鈴製作
 		]]>
 		</description>
 	</descriptionlist>
