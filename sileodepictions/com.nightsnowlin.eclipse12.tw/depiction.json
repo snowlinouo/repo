@@ -1,0 +1,120 @@
+{
+	"minVersion": "0.1",
+	"tintColor": "#14caca",
+	"tabs": [
+		{
+			"tabname": "詳情",
+			"views": [
+				{
+                    "useBoldText": true,
+                    "title": "Eclipse 12 繁化中文包介绍",
+                    "useBottomMargin": false,
+                    "class": "DepictionHeaderView"
+                },
+				{
+					"useSpacing": true,
+					"class": "DepictionMarkdownView",
+					"markdown": "Eclipse 12 繁化中文包 夜雪鈴製作"
+				},
+				{
+					"class": "DepictionSeparatorView"
+				},
+				{
+					"title": "版本詳情",
+					"class": "DepictionHeaderView"
+				},
+				{
+					"title": "版本",
+					"text": "1.0.0",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "系統支援",
+					"text": "iOS 11 ~ iOS 12",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "更新日期",
+					"text": "2019-08-22",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "價錢",
+					"text": "FREE",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "開發人員",
+					"text": "NightSnowLin",
+					"class": "DepictionTableTextView"
+				},
+				{
+					"title": "Facebook",
+					"action": "https://www.facebook.com/NightSnowOuO/",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Twitter",
+					"action": "https://twitter.com/nightsnowlin",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Discord",
+					"action": "https://discord.gg/gNdbzRe",
+					"class": "DepictionTableButtonView"
+				},
+				{
+					"title": "Github",
+					"action": "https://github.com/nightsnowlin",
+					"class": "DepictionTableButtonView"
+				},
+				{
+                    "class": "DepictionButtonView",
+                    "text":"夜雪鈴的雪花世界",
+                    "action":"http://nightsnowlin.iwebs.tw"
+                },
+				{	
+					"markdown": "<small style=\"color: #aaa; font-size: 8pt;\">NightSnowLin Repo.</small><style>body { text-align: center; }</style>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"URL": "https://raw.githubusercontent.com/nightsnowlin/repo/gh-pages/assets/Banners/Q%E7%89%88%E5%A4%A7%E9%A0%AD%E8%B2%BC%E5%A7%94%E8%A8%97(%E9%80%8F%E6%98%8E)_%E9%A6%AC%E8%B9%84%E7%B9%AA.png",
+					"width": 45,
+					"height": 45,
+					"alignment": 1,
+					"cornerRadius": 0,
+					"class": "DepictionImageView"
+				},
+				{
+					"spacing": 20,
+					"class": "DepictionSpacerView"
+				}
+			],
+			"class": "DepictionStackView"
+		},
+		{
+			"tabname": "更新紀錄",
+			"views": [
+				{
+					"title": "1.0.0",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "新版本推出",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">更新日期 2019-08-22</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				}
+			],
+			"class": "DepictionStackView"
+		}
+	],
+	"class": "DepictionTabView"
+}
