@@ -436,8 +436,8 @@ Maintainer: NightSnowLin <yenhank0531@gmail.com>
 Author: NightSnowLin <yenhank0531@gmail.com>
 Filename: ./deb/com.nightsnowlin.sileo.tw_1.0.1_iphoneos-arm.deb
 Size: 5856
-MD5sum: 817129c65b78abf0aad79e3b08006271
-SHA256: 1d6cedeeb5db225ee99a00a61c1a567b32db58838b092444543db92d168ab01f
+MD5sum: edd5d00540672d40857e28f0544f36ca
+SHA256: d4fae6831d348e74df449dc798f6aee50b8fb1b49e344a5b3185796b11975ce3
 Section: Localization
 
 Package: com.nightsnowlin.eclipse12.tw
