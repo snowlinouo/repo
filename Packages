@@ -423,6 +423,23 @@ MD5sum: 0c660dd9fa7ecaf4d099c990730ebf22
 SHA256: f9362ac47ffa403e98dee3785c3f1fd8326b01c0a318d2f902672f4bd933dcce
 Section: Localization
 
+Package: com.nightsnowlin.sileo.tw
+Conflicts: com.nightsnowlin.sileo.tw
+Name: Sileo 繁體中文化
+Version: 1.0.1
+Architecture: iphoneos-arm
+Description: 針對 Sileo 加入繁體中文化語系 夜雪鈴製作
+Depiction: https://nightsnowlin.github.io/repo/depictions/?p=com.nightsnowlin.sileo.tw
+SileoDepiction: https://nightsnowlin.github.io/repo/sileodepictions/com.nightsnowlin.sileo.tw/depiction.json
+Depends: firmware (>=11.0)
+Maintainer: NightSnowLin <yenhank0531@gmail.com>
+Author: NightSnowLin <yenhank0531@gmail.com>
+Filename: ./deb/com.nightsnowlin.sileo.tw_1.0.1_iphoneos-arm.deb
+Size: 5856
+MD5sum: 817129c65b78abf0aad79e3b08006271
+SHA256: 1d6cedeeb5db225ee99a00a61c1a567b32db58838b092444543db92d168ab01f
+Section: Localization
+
 Package: com.nightsnowlin.eclipse12.tw
 Conflicts: com.nightsnowlin.eclipse12.tw
 Name: Eclipse Dark Mode (iOS12) 繁化中文包

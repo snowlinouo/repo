@@ -1,5 +1,9 @@
 <changelog>
 	<changes>
+		<version>1.0.1</version>
+		<change>新增翻譯</change>
+	</changes>
+	<changes>
 		<version>1.0.0</version>
 		<change>新版本推出</change>
 	</changes>
