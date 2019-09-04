@@ -25,7 +25,7 @@
 				},
 				{
 					"title": "版本",
-					"text": "1.0.1",
+					"text": "1.0.2",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -97,7 +97,7 @@
 			"tabname": "更新紀錄",
 			"views": [
 				{
-					"title": "1.0.1",
+					"title": "1.0.2",
 					"useBoldText": true,
 					"useBottomMargin": true,
 					"class": "DepictionSubheaderView"
