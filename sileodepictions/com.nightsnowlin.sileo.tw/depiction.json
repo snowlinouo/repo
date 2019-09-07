@@ -6,6 +6,12 @@
 			"tabname": "詳情",
 			"views": [
 				{
+                    "useBoldText": true,
+                    "title": "Sileo 繁體中文包介绍",
+                    "useBottomMargin": false,
+                    "class": "DepictionHeaderView"
+                },
+				{
 					"class":"DepictionStackView",
 					"backgroundColor":"#d92a2a",
 					"views": [
@@ -18,12 +24,6 @@
 						}
 					]
 				},
-				{
-                    "useBoldText": true,
-                    "title": "Sileo 繁體中文包介绍",
-                    "useBottomMargin": false,
-                    "class": "DepictionHeaderView"
-                },
 				{
 					"useSpacing": true,
 					"class": "DepictionMarkdownView",
