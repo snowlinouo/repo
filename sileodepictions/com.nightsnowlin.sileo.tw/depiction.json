@@ -12,7 +12,7 @@
 						{
 							"class":"DepictionMarkdownView",
 							"tintColor":"#ffffff",
-							"markdown":"<style>strong { color: white; }<\/style><br><strong>如果有安裝過1.0.0版的人，我在這說聲抱歉，1.0.0升級至1.0.2會造成許多問題，請多多見諒<br>By 夜雪鈴<\/strong><br>&nbsp;",
+							"markdown":"<br><strong>如果有安裝過1.0.0版的人，我在這說聲抱歉，1.0.0升級至1.0.2會造成許多問題，請多多見諒<br>By 夜雪鈴<\/strong><br>&nbsp;",
 							"useRawFormat":true,
 							"useSpacing":false
 						}
