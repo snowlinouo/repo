@@ -10,7 +10,7 @@
                     "title": "Sileo 繁體中文包介绍",
                     "useBottomMargin": false,
                     "class": "DepictionHeaderView"
-                }
+                },
 				{
 					"useSpacing": true,
 					"class": "DepictionMarkdownView",
