@@ -12,6 +12,11 @@
                     "class": "DepictionHeaderView"
                 },
 				{
+					"class": "DepictionMarkdownView",
+					"tintColor":"#ffffff",
+					"markdown": "如果有安裝過1.0.0版的人，我在這說聲抱歉，1.0.0升級至1.0.2會造成許多問題，請多多見諒Q<br>By 夜雪鈴"
+				},
+				{
 					"useSpacing": true,
 					"class": "DepictionMarkdownView",
 					"markdown": "針對 Sileo & Sileo (Beta Channel) 加入繁體中文化語系<br>Sileo 繁體中文 夜雪鈴製作"
