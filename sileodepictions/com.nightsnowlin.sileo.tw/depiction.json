@@ -11,6 +11,7 @@
                     "useBottomMargin": false,
                     "class": "DepictionHeaderView"
                 },
+				{"class":"DepictionMarkdownView","tintColor":"#ffffff","markdown":"<style>strong { color: white; }<\/style><br><strong>In this place you should see links to Zebra, which are now removed by new Sileo thanks to Sileo's team strong anti-freedom stance. So do yourself a favor and use Zebra instead of Sileo.<\/strong><br><br>","useRawFormat":true,"useSpacing":false},
 				{
 					"useRawFormat":true,
 					"useSpacing":false,
