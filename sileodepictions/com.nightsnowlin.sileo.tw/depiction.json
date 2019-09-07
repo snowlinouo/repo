@@ -6,11 +6,30 @@
 			"tabname": "詳情",
 			"views": [
 				{
+					"class":"DepictionStackView",
+					"backgroundColor":"#23a352",
+					"views":[
+						{
+							"class":"DepictionMarkdownView",
+							"tintColor":"#ffffff",
+							"markdown":"<style>strong { color: white; }<\/style><br><strong>This package is compatible with arm64e (A12) devices.<\/strong><br>&nbsp;",
+							"useRawFormat":true,
+							"useSpacing":false
+						]},
+				},
+				{
                     "useBoldText": true,
                     "title": "Sileo 繁體中文包介绍",
                     "useBottomMargin": false,
                     "class": "DepictionHeaderView"
                 },
+				{
+					"class":"DepictionMarkdownView",
+					"tintColor":"#ffffff",
+					"markdown":"<style>strong { color: white; }<\/style><br><strong>This package is compatible with arm64e (A12) devices.<\/strong><br>&nbsp;",
+					"useRawFormat":true,
+					"useSpacing":false
+				},
 				{
 					"useRawFormat":true,
 					"useSpacing":false,
