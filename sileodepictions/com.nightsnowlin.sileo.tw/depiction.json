@@ -18,12 +18,12 @@
 				},
 				{
 					"class":"DepictionStackView",
-					"backgroundColor":"#44d884",
+					"backgroundColor":"#23a352",
 					"views": [
 						{
 							"class":"DepictionTableButtonView",
 							"tintColor":"#ffffff",
-							"title":"歡迎來投稿其他插件中文化翻譯檔案",
+							"title":"歡迎來投稿其他的插件中文化翻譯檔案",
 							"action":"https://docs.google.com/forms/d/e/1FAIpQLSd6wkpzOpLnphESHR_SyXCepFvjOgWXxaX2qGecWnzmteyNVw/viewform"
 						}
 					]
