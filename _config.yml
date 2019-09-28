@@ -3,3 +3,9 @@ description: NightSnowLin is a Cydia & Sileo Repo.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
+
+# About/contact
+author:
+  name:       Tanya Gupta
+  url:        http://learnin60seconds.com
+  baseurl:    ""
