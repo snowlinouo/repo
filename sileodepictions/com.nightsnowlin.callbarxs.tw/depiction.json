@@ -52,17 +52,17 @@
 				},
 				{
 					"title": "版本",
-					"text": "2.1-22",
+					"text": "2.3-75",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "系統支援",
-					"text": "iOS 12",
+					"text": "iOS 12 ~ iOS 13.3.1",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "更新日期",
-					"text": "2019-03-24",
+					"text": "2020-01-30",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -123,6 +123,17 @@
 		{
 			"tabname": "更新紀錄",
 			"views": [
+				{
+					"title": "2.3-75",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "翻譯再次更新",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "2.1-22",
 					"useBoldText": true,

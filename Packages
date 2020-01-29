@@ -184,6 +184,23 @@ MD5sum: 3433da8e651d72f2c98d206c97b23880
 SHA256: 7e03834979da59a3ae6f44456ef47b2ac01f70969dc85fbb052f45b67baf2b0f
 Section: Localization
 
+Package: com.nightsnowlin.callbarxs.tw
+Name: CallBar XS 繁化中文包
+Version: 2.3-75
+Architecture: iphoneos-arm
+Depends: firmware (>=11.0)
+Description: CallBar XS 繁化中文包 夜雪鈴製作,請先安裝 CallBar XS
+Depiction: https://nightsnowlin.github.io/repo/depictions/?p=com.nightsnowlin.callbarxs.tw
+SileoDepiction: https://nightsnowlin.github.io/repo/sileodepictions/com.nightsnowlin.callbarxs.tw/depiction.json
+Filename: ./deb/com.nightsnowlin.callbarxs.tw_2.3-75_iphoneos-arm.deb
+Conflicts: com.nightsnowlin.callbarxs.tw
+Maintainer: NightSnowLin ,KevinLin(敬貿)<yenhank0531@gmail.com>
+Author: NightSnowLin ,KevinLin(敬貿) <yenhank0531@gmail.com>
+Size: 2638
+MD5sum: 530ecac81093888b6c9c55fe3ddbbec2
+SHA256: cfc8089cff274f1ec92818cc2fed7ea1aa07bf9c8a2651662a4700d9817034a9
+Section: Localization
+
 Package: com.nightsnowlin.audiorecorderxs.tw
 Name: AudioRecorder XS 繁化中文包
 Version: 3.0-74
