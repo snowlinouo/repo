@@ -456,3 +456,19 @@ Size: 3696
 MD5sum: 0bc697247bd1b1ee7289d2f00d14dae6
 SHA256: a4def4b9b61b4e99a2a46d20934537015368cb8c293a273ccd4b09fa8c39366f
 Section: Localization
+
+Package: com.nightsnowlin.midevice.tw
+Conflicts: com.nightsnowlin.midevice.tw
+Name: Midevice 繁化中文包
+Version: 2.0.0-2
+Architecture: iphoneos-arm
+Description: Midevice 繁化中文包 夜雪鈴製作
+Depiction: https://nightsnowlin.github.io/repo/depictions/?p=com.nightsnowlin.midevice.tw
+Depends: firmware (>=11.0)
+Maintainer: NightSnowLin <yenhank0531@gmail.com>
+Author: NightSnowLin <yenhank0531@gmail.com>
+Filename: ./deb/com.nightsnowlin.midevice.tw_2.0.0-2_iphoneos-arm.deb
+Size: 5164
+MD5sum: 71ff0097bdef72cfc2a16471136a87e4
+SHA256: 54a189db557845539dc218489e312dab9b7d23d56b7372364fbe234827557252
+Section: Localization
