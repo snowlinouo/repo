@@ -11,4 +11,4 @@ title: NightSnowLin Repo
 
 *   [追隨我的 Twitter](https://twitter.com/nightsnowlin)
 
-*   [加入 Discord 群](https://discord.gg/gNdbzRe)
+*   [加入 Discord 群](https://discord.gg/W7P6UFQ)
