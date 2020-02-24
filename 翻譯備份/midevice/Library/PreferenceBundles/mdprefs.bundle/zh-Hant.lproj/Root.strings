@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>@DODGraphics</key>
+	<string>@DODGraphics</string>
+	<key>Alerts</key>
+	<string>警報</string>
+	<key>App Switcher</key>
+	<string>應用程式切換畫面</string>
+	<key>Apply Changes</key>
+	<string>應用更改</string>
+	<key>Control Center</key>
+	<string>控制中心</string>
+	<key>Dock</key>
+	<string>Dock</string>
+	<key>Donate</key>
+	<string>PayPal捐贈</string>
+	<key>Enable</key>
+	<string>啟用</string>
+	<key>Feature Request / Bug Report</key>
+	<string>功能要求 / 錯誤回報</string>
+	<key>Folders</key>
+	<string>資料夾</string>
+	<key>Icons</key>
+	<string>圖標</string>
+	<key>LockScreen</key>
+	<string>鎖定畫面</string>
+	<key>MiDevice © DODGraphics 2018</key>
+	<string>MiDevice 版權所有 © DODGraphics 2020
+
+繁體中文: NightSnowLin</string>
+	<key>MiDevice © DODGraphics 2019</key>
+	<string>MiDevice 版權所有 © DODGraphics 2020
+
+繁體中文: NightSnowLin</string>
+	<key>MiDevice © DODGraphics 2020</key>
+	<string>MiDevice 版權所有 © DODGraphics 2020
+
+繁體中文: NightSnowLin</string>
+	<key>Notification Center</key>
+	<string>通知中心</string>
+	<key>SpringBoard</key>
+	<string>主畫面</string>
+	<key>StatusBar</key>
+	<string>狀態列</string>
+	<key>Widget/Today View</key>
+	<string>小工具/今天顯示</string>
+</dict>
+</plist>

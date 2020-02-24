@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>
+            EEE, EEEE = Day of the week
+            MM, MMM, MMMM = Month
+            d, dd = Date
+            Y, YY, YYYY = Year
+            h, hh = Hour
+            m, mm = Minute
+            s, ss = Seconds
+            a = AM/PM
+            </key>
+	<string>
+            EEE, EEEE = 星期
+            MM, MMM, MMMM =月
+            d, dd =日
+            Y, YY, YYYY =年
+            h, hh =小時
+            m, mm =分
+            s, ss =秒
+            a = AM/PM(上午/下午)
+            </string>
+	<key>
+            EEE, h:mm:ss a = Mon, 0:00:00 AM
+            For more info you can visit nsdateformatter.com
+            </key>
+	<string>
+            EEE, h:mm:ss a = 周一, 0:00:00 下午
+
+            更多信息可以訪問:nsdateformatter.com
+            </string>
+	<key>0:00 AM 1/12/19</key>
+	<string>0:00 上午 1/12/19</string>
+	<key>0:00:00 AM</key>
+	<string>0:00:00 上午</string>
+	<key>0:00:00 AM 1/12/19</key>
+	<string>0:00:00 上午 1/12/19</string>
+	<key>Activity</key>
+	<string>活動</string>
+	<key>AirPlay</key>
+	<string>AirPlay</string>
+	<key>Airplane</key>
+	<string>飛航模式</string>
+	<key>Alarm</key>
+	<string>鬧鐘</string>
+	<key>Battery</key>
+	<string>電池</string>
+	<key>Bluetooth</key>
+	<string>藍牙</string>
+	<key>Bluetooth Battery</key>
+	<string>藍牙電量</string>
+	<key>Bluetooth Headphones</key>
+	<string>藍牙耳機</string>
+	<key>Call Forwarding</key>
+	<string>呼叫轉移</string>
+	<key>CarPlay</key>
+	<string>CarPlay</string>
+	<key>Carrier</key>
+	<string>營運商</string>
+	<key>Carrier Text</key>
+	<string>營運商文本</string>
+	<key>Carrier Text:</key>
+	<string>營運商文本:</string>
+	<key>Cellular</key>
+	<string>行動服務</string>
+	<key>Custom Carrier</key>
+	<string>自定義營運商</string>
+	<key>Custom Time</key>
+	<string>自定義時間</string>
+	<key>Custom Time String</key>
+	<string>自定義時間格式：</string>
+	<key>Custom time only works on non X devices</key>
+	<string>自定義時間只適用於非X設備</string>
+	<key>Data Network / WiFi</key>
+	<string>網路數據 / WiFi</string>
+	<key>Disable Breadcrumbs</key>
+	<string>禁用頂部返回App</string>
+	<key>Do Not Disturb</key>
+	<string>勿擾模式</string>
+	<key>Example:</key>
+	<string>例子:</string>
+	<key>Hide Items</key>
+	<string>隱藏項目</string>
+	<key>Jan 1, 2019</key>
+	<string>1月 1, 2019</string>
+	<key>Liquid Detection</key>
+	<string>液體偵測</string>
+	<key>Location</key>
+	<string>定位</string>
+	<key>Locked</key>
+	<string>鎖定</string>
+	<key>Lowercase AM/PM</key>
+	<string>顯示小寫 AM/PM</string>
+	<key>Mon, 0:00</key>
+	<string>星期一, 0:00</string>
+	<key>Mon, 0:00 1/12/19</key>
+	<string>星期一, 0:00 1/12/19</string>
+	<key>Mon, 0:00 AM</key>
+	<string>星期一, 0:00 上午</string>
+	<key>Mon, 0:00 AM 1/12/19</key>
+	<string>星期一, 0:00 上午 1/12/19</string>
+	<key>Mon, 0:00:00 AM</key>
+	<string>星期一, 0:00:00 上午</string>
+	<key>Mon, 0:00:00 AM 1/12/19</key>
+	<string>星期一, 0:00:00 上午 1/12/19</string>
+	<key>Mon, 1/12/19</key>
+	<string>星期一, 1/12/19</string>
+	<key>Mon, Jan 1, 2019</key>
+	<string>星期一, 1月 1, 2019</string>
+	<key>No Not Disturb</key>
+	<string>勿擾模式</string>
+	<key>None</key>
+	<string>沒有</string>
+	<key>Rotation Lock</key>
+	<string>旋轉鎖定</string>
+	<key>Signal Strength</key>
+	<string>信號強度</string>
+	<key>StatusBar</key>
+	<string>狀態列</string>
+	<key>TTY</key>
+	<string>TTY</string>
+	<key>Thermal Color</key>
+	<string>暖色</string>
+	<key>Time</key>
+	<string>時間</string>
+	<key>Time Formats:</key>
+	<string>時間格式:</string>
+	<key>Time String(see bottom of page):</key>
+	<string>自定義時間(格式見頁底) :</string>
+	<key>Type Here</key>
+	<string>在此輸入</string>
+	<key>Use Custom Time String</key>
+	<string>使用自定義時間</string>
+	<key>Colorize Items</key>
+	<string>著色項目</string>
+</dict>
+</plist>

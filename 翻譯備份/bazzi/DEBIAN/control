@@ -1,0 +1,10 @@
+Package: com.nightsnowlin.bazzi.tw
+Name: Bazzi 繁化中文包
+Version: 2.0.1
+Architecture: iphoneos-arm
+Description: Bazzi 繁化中文包 夜雪鈴製作,請先安裝 Bazzi
+Depends: firmware (>=11.0)
+Conflicts: com.nightsnowlin.bazzi.tw
+Maintainer: NightSnowLin <yenhank0531@gmail.com>
+Author: NightSnowLin <yenhank0531@gmail.com>
+Section: Localization

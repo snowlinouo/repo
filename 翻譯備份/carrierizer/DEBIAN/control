@@ -1,0 +1,10 @@
+Package: com.nightsnowlin.carrierizer
+Name: Carrierizer 繁化中文包
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Carrierizer 繁化中文包 夜雪鈴製作,請先安裝Carrierizer
+Depends: firmware (>=11.0)
+Conflicts: com.nightsnowlin.carrierizer
+Maintainer: NightSnowLin <yenhank0531@gmail.com>
+Author: NightSnowLin <yenhank0531@gmail.com>
+Section: Localization

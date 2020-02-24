@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Dark</key>
+	<string>深色</string>
+	<key>Enabling Icon Layout Menu will turn on the quick icon layout menu. To use this menu, 2-finger tap anywhere on the homescreen. To exit the menu, click outside the menu box. To return icons to their factory positions click the reset button.</key>
+	<string>啟用圖標布局選單，必須啟用自定義圖標布局。
+要使用此選單, 雙指單擊桌面上任意位置，打開"快速圖標布局"選單。
+要退出選單, 請在選單框外單擊。
+要將圖標排列回預設, 請單擊 "RESET" 按鈕。
+
+選單界面翻譯：
+Top Inset - 頂部間隙
+Side Inset - 橫向間隙
+Vertical Padding - 垂直填充
+Horizontal Padding - 水平填充
+RESET - 重置
+</string>
+	<key>Enabling Icon Layout Menu will turn on the quick icon layout menu. To use this menu, 2-finger tap anywhere on the homescreen. To exit the menu, click outside the menu box. To return icons to their factory positions, double click the reset button. The "DIM" button will make the menu transparent to allow for a better visual of the icons.</key>
+	<string>啟用圖標布局選單，必須啟用自定義圖標布局。
+要使用此選單, 雙指單擊桌面上任意位置，打開"快速圖標布局"選單。
+要退出選單, 請在選單框外單擊。
+要將圖標排列回預設, 請單擊 "RESET" 按鈕。
+單擊"DIM" 按鈕將使選單透明, 更好地顯示圖標。
+
+
+選單界面翻譯：
+Top Inset - 頂部間隙
+Side Inset - 橫向間隙
+Vertical Padding - 垂直填充
+Horizontal Padding - 水平填充
+RESET - 重置
+</string>
+	<key>Enabling custom layouts will turn on the quick icon layout menu. To use this menu, 2-finger tap anywhere on the homescreen. To exit the menu, click outside the menu box. To return icons to their factory positions, double click the reset button. The "DIM" button will make the menu transparent to allow for a better visual of the icons.</key>
+	<string>啟用圖標布局選單，必須啟用自定義圖標布局。
+要使用此選單, 雙指單擊桌面上任意位置，打開"快速圖標布局"選單。
+要退出選單, 請在選單框外單擊。
+要將圖標排列回預設, 請雙擊 "RESET" 按鈕。
+單擊"DIM" 按鈕將使選單透明, 更好地顯示圖標。
+
+
+選單界面翻譯：
+Top Inset - 頂部間隙
+Side Inset - 橫向間隙
+Vertical Padding - 垂直填充
+Horizontal Padding - 水平填充
+RESET - 重置
+</string>
+	<key>Hide Badge Text</key>
+	<string>隱藏角標文字</string>
+	<key>Hide Beta Dot (Orange)</key>
+	<string>隱藏測試版圓點 (橙色)</string>
+	<key>Hide Icon Labels</key>
+	<string>隱藏圖標標簽</string>
+	<key>Hide Notification Badges</key>
+	<string>隱藏通知角標</string>
+	<key>Hide Updated Dot (Blue)</key>
+	<string>隱藏更新圓點 (藍色)</string>
+	<key>Horizontal Padding</key>
+	<string>水平填充</string>
+	<key>Icon Alpha (Transparency)</key>
+	<string>圖標透明度</string>
+	<key>Icon Columns</key>
+	<string>圖標列</string>
+	<key>Icon Rows</key>
+	<string>圖標行</string>
+	<key>Icon Size</key>
+	<string>圖標大小</string>
+	<key>Icons</key>
+	<string>圖標</string>
+	<key>Label Color</key>
+	<string>標簽顏色</string>
+	<key>Light</key>
+	<string>淺色</string>
+	<key>Select dark or light for layout menu. This is for iOS 12 only. iOS 13 will automatically switch the menu between light and dark if dark mode is enabled</key>
+	<string>選擇深色或淺色作為布局選單，只適用於iOS 12。如果啟用黑暗模式，iOS 13將自動在淺色和深色之間切換選單。</string>
+	<key>Side Inset</key>
+	<string>橫向間隙</string>
+	<key>Top Inset</key>
+	<string>頂部間隙</string>
+	<key>Use Custom Icon Layout</key>
+	<string>使用自定義圖標布局</string>
+	<key>Use Custom Icon Size</key>
+	<string>使用自定義圖標大小</string>
+	<key>Use Custom Label Color</key>
+	<string>使用自定義標簽顏色</string>
+	<key>Use Icon Layout Menu</key>
+	<string>使用圖標布局選單</string>
+	<key>Vertical Padding</key>
+	<string>垂直填充</string>
+</dict>
+</plist>

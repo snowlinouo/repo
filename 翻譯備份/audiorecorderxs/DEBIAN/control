@@ -1,0 +1,10 @@
+Package: com.nightsnowlin.audiorecorderxs.tw
+Name: AudioRecorder XS 繁化中文包
+Version: 3.0-74
+Architecture: iphoneos-arm
+Description: AudioRecorder XS 繁化中文包 夜雪鈴製作,請先安裝AudioRecorder XS
+Depends: firmware (>=11.0)
+Conflicts: com.nightsnowlin.audiorecorderxs.tw
+Maintainer: NightSnowLin <yenhank0531@gmail.com>
+Author: NightSnowLin <yenhank0531@gmail.com>
+Section: Localization

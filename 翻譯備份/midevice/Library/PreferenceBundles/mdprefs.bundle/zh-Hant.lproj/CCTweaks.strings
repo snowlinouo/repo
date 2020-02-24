@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Control Center</key>
+	<string>控制中心</string>
+	<key>Custom Color</key>
+	<string>自定義顏色</string>
+	<key>Disable</key>
+	<string>禁用</string>
+	<key>Disable Everywhere</key>
+	<string>全局禁用</string>
+	<key>Disable From Lockscreen</key>
+	<string>鎖屏時禁用</string>
+	<key>Hide Chevron</key>
+	<string>隱藏拉取條</string>
+	<key>Module Color</key>
+	<string>模塊顏色</string>
+	<key>Use Custom Module Color</key>
+	<string>使用自定義模塊顏色</string>
+</dict>
+</plist>

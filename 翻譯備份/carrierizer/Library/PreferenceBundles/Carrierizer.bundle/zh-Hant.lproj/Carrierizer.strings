@@ -1,0 +1,22 @@
+﻿"Enable/Disable the Tweak"="啟用/禁用插件";
+"Type what you would like to see in your Carrier Operator instead of the Default one (Disable the Toggle for the Default Carrier Operator).
+
+Type the Text and Return on Keyboard for Changes!" = "輸入您想要在營運商中看到的內容\n而不是預設的營運商名稱\n（禁用預設營運商名稱切換）\n\n┌自訂營運商名稱┐\n輸入想要顯示的內容\n輸入完畢，按下鍵盤上 Return 鍵以進行更改";
+"Enable Carrierizer!" = "啟用 Carrierizer！";
+"Carrier Operator Text:" = "自訂營運商名稱：";
+"Hide Carrier on Bar!" = "在狀態列隱藏營運商";
+"Take Change" = "確認更改";
+"Respring to apply any Changes!" = "更改後，請按下\n→ 重新啟動 SpringBoard ←";
+"Restart SpringBoard" = "重新啟動 SpringBoard";
+"Contacts 🌐" = "聯絡資訊 🌐";
+"Carrierizer © 2018 by Luca Geek (@CydiaGeek), enjoy it!
+
+Idea given by rahen1 and Thanks my Brother @lorenzo_noide for testing the Tweak!
+
+Settings Icon made by Nikita Golubev." = "Carrierizer © 2018 by Luca Geek (@CydiaGeek), enjoy it!\n\nrahen1給出的想法, 感謝我的兄弟 @lorenzo_noide 測試了插件!\n\n設置圖標由 Nikita Golubev 製作.";
+"Follow me on Twitter 🌀" = "關注作者 Twitter 🌀";
+"Add My Repo on Cydia 📦" = "加入我的源到 Cydia 📦";
+"Cheers a Beer 🍻" = "為啤酒乾杯 🍻";
+"Email Me ✉️" = "發送電子信箱給我 ✉️";
+"Other Tweaks by Me:" = "我的其他插件:";
+"My Tweaks on BigBoss Repo 🛠" = "我在 BigBoss 源的插件 🛠";

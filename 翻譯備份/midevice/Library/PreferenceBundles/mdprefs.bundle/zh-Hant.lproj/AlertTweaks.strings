@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Alerts</key>
+	<string>警報</string>
+	<key>Hide Low Power Alert</key>
+	<string>隱藏低電量模式警報</string>
+	<key>Hide No Sim Alert</key>
+	<string>隱藏"無SIM卡"警報</string>
+</dict>
+</plist>

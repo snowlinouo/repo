@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key> Disable From NC</key>
+	<string>從通知中心禁用</string>
+	<key>Disable From NC</key>
+	<string>從通知中心禁用</string>
+	<key>Hide Edit Button</key>
+	<string>隱藏編輯按鈕</string>
+	<key>Hide Weather Info</key>
+	<string>隱藏天氣信息</string>
+	<key>Widget/Today View</key>
+	<string>小工具/今天顯示</string>
+</dict>
+</plist>

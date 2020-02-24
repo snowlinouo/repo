@@ -1,0 +1,10 @@
+Package: com.nightsnowlin.sileo.tw
+Conflicts: com.nightsnowlin.sileo.tw
+Name: Sileo 繁化中文包
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: 針對 Sileo 加入繁體中文化語系 夜雪鈴製作
+Depends: firmware (>=11.0)
+Maintainer: NightSnowLin <yenhank0531@gmail.com>
+Author: NightSnowLin <yenhank0531@gmail.com>
+Section: Localization

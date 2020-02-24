@@ -1,0 +1,10 @@
+Package: com.nightsnowlin.jellyfish.tw
+Name: JellyFish 繁化中文包
+Version: 1.2.1
+Architecture: iphoneos-arm
+Description: JellyFish 繁化中文包 夜雪鈴製作,請先安裝 JellyFish
+Depends: firmware (>=11.0)
+Conflicts: com.nightsnowlin.JellyFish.tw
+Maintainer: NightSnowLin <yenhank0531@gmail.com>
+Author: NightSnowLin <yenhank0531@gmail.com>
+Section: Localization

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Disable Camera Page</key>
+	<string>禁用相機頁面</string>
+	<key>Hide CC Grabber</key>
+	<string>隱藏控制拉取條</string>
+	<key>Hide Camera</key>
+	<string>隱藏相機</string>
+	<key>Hide Camera Icon</key>
+	<string>隱藏相機圖標</string>
+	<key>Hide Date and Time</key>
+	<string>隱藏日期和時間</string>
+	<key>Hide Flashlight</key>
+	<string>隱藏手電筒</string>
+	<key>Hide Home Bar</key>
+	<string>隱藏底部橫條</string>
+	<key>Hide Lock Icon</key>
+	<string>隱藏鎖定圖標</string>
+	<key>Hide Now Playing</key>
+	<string>隱藏正在播放</string>
+	<key>Hide Page Dots</key>
+	<string>隱藏頁面點</string>
+	<key>Hide Page Dots/Camera</key>
+	<string>隱藏 頁面點/相機</string>
+	<key>Hide Pill</key>
+	<string>隱藏底部橫條</string>
+	<key>Hide Press to Unlock Text</key>
+	<string>隱藏"按下主畫面按鈕來解鎖"文本</string>
+	<key>Hide Swipe to Unlock Text</key>
+	<string>隱藏"向上滑動來解鎖"文本</string>
+	<key>LockScreen</key>
+	<string>鎖定畫面</string>
+	<key>iPhone X</key>
+	<string>iPhone X</string>
+	<key>non-iPhone X</key>
+	<string>非-iPhone X</string>
+</dict>
+</plist>

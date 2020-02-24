@@ -1,0 +1,10 @@
+Package: com.nightsnowlin.eclipse12.tw
+Conflicts: com.nightsnowlin.eclipse12.tw
+Name: Eclipse Dark Mode (iOS12) 繁化中文包
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Eclipse 12 繁化中文包 夜雪鈴製作
+Depends: firmware (>=11.0)
+Maintainer: NightSnowLin <yenhank0531@gmail.com>
+Author: NightSnowLin <yenhank0531@gmail.com>
+Section: Localization

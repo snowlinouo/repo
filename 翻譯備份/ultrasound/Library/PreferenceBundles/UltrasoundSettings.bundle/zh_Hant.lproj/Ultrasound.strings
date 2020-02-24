@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Appearance</key>
+	<string>外觀</string>
+	<key>Behaviour</key>
+	<string>行為</string>
+	<key>Dark</key>
+	<string>黑暗</string>
+	<key>Dark (Default)</key>
+	<string>黑暗（預設）</string>
+	<key>Enable OLED Mode</key>
+	<string>啟動 OLED 模式</string>
+	<key>Enabled</key>
+	<string>啟用</string>
+	<key>Extra Light</key>
+	<string>亮色</string>
+	<key>Haptic Feedback</key>
+	<string>觸覺反饋</string>
+	<key>Iconic</key>
+	<string>標誌</string>
+	<key>Light</key>
+	<string>淺色</string>
+	<key>Look</key>
+	<string>外觀</string>
+	<key>OLED Mode</key>
+	<string>OLED 模式</string>
+	<key>OLED Mode lets you view your volume at a glance as you adjust it, while the device's screen is off.</key>
+	<string>OLED 模式可讓您在調整時查看音量，同時設備的螢幕關閉。</string>
+	<key>Play Haptic Feedback when adjusting the volume reaches 0% or 100%. Requires iPhone 7 or later.</key>
+	<string>調節音量達到0％或100％時播放觸覺反饋。 需要 iPhone 7 或更高機種。</string>
+	<key>Refined</key>
+	<string>精緻</string>
+	<key>Show Volume Icon</key>
+	<string>顯示音量圖標</string>
+	<key>Show Volume Percentage</key>
+	<string>顯示音量百分比</string>
+	<key>Show volume percentage below the slider while oriented in portrait.</key>
+	<string>在縱向方向時顯示滑塊下方的音量百分比。</string>
+	<key>Specify how long to wait before dismissing the volume HUD.</key>
+	<string>指定在音量 HUD之前等待的時間。</string>
+	<key>Theme</key>
+	<string>主題</string>
+	<key>Timeout</key>
+	<string>超時</string>
+	<key>Try the Iconic look Ultrasound is known for, or use the new Refined look, beautiful on rounded-corner devices.</key>
+	<string>嘗試標誌性的外觀Ultrasound是眾所周知的，或使用新的精緻外觀，美麗的圓角設備。</string>
+	<key>Theme (Light Mode)</key>
+	<string>主題（淺色模式）</string>
+	<key>Theme (Dark Mode)</key>
+	<string>主題（深色模式）</string>
+	<key>Same as Light Mode (Default)</key>
+	<string>與淺色模式相同（預設）</string>
+	<key>Same as Light Mode</key>
+	<string>與淺色模式相同</string>
+</dict>
+</plist>

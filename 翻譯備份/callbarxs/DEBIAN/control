@@ -1,0 +1,10 @@
+Package: com.nightsnowlin.callbarxs.tw
+Name: CallBar XS 繁化中文包
+Version: 2.3-75
+Architecture: iphoneos-arm
+Description: CallBar XS 繁化中文包 夜雪鈴製作,請先安裝CallBar XS
+Depends: firmware (>=11.0)
+Conflicts: com.nightsnowlin.callbarxs.tw
+Maintainer: NightSnowLin ,KevinLin(敬貿) <yenhank0531@gmail.com>
+Author: NightSnowLin ,KevinLin(敬貿) <yenhank0531@gmail.com>
+Section: Localization

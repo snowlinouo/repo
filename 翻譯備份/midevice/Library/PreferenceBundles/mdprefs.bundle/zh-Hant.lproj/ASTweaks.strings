@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>App Switcher</key>
+	<string>應用程式切換畫面</string>
+	<key>App Switcher Card Radius</key>
+	<string>應用程式切換畫面卡片圓角</string>
+	<key>Disable Wallpaper Blur</key>
+	<string>禁用桌面模糊</string>
+	<key>Hide App Icons</key>
+	<string>隱藏應用程式圖示</string>
+	<key>Hide App Names/Icons</key>
+	<string>隱藏 應用程式名稱/圖示</string>
+	<key>Hide App Title</key>
+	<string>隱藏應用程式標題</string>
+	<key>Hide Items</key>
+	<string>隱藏項目</string>
+	<key>Radius</key>
+	<string>半徑</string>
+	<key>Use Custom Card Radius</key>
+	<string>使用自定義卡片圓角</string>
+	<key>Use Swipe to Kill Apps (iPhone X)</key>
+	<string>使用滑動關閉應用程式 (iPhone X)</string>
+	<key>iPad Style Grid Switcher</key>
+	<string>iPad樣式網格切換器</string>
+</dict>
+</plist>

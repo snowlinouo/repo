@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Use Custom StatusBar Item Colors</key>
+	<string>自定義狀態欄顏色</string>
+	<key>Battery Bolt</key>
+	<string>電池螺栓</string>
+	<key>Battery Fill</key>
+	<string>電池填充</string>
+	<key>Battery Outline</key>
+	<string>電池輪廓</string>
+	<key>Cellular Signal</key>
+	<string>營運商訊號</string>
+	<key>WiFi Signal</key>
+	<string>WiFi 訊號</string>
+</dict>
+</plist>

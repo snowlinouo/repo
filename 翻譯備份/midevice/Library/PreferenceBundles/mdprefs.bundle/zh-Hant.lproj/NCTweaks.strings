@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key> Disable Today View</key>
+	<string>禁用今天顯示</string>
+	<key>Alerts</key>
+	<string>警報</string>
+	<key>Coming Soon!</key>
+	<string>即將到來！</string>
+	<key>Disable</key>
+	<string>禁用</string>
+	<key>Notification Center</key>
+	<string>通知中心</string>
+	<key>Remove Wallpaper Blur</key>
+	<string>移除桌面模糊效果</string>
+</dict>
+</plist>

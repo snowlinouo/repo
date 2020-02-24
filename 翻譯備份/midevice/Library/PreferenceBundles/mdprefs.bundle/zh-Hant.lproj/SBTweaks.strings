@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Disable Editing</key>
+	<string>禁用編輯</string>
+	<key>Disable Jitter</key>
+	<string>禁用抖動</string>
+	<key>Disable Rotation</key>
+	<string>禁用旋轉</string>
+	<key>Disable Spotlight Search</key>
+	<string>禁用 Spotlight 搜尋欄</string>
+	<key>Disable Uninstall</key>
+	<string>禁用卸載</string>
+	<key>Disable Wiggle Mode</key>
+	<string>禁用擺動模式</string>
+	<key>Hide Apps</key>
+	<string>隱藏應用程式</string>
+	<key>Hide Home Bar (iPhone X)</key>
+	<string>隱藏底部橫條 (iPhone X)</string>
+	<key>Hide Items</key>
+	<string>隱藏項目</string>
+	<key>Hide Page Dots</key>
+	<string>隱藏頁面點</string>
+	<key>SpringBoard</key>
+	<string>主畫面</string>
+	<key>System Applications</key>
+	<string>系統應用程式</string>
+	<key>User Applications</key>
+	<string>用戶應用程式</string>
+</dict>
+</plist>

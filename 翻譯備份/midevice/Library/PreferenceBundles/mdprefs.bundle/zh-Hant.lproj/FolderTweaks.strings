@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>*Removing wallpaper blur will remove icons and dock when folder is open like ios 9.</key>
+	<string>“去除桌面模糊效果” 資料夾打開時像iOS 9風格</string>
+	<key>Adjust Alpha</key>
+	<string>調整透明度</string>
+	<key>Background Color</key>
+	<string>背景顏色</string>
+	<key>BackgroundColor</key>
+	<string>背景顏色</string>
+	<key>Custom Background Color</key>
+	<string>自定義背景顏色</string>
+	<key>Disable Name Change</key>
+	<string>禁止名稱更改</string>
+	<key>Disable Open/Close Animations</key>
+	<string>禁止 打開/關閉 動畫</string>
+	<key>Expanded Folder Background</key>
+	<string>增強資料夾背景</string>
+	<key>Folder</key>
+	<string>資料夾</string>
+	<key>Folder Icon</key>
+	<string>資料夾圖標</string>
+	<key>Folders</key>
+	<string>資料夾</string>
+	<key>Hide Background</key>
+	<string>隱藏背景</string>
+	<key>Hide Folder Background</key>
+	<string>隱藏資料夾背景</string>
+	<key>Hide Folder Name</key>
+	<string>隱藏資料夾名稱</string>
+	<key>Hide Grid Image</key>
+	<string>隱藏網格預覽圖像</string>
+	<key>Pinch To Close</key>
+	<string>捏合關閉</string>
+	<key>Remove Wallpaper Blur*</key>
+	<string>去除桌面模糊效果</string>
+</dict>
+</plist>

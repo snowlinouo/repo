@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Dock</key>
+	<string>Dock</string>
+	<key>Enable FloatingDock</key>
+	<string>啟用 FloatingDock</string>
+	<key>Floating Dock Options</key>
+	<string>Floating Dock 選項</string>
+	<key>Floating Dock Stuff</key>
+	<string>Floating Dock 選項</string>
+	<key>Hide Dock Background</key>
+	<string>隱藏Dock欄背景</string>
+	<key>Icon Count</key>
+	<string>圖標數量</string>
+	<key>Remove Dock</key>
+	<string>移除Dock欄</string>
+	<key>Show Recent/Suggested Apps</key>
+	<string>顯示 最近/建議的應用程式</string>
+	<key>Use Custom Icon Count</key>
+	<string>使用自定義圖標數量</string>
+</dict>
+</plist>
