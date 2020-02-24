@@ -405,6 +405,23 @@ MD5sum: ef2e925b399ceb7b5d84ad0d6784412d
 SHA256: 05ba4229d64449279876bf47ba5baaff0631a374fd61b48622937fb0d308b294
 Section: Localization
 
+Package: com.nightsnowlin.ultrasound.tw
+Conflicts: com.nightsnowlin.ultrasound.tw
+Name: Ultrasound 繁化中文包
+Version: 1.2.11
+Architecture: iphoneos-arm
+Description: Ultrasound 繁化中文包 夜雪鈴製作,請先安裝 Ultrasound
+Depiction: https://nightsnowlin.github.io/repo/depictions/?p=com.nightsnowlin.ultrasound.tw
+SileoDepiction: https://nightsnowlin.github.io/repo/sileodepictions/com.nightsnowlin.ultrasound.tw/depiction.json
+Depends: firmware (>=11.0)
+Maintainer: NightSnowLin <yenhank0531@gmail.com>
+Author: NightSnowLin <yenhank0531@gmail.com>
+Filename: ./deb/com.nightsnowlin.ultrasound.tw_1.2.11_iphoneos-arm.deb
+Size: 1888
+MD5sum: 0305bca3b839b18ad3e4a0c63663a9a4
+SHA256: 5aeb747e94d8edef70efbeecb8315693cd1189cc84faaa96794a702036ea98ae
+Section: Localization
+
 Package: com.nightsnowlin.ioshelper12
 Conflicts: com.nightsnowlin.ioshelper12
 Name: iOS Helper 12
@@ -504,4 +521,20 @@ Filename: ./deb/com.nightsnowlin.midevice.tw_2.0.0-2.1_iphoneos-arm.deb
 Size: 5168
 MD5sum: cf11559c90efd2e68ed69e56b65568b7
 SHA256: f999ab573443887c6ac72430b0f2087bb204a54a10a084027689d407657f23ce
+Section: Localization
+
+Package: com.nightsnowlin.midevice.tw
+Conflicts: com.nightsnowlin.midevice.tw
+Name: Midevice 繁化中文包
+Version: 2.0.0-3
+Architecture: iphoneos-arm
+Description: Midevice 繁化中文包 夜雪鈴製作
+Depiction: https://nightsnowlin.github.io/repo/depictions/?p=com.nightsnowlin.midevice.tw
+Depends: firmware (>=11.0)
+Maintainer: NightSnowLin <yenhank0531@gmail.com>
+Author: NightSnowLin <yenhank0531@gmail.com>
+Filename: ./deb/com.nightsnowlin.midevice.tw_2.0.0-3_iphoneos-arm.deb
+Size: 5354
+MD5sum: 055ee48e9040c2b71705f103425455d8
+SHA256: 526c3e68d7a550f9bb389d6f49ba5788b325d14f280382791c6137a6394d5937
 Section: Localization

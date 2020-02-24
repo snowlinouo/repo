@@ -37,17 +37,17 @@
 				},
 				{
 					"title": "版本",
-					"text": "1.2.5",
+					"text": "1.2.11",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "系統支援",
-					"text": "iOS 12",
+					"text": "iOS 12 ~ 13",
 					"class": "DepictionTableTextView"
 				},
 				{
 					"title": "更新日期",
-					"text": "2019-04-14",
+					"text": "2020-02-24",
 					"class": "DepictionTableTextView"
 				},
 				{
@@ -72,7 +72,7 @@
 				},
 				{
 					"title": "Discord",
-					"action": "https://discord.gg/gNdbzRe",
+					"action": "https://discord.gg/W7P6UFQ",
 					"class": "DepictionTableButtonView"
 				},
 				{
@@ -108,6 +108,22 @@
 		{
 			"tabname": "更新紀錄",
 			"views": [
+				{
+					"title": "1.2.11",
+					"useBoldText": true,
+					"useBottomMargin": true,
+					"class": "DepictionSubheaderView"
+				},
+				{
+					"markdown": "新增翻譯",
+					"useSpacing": false,
+					"class": "DepictionMarkdownView"
+				},
+				{
+					"markdown": "<small style=\"color: #999; margin-top: -8px;\">更新日期 2020-02-24</small>",
+					"useRawFormat": true,
+					"class": "DepictionMarkdownView"
+				},
 				{
 					"title": "1.2.5",
 					"useBoldText": true,

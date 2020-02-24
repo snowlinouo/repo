@@ -1,10 +1,10 @@
 <package>
 	<id>com.nightsnowlin.midevice.tw</id>
 	<name>Midevice 繁化中文包</name>
-	<version>2.0.0-2.1</version>
+	<version>2.0.0-3</version>
 	<compatibility>
 		<firmware>
-			<maxiOS>13.3.1</maxiOS>
+			<maxiOS>13.4</maxiOS>
 			<otherVersions>11.0</otherVersions>
 			<!--
 			for otherVersions, you can put either unsupported or unconfirmed
@@ -21,7 +21,7 @@
 	</descriptionlist>
 	<screenshots></screenshots>
 	<changelog>
-		<change>翻譯修正</change>
+		<change>新增翻譯</change>
 	</changelog>
 	<links></links>
 </package>
