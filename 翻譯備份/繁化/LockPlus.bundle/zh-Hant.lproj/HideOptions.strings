@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key> Enable Changing Battery Line</key>
+	<string>啟用改變電池線條</string>
+	<key>1min</key>
+	<string>1分鐘</string>
+	<key>24hr Time</key>
+	<string>24小時制</string>
+	<key>2min</key>
+	<string>2分鐘</string>
+	<key>30sec</key>
+	<string>30秒</string>
+	<key>Actions</key>
+	<string>動作</string>
+	<key>Animated Birds</key>
+	<string>動畫飛鳥</string>
+	<key>Animated Birds (respring)</key>
+	<string>動畫飛鳥 (註銷)</string>
+	<key>Animated Fireflies</key>
+	<string>動畫螢火蟲</string>
+	<key>Animated GIF</key>
+	<string>動畫GIF</string>
+	<key>Animated Globe</key>
+	<string>動畫地球儀</string>
+	<key>Animated MP4</key>
+	<string>動畫MP4</string>
+	<key>Animated Space</key>
+	<string>動畫空間</string>
+	<key>Animated SpaceRoad</key>
+	<string>動畫太空</string>
+	<key>Animated Spiral</key>
+	<string>動畫螺旋</string>
+	<key>Animated Weather</key>
+	<string>動畫天氣</string>
+	<key>Animated Weather (respring)</key>
+	<string>動畫天氣 (註銷)</string>
+	<key>Animations</key>
+	<string>動畫</string>
+	<key>Animations do use more resources. If you want the best battery life do not use them. For the animated MP4 you can stick any MP4 in /Library/LockPlus/LockPlus/extras/animation/mp4/ Then edit the index.html to use that MP4. Best to set a black wallpaper when using MP4.</key>
+	<string>動畫需要使用更多資源。如果你想要更好的電池壽命，不要使用它們。
+
+對於MP4動畫，你可以將任何MP4放入 /Library/LockPlus/LockPlus/extras/animation/mp4/ 路徑下，然後編輯index.html使用該MP4 (MP4在播放音樂或來電時會停止)
+
+對於GIF，你可以將任何GIF放入 /Library/LockPlus/LockPlus/extras/animation/gif/ 路徑下，並更改index.html (最好在使用MP4或GIF時設置黑色壁紙)
+
+充電動畫路徑: /Library/LockPlus/LockPlus/extras/animation/random/battery 你可以把自製的動畫主題命名為xxx.html放入以上路徑選擇即可。</string>
+	<key>Animations do use more resources. If you want the best battery life do not use them. For the animated MP4 you can stick any MP4 in /Library/LockPlus/LockPlus/extras/animation/mp4/ Then edit the index.html to use that MP4. MP4 will stop when music is playing or a call has came in. For GIF /Library/LockPlus/LockPlus/extras/animation/gif/ add your gif and change the index.html. Best to set a black wallpaper when using MP4 or GIF.</key>
+	<string>動畫需要使用更多資源。如果你想要更好的電池壽命，不要使用它們。
+
+對於MP4動畫，你可以將任何MP4放入 /Library/LockPlus/LockPlus/extras/animation/mp4/ 路徑下，然後編輯index.html使用該MP4 (MP4在播放音樂或來電時會停止)
+
+對於GIF，你可以將任何GIF放入 /Library/LockPlus/LockPlus/extras/animation/gif/ 路徑下，並更改index.html (最好在使用MP4或GIF時設置黑色壁紙)
+
+充電動畫路徑: /Library/LockPlus/LockPlus/extras/animation/random/battery 你可以把自製的動畫主題命名為xxx.html放入以上路徑選擇即可。</string>
+	<key>Animations while optimised will use more battery then when disabled. If you experience performance issues disable these first. This most likely will pertain to older devices.</key>
+	<string>動畫將使用更多的電量。如果你遇到性能問題，請首先禁用這些，這很可能與舊設備有關。</string>
+	<key>Background Animation</key>
+	<string>背景動畫</string>
+	<key>Battery</key>
+	<string>充電電池</string>
+	<key>Battery Options</key>
+	<string>電池選項</string>
+	<key>Battery charging color</key>
+	<string>電池充電顏色</string>
+	<key>Battery fill color</key>
+	<string>電池填充顏色</string>
+	<key>Battery line color</key>
+	<string>電池線條顏色</string>
+	<key>Battery pin color</key>
+	<string>電池介面顏色</string>
+	<key>Blur BG for Notification</key>
+	<string>收到通知時背景模糊</string>
+	<key>Blur LPP and BG for Notification</key>
+	<string>模糊LPP和通知背景</string>
+	<key>Camera Icon</key>
+	<string>相機圖示</string>
+	<key>Camera button</key>
+	<string>照相機按鈕</string>
+	<key>Charging Animation</key>
+	<string>充電動畫</string>
+	<key>Control Center bar (respring)</key>
+	<string>控制中心欄 (註銷)</string>
+	<key>Cracked by @pulandres</key>
+	<string>🇨🇳簡體中文: Sandy0</string>
+	<key>Cyan</key>
+	<string>青色</string>
+	<key>Dim timer</key>
+	<string>變暗時長</string>
+	<key>Disable Access to Camera Roll</key>
+	<string>禁用相機膠捲存取權限</string>
+	<key>Disable LPP Interaction will disable the LPP menu. FaceDown to lock works on iOS10 and 11. Disable LS Paging allows you to disable the Widget page and Camera.</key>
+	<string>禁用LockPlus交互模式將禁用鎖屏介面編輯功能表。
+
+螢幕朝下鎖定僅在iOS10和11上工作。
+
+禁用鎖屏分頁允許禁用小部件頁面和相機。</string>
+	<key>Disable LS Paging (respring)</key>
+	<string>禁用鎖屏分頁 (註銷)</string>
+	<key>Disable LockPlus Interaction</key>
+	<string>禁用LockPlus交互模式</string>
+	<key>Disable LockPlus in NC</key>
+	<string>通知中心禁用LockPlus</string>
+	<key>Disable stock time for Music</key>
+	<string>為音樂禁用系統時間</string>
+	<key>Disable stock time for Notification</key>
+	<string>為通知禁用系統時間</string>
+	<key>Dots</key>
+	<string>頁面圓點</string>
+	<key>Enable</key>
+	<string>啟 用</string>
+	<key>Enable FaceDown to Lock</key>
+	<string>啟用螢幕朝下鎖定</string>
+	<key>Enable LockPlus</key>
+	<string>啟用 LockPlus</string>
+	<key>Enable Wall Fade Adjustments</key>
+	<string>啟用壁紙淡出調節</string>
+	<key>Enable battery coloring</key>
+	<string>啟用電池著色</string>
+	<key>Enable stock tinting</key>
+	<string>啟用系統著色</string>
+	<key>Enable tapHold to sleep</key>
+	<string>啟用點按息屏</string>
+	<key>Enhancements</key>
+	<string>增強</string>
+	<key>Extras</key>
+	<string>額外</string>
+	<key>Faster wallpaper fade in (respring)</key>
+	<string>壁紙快速淡出 (註銷)</string>
+	<key>Flashlight button</key>
+	<string>手電筒按鈕</string>
+	<key>Fresh themes section will only display themes you haven't seen. It will become blank when you see all the themes. Press reset to clear your viewed themes and reset Fresh.</key>
+	<string>新的主題部分將只顯示你沒有看到的主題。按重置，以清除你流覽過的主題並重置新的。</string>
+	<key>Fresh themes section will only display themes you haven't seen. Press reset to clear your viewed themes and reset Fresh.</key>
+	<string>新的主題部分將只顯示你沒有看到的主題。按重置，以清除你流覽過的主題並重置新的。</string>
+	<key>Grabbers</key>
+	<string>上下把手</string>
+	<key>Gray</key>
+	<string>灰色</string>
+	<key>Having an option to hide LPP when a certain thing happens will show the stock clock. If you do not want this behavior then enable the Disable stock time for that option. Move LPP for notification or music, the position from top is a number. A positive number like 100 will move LPP down when a notification comes in. A negative number like -100 will move it up. </key>
+	<string>當某些情況發生時，可以選擇隱藏LPP主題，將顯示系統時間。如果你不想要此情況發生，那麼為該選項啟用禁用系統時間。
+
+為通知或音樂移動LPP主題，從頂部位置開始是一個數字，當收到一個通知時，像100這樣正數將使LPP主題下移，像-100這樣的負數將會使其向上移動。</string>
+	<key>Having an option to hide LPP when a certain thing happens will show the stock clock. If you do not want this behavior then enable the Disable stock time for that option. Move LPP for notification or music, the position from top is a number. A positive number like 100 will move LPP down when a notification comes in. A negative number like -100 will move it up. TripleTap clear works on iOS11 only and enables you to triple tap to clear notifications.</key>
+	<string>當某些情況發生時，可以選擇隱藏LPP主題，將顯示系統時間。如果你不想要此情況發生，那麼為該選項啟用禁用系統時間。
+
+為通知或音樂移動LPP主題，從頂部位置開始是一個數字，當收到一個通知時，像100這樣正數將使LPP主題下移，像-100這樣的負數將會使其向上移動。
+
+在iOS11上使用三擊清除功能，使你可以通過三擊來清除通知。</string>
+	<key>Hide Items iOS10</key>
+	<string>隱藏項 iOS10</string>
+	<key>Hide Items iOS10 and iOS11</key>
+	<string>隱藏項 iOS10/iOS11</string>
+	<key>Hide Items iOS11</key>
+	<string>隱藏項 iOS11</string>
+	<key>Hide Items iOS11/iOS12</key>
+	<string>隱藏項 iOS11/iOS12</string>
+	<key>Hide Items iOS8 and iOS9</key>
+	<string>隱藏項 iOS8/iOS9</string>
+	<key>Hide Items iOS8, iOS9, iOS10</key>
+	<string>隱藏項 iOS8, iOS9, iOS10</string>
+	<key>Hide LPP for Music Player</key>
+	<string>播放音樂時隱藏主題</string>
+	<key>Hide LPP for Notification</key>
+	<string>收到通知時隱藏主題</string>
+	<key>Hide Lockscreen Items</key>
+	<string>隱藏鎖屏項</string>
+	<key>Hide NC no notification (respring)</key>
+	<string>隱藏通知中心無通知 (註銷)</string>
+	<key>Hide Options</key>
+	<string>隱藏選項</string>
+	<key>Hide Statusbar</key>
+	<string>隱藏狀態列</string>
+	<key>Hide for notification or music</key>
+	<string>隱藏通知或音樂</string>
+	<key>Home action bar (respring)</key>
+	<string>主頁操作欄 (註銷)</string>
+	<key>Home action bar text (respring)</key>
+	<string>操作欄文本 (登出)</string>
+	<key>Instagram</key>
+	<string>Instagram</string>
+	<key>Lock icon (respring)</key>
+	<string>面部鎖圖示 (登出)</string>
+	<key>LockPlus (respring)</key>
+	<string>功能啟用 (註銷)</string>
+	<key>LockPlus Pro (respring)</key>
+	<string>功能啟用 (註銷)</string>
+	<key>LockPlus Pro Manual</key>
+	<string>使用指南</string>
+	<key>LockPlus Pro Reddit</key>
+	<string>論壇</string>
+	<key>Move LPP for Music</key>
+	<string>播放音樂時移動主題</string>
+	<key>Move LPP for Notification</key>
+	<string>收到通知時移動主題</string>
+	<key>Music</key>
+	<string>音樂</string>
+	<key>Music Player</key>
+	<string>音樂播放機</string>
+	<key>Music Player (respring)</key>
+	<string>音樂播放機 (登出)</string>
+	<key>Never</key>
+	<string>永不</string>
+	<key>Notifications</key>
+	<string>通知</string>
+	<key>Notifications/Music</key>
+	<string>通知和音樂</string>
+	<key>Only controls themes and menus you can use other settings like hide time without this enabled.</key>
+	<string>只有控制主題和功能表, 你可以使用其他設置, 如隱藏時間, 而不啟用此設置.</string>
+	<key>Page Dots</key>
+	<string>頁面圓點</string>
+	<key>Position from top</key>
+	<string>從頂部位置：</string>
+	<key>Remove battery pin</key>
+	<string>移除電池介面</string>
+	<key>Remove charging bolt</key>
+	<string>移除充電閃電</string>
+	<key>Reset Fresh Themes</key>
+	<string>重置新主題</string>
+	<key>Respring</key>
+	<string>註銷生效</string>
+	<key>Respring after enabled/disabled</key>
+	<string>啟用/禁用後需註銷</string>
+	<key>Select a theme</key>
+	<string>選擇主題</string>
+	<key>Show Time on Widget page</key>
+	<string>部件頁面顯示時間</string>
+	<key>Show time in NC when LPP disabled</key>
+	<string>禁用LPP時通知中心顯示時間</string>
+	<key>Slide to Unlock Text</key>
+	<string>解鎖文本</string>
+	<key>Tap to open text</key>
+	<string>按下以打開文本</string>
+	<key>Time</key>
+	<string>時間和日期</string>
+	<key>Time and Date</key>
+	<string>時間和日期</string>
+	<key>Triple Tap Clear (respring)</key>
+	<string>三擊清除 (註銷)</string>
+	<key>TripleTap Clear Notifications (respring)</key>
+	<string>三擊清除通知 (註銷)</string>
+	<key>Twitter</key>
+	<string>推特關注我</string>
+	<key>Wall Fade Duration</key>
+	<string>壁紙淡出持續時間</string>
+	<key>Website</key>
+	<string>網站</string>
+	<key>White</key>
+	<string>白色</string>
+	<key>© JunesiPhone 2018</key>
+	<string>版權所有 © JunesiPhone 2018
+
+繁體中文: Darryl</string>
+</dict>
+</plist>

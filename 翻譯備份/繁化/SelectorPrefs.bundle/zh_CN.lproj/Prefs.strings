@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Baidu</key>
+	<string>百度</string>
+	<key>Baidu (web)</key>
+	<string>百度翻译 (网络)</string>
+	<key>Bing</key>
+	<string>必应</string>
+	<key>DONATE_TO_NEPETA</key>
+	<string>捐赠作者</string>
+	<key>DuckDuckGo</key>
+	<string>DuckDuckGo 搜索</string>
+	<key>ENABLED</key>
+	<string>开启功能</string>
+	<key>GitHub</key>
+	<string>开源代码</string>
+	<key>Google</key>
+	<string>谷歌</string>
+	<key>Google Translate (web)</key>
+	<string>谷歌翻译 (网络)</string>
+	<key>Google Translate (web/China)</key>
+	<string>谷歌翻译 (网络/中国)</string>
+	<key>Nepeta</key>
+	<string>推特关注</string>
+	<key>POPUP</key>
+	<string>弹出窗口</string>
+	<key>RESET_PREFS</key>
+	<string>重置设置</string>
+	<key>SEARCH</key>
+	<string>搜索</string>
+	<key>SEARCH_ENGINE</key>
+	<string>搜索引擎</string>
+	<key>SOURCE_CODE</key>
+	<string>查看源码</string>
+	<key>SUPPORT_ME</key>
+	<string>请支持我</string>
+	<key>Selector by Nepeta</key>
+	<string>Selector 由 Nepeta 开发
+
+🇨🇳简体中文: Sandy0</string>
+	<key>TRANSLATION</key>
+	<string>翻译</string>
+	<key>TRANSLATION_SERVICE</key>
+	<string>翻译服务</string>
+	<key>Yahoo</key>
+	<string>雅虎搜索</string>
+	<key>Yandex</key>
+	<string>Yandex 浏览器 </string>
+	<key>iTranslate (app)</key>
+	<string>iTranslate 翻译 (应用)</string>
+</dict>
+</plist>

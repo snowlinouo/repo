@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>APPLICATIONS</key>
+	<string>选择应用程序</string>
+	<key>APP_SETTINGS_FOOTER_TEXT</key>
+	<string>黑名单模式：除了所选的应用程序，为所有应用程序启用Shadow。 
+
+白名单模式：仅为选定的应用启用Shadow。</string>
+	<key>APP_SETTINGS_GROUP</key>
+	<string>应用程序设置</string>
+	<key>AUTO_GENERATE</key>
+	<string>自动生成文件</string>
+	<key>Advanced jailbreak detection bypass. May be unstable in some apps, causing crashes or other issues.</key>
+	<string>高级越狱检测旁路。在某些应用中可能不稳定，导致崩溃或其他问题。</string>
+	<key>Application Settings</key>
+	<string>应用程序设置</string>
+	<key>Applications</key>
+	<string>选择应用程序</string>
+	<key>Attempts to restore original sandbox functionality by limiting file write and creation access for apps.</key>
+	<string>尝试通过限制应用程序的文件写入和创建访问来恢复原始沙盒功能。</string>
+	<key>Automatically Generate</key>
+	<string>自动生成文件</string>
+	<key>BLACKLIST_MODE</key>
+	<string>黑名单模式</string>
+	<key>BYPASS_DETECTION_LIB_FOOTER_TEXT</key>
+	<string>跳过一些常见的越狱检查。对于特定于应用程序的旁路也可能很有用。</string>
+	<key>Blacklist Mode</key>
+	<string>黑名单模式</string>
+	<key>Blacklist mode enables Shadow for all except selected apps. Whitelist mode enables Shadow only for selected apps.</key>
+	<string>黑名单模式为除了所选应用之外的所有应用提供Shadow。
+白名单模式仅为选定的应用启用Shadow。</string>
+	<key>Bypass Detection Libraries</key>
+	<string>绕过检测库</string>
+	<key>Bypassing detection libraries attempts to hook common jailbreak detection libraries and skip their checking methods. Disable if you want Shadow to work hard.</key>
+	<string>绕过检测库会尝试挂钩常见的越狱检测库并跳过它们的检查方法。如果您希望Shadow努力工作，请禁用。</string>
+	<key>CANCEL_BTN</key>
+	<string>取消</string>
+	<key>CONTINUE_BTN</key>
+	<string>继续</string>
+	<key>Cancel</key>
+	<string>取消</string>
+	<key>Compatibility settings will reduce bypass effectiveness. Tweak compatibility mode is enabled by default for all apps. Injection compatibility applies to Substrate. If disabled, Substrate may not load some tweaks properly.</key>
+	<string>兼容性设置将降低旁路效率。默认情况下，为所有应用启用调整兼容模式。注射兼容性适用于Substrate。如果禁用，Substrate可能无法正确加载某些插件。</string>
+	<key>Continue</key>
+	<string>继续</string>
+	<key>DEV_REDDIT</key>
+	<string>Reddit联系我</string>
+	<key>DEV_SUPPORT_FOOTER_TEXT</key>
+	<string>Shadow目前正在积极开发中。如果这个调整对你来说很成功，我会非常感谢捐款和/或支持性信息。你的支持让我有动力继续开发最好的越狱检测旁路:)。</string>
+	<key>DEV_SUPPORT_GROUP</key>
+	<string>支持开发者</string>
+	<key>DISABLE_TWEAK_COMPAT</key>
+	<string>禁用插件兼容性</string>
+	<key>DONATE</key>
+	<string>贝宝捐赠</string>
+	<key>DYNAMIC_LIB_FOOTER_TEXT</key>
+	<string>在大多数情况下，防止应用程序检测到插件。高级过滤器将执行额外的运行时过滤，这可能会增加应用程</string>
+	<key>DYNAMIC_LIB_GROUP</key>
+	<string>动态库</string>
+	<key>DYNAMIC_LINKER_FOOTER_TEXT</key>
+	<string>防止应用程序通过导出的挂钩功能检测Substrate或Substitute。在某些应用中可能不稳定，导致崩溃或其他问题。</string>
+	<key>DYNAMIC_LINKER_GROUP</key>
+	<string>动态链接器</string>
+	<key>Disable Shadow for Safe Apps</key>
+	<string>禁用安全应用的Shadow</string>
+	<key>Donate</key>
+	<string>使用贝宝捐赠</string>
+	<key>Dynamic Libraries</key>
+	<string>动态库</string>
+	<key>Dynamic Linker</key>
+	<string>动态链接器</string>
+	<key>Enable Advanced Filters</key>
+	<string>启用高级过滤器</string>
+	<key>Enable Shadow</key>
+	<string>激活插件</string>
+	<key>Enable Standard Filters</key>
+	<string>启用标准过滤器</string>
+	<key>FILE_MAP</key>
+	<string>文件映射</string>
+	<key>FILE_MAP_DESC</key>
+	<string>通过读取所有已安装的包文件动态增强旁路功能。</string>
+	<key>FILTER_DYNAMIC_LINKER</key>
+	<string>过滤动态链接器</string>
+	<key>FOOTER</key>
+	<string>Shadow 由 jjolano 开发
+
+简体中文：Ball ┆ 转载请注明出处</string>
+	<key>File Map</key>
+	<string>文件映射</string>
+	<key>File map enhances Shadow's ability to perform path checks by scanning all installed packages. The file map will need to be regenerated when any changes to installed packages are made. Auto generation will automatically generate the file map when SpringBoard restarts.</key>
+	<string>文件映射通过扫描所有已安装的软件包增强了Shadow执行路径检查的能力。当对已安装的软件包进行任何更改时，需要重新生成文件映射。 当注销设备时，将自动生成文件映射。</string>
+	<key>Filter Dynamic Linker</key>
+	<string>过滤动态链接器</string>
+	<key>Filtering dynamic libraries helps defeat intermediate levels of jailbreak detection. Advanced filters may trigger detection on some apps, and may also be unstable.</key>
+	<string>过滤动态库有助于阻扰中等级别的越狱检测。高级过滤器可能会触发某些应用程序上的检测，也可能不稳定。</string>
+	<key>GENERATE_FILE_MAP</key>
+	<string>生成文件映射</string>
+	<key>GENERATE_FILE_MAP_DESC</key>
+	<string>这将读取所有已安装的包文件。这可能需要一段时间，具体取决于安装的软件包数量。</string>
+	<key>Generate File Map</key>
+	<string>生成文件映射</string>
+	<key>Injection Compatibility</key>
+	<string>注入兼容性</string>
+	<key>LOCKDOWN_MODE_FOOTER_TEXT</key>
+	<string>这将读取所有已安装的包文件。这可能需要一段时间，具体取决于安装的软件包数量。全面的旁路方法，可在保持旁路功能的同时禁用调整。在此模式下启用了绕过越狱检测的其他方法。仍然可以检测到Substrate或Substitute，因此启用动态链接器和动态库过滤以获得最大覆盖率。</string>
+	<key>LOCKDOWN_MODE_GROUP</key>
+	<string>锁定模式</string>
+	<key>Lockdown Mode</key>
+	<string>锁定模式</string>
+	<key>Lockdown mode will disable all compatibility options, enable all available hooks, and enable additional hooks that will interfere with tweaks. For full coverage, filter dynamic linker (beware of potential issues).</key>
+	<string>锁定模式将禁用所有兼容性选项，启用所有可用的挂钩，并启用会干扰插件的其他挂钩。要获得完整覆盖，请过滤动态链接器（注意潜在问题）。</string>
+	<key>RESET</key>
+	<string>重置设置</string>
+	<key>RESET_BTN</key>
+	<string>重置</string>
+	<key>RESET_DESC</key>
+	<string>这会将所有首选项重置为默认值并删除生成的文件映射。</string>
+	<key>RESPRING</key>
+	<string>注销设备</string>
+	<key>Reset Settings</key>
+	<string>重置设置</string>
+	<key>Restart SpringBoard</key>
+	<string>注销设备</string>
+	<key>Restore Sandbox</key>
+	<string>恢复沙盒</string>
+	<key>SANDBOX_INTEGRITY_FOOTER_TEXT</key>
+	<string>尝试恢复沙盒功能。适用于iOS 10及更低版本。 iOS 11及更高版本不需要，但作为最后的手段可能有用。</string>
+	<key>SANDBOX_INTEGRITY_GROUP</key>
+	<string>沙盒完整性</string>
+	<key>SHADOW_SETTINGS_FOOTER_TEXT</key>
+	<string>请注意：在应用程序中禁用调整注入时，旁路功能将不可用。使用锁定模式（下方）禁用其他调整，同时保持旁路功能。</string>
+	<key>SHADOW_SETTINGS_GROUP</key>
+	<string>Shadow 设置</string>
+	<key>SOURCE_CODE</key>
+	<string>查看源代码</string>
+	<key>Sandbox Integrity</key>
+	<string>沙盒完整性</string>
+	<key>Select apps to disable injection compatibility</key>
+	<string>选择应用以禁用注入兼容性</string>
+	<key>Select apps to disable tweak compatibility</key>
+	<string>选择应用以禁用插件兼容性</string>
+	<key>Select apps to enable dynamic linker bypass</key>
+	<string>选择应用以启用动态链接器绕过</string>
+	<key>Select apps to enable lockdown mode</key>
+	<string>选择应用以启用锁定模式</string>
+	<key>Shadow Settings</key>
+	<string>设置</string>
+	<key>Shadow by jjolano</key>
+	<string>Shadow 由 jjolano 开发
+
+简体中文: Ball ┆ 转载请注明出处</string>
+	<key>Shadow is under active development. If this bypass has worked for you, I would greatly appreciate your support through supportive messages and/or donations. I do read every message, and will consider feature requests.
+
+Thank you for using Shadow!</key>
+	<string>Shadow正在积极发展。如果此旁路对您有用，我将非常感谢您通过支持性消息和/或捐赠提供的支持。我确实阅读了每条消息，并会考虑功能请求。
+
+感谢您使用Shadow！</string>
+	<key>Shadow on Reddit</key>
+	<string>Shadow 的社区</string>
+	<key>Support</key>
+	<string>支持</string>
+	<key>TECHNICAL_SUPPORT_FOOTER_TEXT</key>
+	<string>请使用CrashReporter的崩溃日志报告应用程序崩溃。这有助于查明与Shadow相关的任何问题。谢谢！</string>
+	<key>TECHNICAL_SUPPORT_GROUP</key>
+	<string>技术支持</string>
+	<key>TOGGLE_ADVANCED_FILTERS</key>
+	<string>启用高级过滤器</string>
+	<key>TOGGLE_DETECTION_LIB</key>
+	<string>绕过检测库</string>
+	<key>TOGGLE_ENABLE_SHADOW</key>
+	<string>启用插件</string>
+	<key>TOGGLE_EXPERIMENTAL</key>
+	<string>启用实验方法</string>
+	<key>TOGGLE_EXTRA_COMPAT</key>
+	<string>额外的插件兼容性</string>
+	<key>TOGGLE_OPEN_URL</key>
+	<string>防止打开网址（测试版）</string>
+	<key>TOGGLE_PATH_RESOLVE</key>
+	<string>启用路径解析(测试版)</string>
+	<key>TOGGLE_RESTORE_SANDBOX</key>
+	<string>恢复沙盒</string>
+	<key>TOGGLE_SAFE_APPS</key>
+	<string>禁用安全应用的Shadow</string>
+	<key>TOGGLE_STANDARD_FILTERS</key>
+	<string>启用标准过滤器</string>
+	<key>TWEAK_COMPAT_FOOTER_TEXT</key>
+	<string>兼容性设置可降低旁路效率，以换取插件功能。</string>
+	<key>TWEAK_COMPAT_GROUP</key>
+	<string>插件兼容性</string>
+	<key>This will read all installed package files. This may take a while, depending on how many packages are installed.</key>
+	<string>这将读取所有已安装的包文件。这可能需要一段时间，具体取决于安装的软件包数量。</string>
+	<key>Tweak Compatibility</key>
+	<string>插件兼容性</string>
+	<key>View Source on GitHub</key>
+	<string>查看源代码</string>
+	<key>WHITELIST_MODE</key>
+	<string>白名单模式</string>
+	<key>Whitelist Mode</key>
+	<string>白名单模式</string>
+</dict>
+</plist>

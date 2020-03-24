@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ANIMATION SETTINGS</key>
+	<string>動畫設置</string>
+	<key>Adaptive Background</key>
+	<string>自適應背景</string>
+	<key>Adaptive Title</key>
+	<string>自適應標題</string>
+	<key>Always White Text</key>
+	<string>標題為白色</string>
+	<key>Animation Duration</key>
+	<string>持續時間</string>
+	<key>Animations Enabled</key>
+	<string>啟用通知動畫</string>
+	<key>Background Opacity</key>
+	<string>背景不透明度</string>
+	<key>Banner Drop Shadow</key>
+	<string>橫幅顯陰影</string>
+	<key>Big to Small</key>
+	<string>從大到小</string>
+	<key>Bottom to Top</key>
+	<string>從上到下</string>
+	<key>Bounce Effect</key>
+	<string>反彈效果</string>
+	<key>CREDITS</key>
+	<string>信息</string>
+	<key>Dark Background</key>
+	<string>暗黑色背景</string>
+	<key>Default</key>
+	<string>默認</string>
+	<key>Don © 2019</key>
+	<string>開發者：Duo © 2020
+
+繁體中文: 阿拉花瓜團隊
+</string>
+	<key>Don © 2020</key>
+	<string>開發者：Duo © 2020
+
+繁體中文: 阿拉花瓜團隊
+</string>
+	<key>Don't hesitate to contact me if you run into any issues.</key>
+	<string>如果遇到任何問題，請立即聯繫作者。</string>
+	<key>Email Support</key>
+	<string>郵件回饋</string>
+	<key>Enabled</key>
+	<string>啟用迷你橫幅</string>
+	<key>Enabled in LS/NC</key>
+	<string>全域啟用</string>
+	<key>Extra Tiny</key>
+	<string>超小的橫幅</string>
+	<key>Follow on Twitter</key>
+	<string>作者推特</string>
+	<key>Hide App Icon</key>
+	<string>隱程式圖示</string>
+	<key>Horizontal Padding</key>
+	<string>水準填充</string>
+	<key>Left to Right</key>
+	<string>從左到右</string>
+	<key>MISC</key>
+	<string>其他設置</string>
+	<key>MODES</key>
+	<string>模式</string>
+	<key>Notification App Icon</key>
+	<string>通知圖示</string>
+	<key>Notification Text</key>
+	<string>通知文本</string>
+	<key>Notification animations or swipe to dismiss notifications work independently regardless if the main tweak is enabled or not.</key>
+	<string>無論是否啟用"迷你橫幅"相關功能，"通知動畫"和"滑動來關閉"都可以獨立工作。</string>
+	<key>Notification animations or swipe to dismiss notifications work independently regardless if the main tweak is enabled or not. NOTE: LS/NC option requires a respring.</key>
+	<string>無論是否啟用主功能，通知動畫和滑動來關閉都可以獨立工作。
+
+注意：全域啟用(鎖屏與通知中心)需要重啟主畫面來生效。</string>
+	<key>Respring</key>
+	<string>重啟主畫面</string>
+	<key>Right to Left</key>
+	<string>從右向左</string>
+	<key>Rotate Clockwise</key>
+	<string>順時針旋轉</string>
+	<key>Rotate Counter Clockwise</key>
+	<string>逆時針旋轉</string>
+	<key>SCROLLING SETTINGS</key>
+	<string>滾動設置</string>
+	<key>Scrolling Delay</key>
+	<string>滾動延遲</string>
+	<key>Scrolling Duration (smaller is faster)</key>
+	<string>持續時間</string>
+	<key>Scrolling Speed (bigger is faster)</key>
+	<string>滾動速度(越大越快)</string>
+	<key>Scrolling Text</key>
+	<string>文字滾動</string>
+	<key>Select one</key>
+	<string>選關閉手勢</string>
+	<key>Select one animation</key>
+	<string>選擇動畫</string>
+	<key>Show Notification Title</key>
+	<string>顯示通知標題</string>
+	<key>Small to Big</key>
+	<string>從小到大</string>
+	<key>Smooth Scroll</key>
+	<string>平滑滾動</string>
+	<key>Snap To StatusBar</key>
+	<string>狀態列對齊</string>
+	<key>Some tweaks cause notification elements to be not properly aligned in TinyBanners, you can manually fix them here.</key>
+	<string>某些設置調整會導致通知元素在 TinyBanners 中沒有正確對齊, 可以在此處調整修復它們。</string>
+	<key>Swipe left</key>
+	<string>向左滑動</string>
+	<key>Swipe right</key>
+	<string>向右滑動</string>
+	<key>Swipe to dismiss</key>
+	<string>滑動來關閉</string>
+	<key>Test Banner</key>
+	<string>測試橫幅</string>
+	<key>Test Longgggg Banner</key>
+	<string>測長橫幅</string>
+	<key>This settings are for changing how a notification animates when being displayed. These will work even if you disable TinyBanners 2.</key>
+	<string>此設置用於更改通知在顯示時的動畫方式。即使禁用TinyBanners 2，這些也會起作用。</string>
+	<key>This settings are for scrolling effect if the text count is large. OFF by default.</key>
+	<string>如果文本計數很大，此設置用於滾動效果。默認為關閉。
+
+持續時間：為滾動持續時間，越小越快。</string>
+	<key>UI SETTINGS</key>
+	<string>介面設置</string>
+	<key>Value of 0.5 works best for Dark Background while 0.8 for Adaptive Background :)</key>
+	<string>0.5的值最適合深色背景，而0.8適用於自我調整背景。</string>
+	<key>Vertical Padding</key>
+	<string>垂直填充</string>
+	<key>You can respring if you encounter any issues with the banners. ***If you enable Snap To StatusBar, Extra Tiny must be enabled as well.***</key>
+	<string>如果遇到任何橫幅問題，請嘗試重啟主畫面。如果啟用狀態列對齊，則還必須啟用超小的橫幅。</string>
+	<key>You can respring if you encounter any issues with the banners. NOTE: Sometimes a respring is a must due to the notification changing the size (Extra Tiny).</key>
+	<string>如果遇到任何與橫幅有關的問題，請嘗試重啟主畫面。注意：有時重啟主畫面是必須的，因為通知更改了大小(超小)。</string>
+	<key>You must respring to disable/enable the lockscreen and notification center option.</key>
+	<string>全域都啟用：鎖屏/通知中心一起啟用小橫幅，重啟主畫面生效。</string>
+</dict>
+</plist>

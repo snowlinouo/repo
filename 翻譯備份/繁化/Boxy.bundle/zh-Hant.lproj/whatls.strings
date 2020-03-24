@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>* - requires respring to take effect.</key>
+	<string>重啟主畫面生效</string>
+	<key>*Apply Changes resprings the device. Only need to Apply Changes if you selected Custom Icon Layout or adjusted the Square Icon Labels, Page Control, or Icon Label Visibility </key>
+	<string>應用更改需重啟主畫面使其生效，如果您選擇自訂圖示佈局或調整方形圖示標籤，翻頁點或圖示標籤性時才需要應用更改。</string>
+	<key>*Custom Dock</key>
+	<string>自訂 Dock</string>
+	<key>*Custom Icon Layout</key>
+	<string>自訂圖示佈局</string>
+	<key>*Hide Dock</key>
+	<string>隱藏 Dock</string>
+	<key>*Icon Labels Visible</key>
+	<string>顯示圖示標籤</string>
+	<key>*Page Control Visible</key>
+	<string>顯示頁面圓點</string>
+	<key>*Square Icons</key>
+	<string>方形圖示</string>
+	<key>@william_vab</key>
+	<string>推送上關注我 @william_vab</string>
+	<key>All values are in pixels</key>
+	<string>所有值都以像素為單位</string>
+	<key>Allows you to place icons anywhere on the homescreen grid.</key>
+	<string>允許你在桌面佈局上任何位置放置圖示</string>
+	<key>Apply Changes</key>
+	<string>應用更改</string>
+	<key>Apply Changes and Restore State</key>
+	<string>應用更改與還原狀態</string>
+	<key>Blue</key>
+	<string>藍色</string>
+	<key>Boxy© 2018 William Vabrinskas              wvabrinskas@gmail.com</key>
+	<string>Boxy 版權所有 © 2018 William Vabrinskas              wvabrinskas@gmail.com
+繁體中文:Darryl</string>
+	<key>Boxy© 2019 William Vabrinskas              wvabrinskas@gmail.com</key>
+	<string>Boxy 版權所有 © 2020 William Vabrinskas              wvabrinskas@gmail.com
+繁體中文:Darryl、P神</string>
+	<key>Boxy© 2020 William Vabrinskas              wvabrinskas@gmail.com</key>
+	<string>Boxy 版權所有 © 2020 William Vabrinskas              wvabrinskas@gmail.com
+繁體中文:Darryl、P神</string>
+	<key>Enable Quick Settings</key>
+	<string>啟用快速設置</string>
+	<key>Enabled</key>
+	<string>功能啟用</string>
+	<key>Force Touch</key>
+	<string>壓感觸控</string>
+	<key>General Configurations</key>
+	<string>基本配置</string>
+	<key>Green</key>
+	<string>綠色</string>
+	<key>Horizontal Icon Padding (px)</key>
+	<string>橫向圖示填充 (像素)</string>
+	<key>How To Use User Config</key>
+	<string>如何使用使用者配置</string>
+	<key>Icon Layout Settings</key>
+	<string>圖示佈局設置</string>
+	<key>Layout Presets</key>
+	<string>佈局預設</string>
+	<key>Lock Position of Icons (Ultra Beta)</key>
+	<string>鎖定圖示位置 (測試)</string>
+	<key>Number of Columns</key>
+	<string>列數</string>
+	<key>Number of Icons In Dock</key>
+	<string>Dock 圖示數</string>
+	<key>Number of Rows</key>
+	<string>行數</string>
+	<key>Orange</key>
+	<string>橙色</string>
+	<key>Pink</key>
+	<string>粉紅</string>
+	<key>Presets and User Settings</key>
+	<string>預設和用戶設置</string>
+	<key>Purple</key>
+	<string>紫色</string>
+	<key>Quick Settings Color</key>
+	<string>快速設置顏色</string>
+	<key>Quick Settings Dark Mode</key>
+	<string> 快速設置暗模式</string>
+	<key>Red</key>
+	<string>紅色</string>
+	<key>Save as Custom Preset</key>
+	<string>保存為自訂預設</string>
+	<key>Side Icon Inset (px)</key>
+	<string>側面圖標嵌入 (像素)</string>
+	<key>Swipe Up anywhere on the SpringBoard to access Quick Settings</key>
+	<string>在桌面任何地方向上滑動以快速訪問設置</string>
+	<key>Teal</key>
+	<string>藍綠色</string>
+	<key>Top Icon Inset (px)</key>
+	<string>頂部圖示嵌入 (像素)</string>
+	<key>Use Two Finger Tap Instead</key>
+	<string>使用雙指點擊</string>
+	<key>Vertical Icon Padding (px) </key>
+	<string>縱向圖示填充 (像素)</string>
+	<key>WHATIS_TEXT</key>
+	<string>什麼是文本</string>
+	<key>What is Save/Restore Icon Layout</key>
+	<string>什麼是保存/恢復圖示佈局</string>
+	<key>What is this?</key>
+	<string>這是什麼?</string>
+	<key>White</key>
+	<string>白色</string>
+	<key>Yellow</key>
+	<string>黃色</string>
+</dict>
+</plist>

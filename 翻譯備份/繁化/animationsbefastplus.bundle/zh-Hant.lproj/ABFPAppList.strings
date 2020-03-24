@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+<plist version="1.0"> 
+<dict> 
+        <key> &lt; Faster | Slower &gt; </key> 
+        <string>&lt; 快 | 慢 &gt;</string> 
+        <key> &lt; Slower | Faster &gt; </key> 
+        <string>&lt; 慢 | 快 &gt;</string> 
+        <key>About me</key> 
+        <string>關於我</string> 
+        <key>All options require a respring!</key> 
+        <string>更改任何選項都需要登出!</string> 
+        <key>Animation Speed</key> 
+        <string>動畫速度</string> 
+        <key>AnimationsBeFast</key> 
+        <string>動畫加速</string> 
+        <key>AnimationsBeFastPlus</key> 
+        <string>動畫加速Plus</string> 
+        <key>App Animations</key> 
+        <string>程式動畫</string> 
+        <key>App Open and Close Speed</key> 
+        <string>應用打開和關閉時加速</string> 
+        <key>App Open and Close Speed (0.336)</key> 
+        <string>應用 打開/關閉 加速(0.336)</string> 
+        <key>AppSwitcher</key> 
+        <string>後臺切換介面</string> 
+        <key>Damping</key> 
+        <string>動畫阻尼</string> 
+        <key>Disable Icon Edit Jitter</key> 
+        <string>禁用編輯圖示時抖動</string> 
+        <key>Disable Icon Unlock Fly In</key> 
+        <string>禁用解鎖時圖示晃動</string> 
+        <key>Disable NC bounce</key> 
+        <string>禁用通知中心彈跳效果</string> 
+        <key>Disable card selection scale</key> 
+        <string>禁用卡片縮放</string> 
+        <key>Disable icon scale</key> 
+        <string>禁用圖示縮放</string> 
+        <key>Disable wallpaper scale</key> 
+        <string>禁用壁紙縮放</string> 
+        <key>Donate Via Bitcoin</key> 
+        <string>比特幣捐</string> 
+        <key>Donate Via Paypal</key> 
+        <string>PayPal捐贈</string> 
+        <key>Duration</key> 
+        <string>持續時間</string> 
+        <key>Each value selected is times by the animations default value. 
+Default value is 1.0. 
+  
+Animation Speed: 
+Overall speed of all animations in apps. 
+  
+Duration: 
+The total time of the animation. 
+  
+Damping: 
+The speed at which the animation stops. 
+  
+Velocity: 
+The speed at which the animation starts. 
+  
+Stiffness: 
+Chages the duration of the the animation stopping 
+  
+Mass: 
+The weight of the spring animation when its at the end of the spring animation. 
+</key> 
+        <string>所選的每個值都是動畫預設值的倍數。 
+預設值為1.0。 
+  
+動畫速度： 
+程式中所有動畫的整體速度。 
+  
+持續時間： 
+動畫的總時間。 
+  
+速率： 
+動畫開始的速度。 
+  
+剛度： 
+調整動畫停止的持續時間。 
+  
+品質： 
+彈性動畫結束時的彈性動畫的權重。 
+  
+阻尼： 
+動畫停止的速度。 
+  
+  
+  
+  
+  
+繁體中文: 阿拉花瓜團隊
+</string> 
+        <key>Each value selected is times by the animations default value. 
+Default value is 1.0. 
+  
+If your animations mess up, you will need to respring into safemode and delete the file at "/var/mobile/Library/Preferences/com.adamseiter.animationsbefastplus.plist" in Filza or SSH. 
+  
+Animation Speed(Bigger number is faster): 
+Overall speed of all animations in apps. 
+  
+Duration(smaller number is faster): 
+The total time of the animation. 
+  
+Damping: 
+The speed at which the animation stops. 
+  
+Velocity: 
+The speed at which the animation starts. 
+  
+Stiffness: 
+Chages the duration of the the animation stopping 
+  
+Mass: 
+The weight of the spring animation when its at the end of the spring animation. 
+</key> 
+        <string>所選的每個值都是動畫預設值的倍數。 
+預設值為1.0。 
+  
+如果動畫出現問題，只需要在安全模式下，用Filza或SSH刪除“/var/mobile/library/preferences/com.adamsiter.animationsbefastplus.plist”檔即可。 
+  
+動畫速度(數位越大速度越快)： 
+程式中所有動畫的整體速度。 
+  
+持續時間(數字越小越快)： 
+動畫的總時間。 
+  
+初始速率： 
+動畫開始的速度。 
+  
+動畫剛度： 
+調整動畫停止的持續時間。 
+  
+動畫品質： 
+彈性動畫結束時的彈性動畫的權重。 
+  
+動畫阻尼： 
+動畫停止的速度。 
+  
+  
+  
+  
+繁體中文: 阿拉花瓜團隊 
+</string> 
+        <key>Each value selected is times by the animations default value. 
+Default value is 1.0. 
+  
+If your animations mess up, you will need to respring into safemode and delete the file at "/var/mobile/Library/Preferences/com.adamseiter.animationsbefastplus.plist" in Filza or SSH. 
+  
+Duration(smaller number is faster): 
+The total time of the animation. 
+  
+Damping: 
+The speed at which the animation stops. 
+  
+Velocity: 
+The speed at which the animation starts. 
+  
+Stiffness: 
+Chages the duration of the the animation stopping 
+  
+Mass: 
+The weight of the spring animation when its at the end of the spring animation. 
+</key> 
+        <string>所選的每個值都是動畫預設值的倍數。 
+預設值為1.0。 
+  
+如果動畫出現問題，只需要在安全模式下，用Filza或SSH刪除“/var/mobile/library/preferences/com.adamsiter.animationsbefastplus.plist”檔即可。 
+  
+  
+持續時間(數字越小越快)： 
+動畫的總時間。 
+  
+初始速率： 
+動畫開始的速度。 
+  
+動畫剛度： 
+調整動畫停止的持續時間。 
+  
+動畫品質： 
+彈性動畫結束時的彈性動畫的權重。 
+  
+動畫阻尼： 
+動畫停止的速度。 
+  
+  
+  
+  
+繁體中文: 阿拉花瓜團隊
+</string> 
+        <key>Enable</key> 
+        <string>功能啟用</string> 
+        <key>Enable Touch While Animating</key> 
+        <string>開啟點擊時產生動畫</string> 
+        <key>Excluded Apps</key> 
+        <string>程式排除</string> 
+        <key>Folders</key> 
+        <string>資料夾</string> 
+        <key>Folders (1.00)</key> 
+        <string>資料夾(1.00)</string> 
+        <key>Follow me on Twitter (@AdamSeiter)</key> 
+        <string>作者推特</string> 
+        <key>Homescreen</key> 
+        <string>主介面</string> 
+        <key>Lockscreen</key> 
+        <string>鎖屏介面</string> 
+        <key>Made by Adam Seiter (@adamseiter)</key> 
+        <string>由 Adam Seiter (@adamseiter) 製作 
+  
+  
+繁體中文: 阿拉花瓜團隊
+</string> 
+        <key>Mass</key> 
+        <string>動畫品質</string> 
+        <key>Notification Centre</key> 
+        <string>通知中心</string> 
+        <key>Other Animations</key> 
+        <string>其他設置</string> 
+        <key>Other Settings</key> 
+        <string>其他設置</string> 
+        <key>Random Other Animation Speed - Folders</key> 
+        <string>隨機其他動畫速度 - 資料夾</string> 
+        <key>Reset Settings</key> 
+        <string>重置設置</string> 
+        <key>Respring</key> 
+        <string>重啟主畫面生效</string> 
+        <key>Screen Wake Speed</key> 
+        <string>螢幕喚醒速度</string> 
+        <key>Screen Wake Speed (0.10)</key> 
+        <string>螢幕喚醒速度(0.10)</string> 
+        <key>Show passcode instantly</key> 
+        <string>立即顯示密碼介面</string> 
+        <key>Smooth and Fast Preset</key> 
+        <string>平滑加速預設</string> 
+        <key>SpringBoard Animations</key> 
+        <string>系統動畫</string> 
+        <key>SpringBoard Speed</key> 
+        <string>桌面速度</string> 
+        <key>SpringBoard Speed (1.00)</key> 
+        <string>系統速度(1.00)</string> 
+        <key>Stiffness</key> 
+        <string>動畫剛度</string> 
+        <key>Super Fast Preset</key> 
+        <string>超快加速預設</string> 
+        <key>System Apps</key> 
+        <string>系統程式</string> 
+        <key>Tad Faster Preset</key> 
+        <string>一般加速預設</string> 
+        <key>Unlock Coversheet</key> 
+        <string>解鎖至首頁</string> 
+        <key>Unlock Coversheet (300)</key> 
+        <string>解鎖至首頁(300)</string> 
+        <key>User Applications</key> 
+        <string>使用者程式</string> 
+        <key>Velocity</key> 
+        <string>初始速率</string> 
+        <key>animationsbefastplus</key> 
+        <string>動畫加速Plus</string> 
+</dict> 
+</plist> 

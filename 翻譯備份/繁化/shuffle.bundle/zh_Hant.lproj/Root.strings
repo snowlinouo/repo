@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Added icons for Packages and dylibs sections</key>
+	<string>加入包和禁用插件部分的圖標</string>
+	<key>Added icons for preference bundles with missing icons</key>
+	<string>加入缺少圖標的首選項包圖標</string>
+	<key>Advanced</key>
+	<string>請輸入設置中的高級設置分類名稱</string>
+	<key>Advanced Section Titles</key>
+	<string>自訂"高級設置"分類標題</string>
+	<key>Advanced Title</key>
+	<string>高級設置：</string>
+	<key>AppStore Apps</key>
+	<string>請輸入AppStore應用程式的分類名稱</string>
+	<key>AppStore Title</key>
+	<string>應用程式：</string>
+	<key>Backup &amp; Restore</key>
+	<string>備份還原：</string>
+	<key>Become a Patreon</key>
+	<string>成為一個 Patreon</string>
+	<key>Bundles Title</key>
+	<string>隱藏插件：</string>
+	<key>Buy Me A Coffee</key>
+	<string>請我喝杯咖啡。</string>
+	<key>ChangeLog</key>
+	<string>更新日記：</string>
+	<key>Contact</key>
+	<string>聯繫</string>
+	<key>Contact Me</key>
+	<string>聯繫我</string>
+	<key>Copy List</key>
+	<string>複製清單</string>
+	<key>Copy Tweak List</key>
+	<string>複製插件列表</string>
+	<key>CreatureCoding © 2018</key>
+	<string>版權所有：CreatureCoding © 2018
+
+繁體中文: 阿拉花瓜團隊
+</string>
+	<key>Cydia Sources</key>
+	<string>請輸入查看已加入的源地址分類名稱</string>
+	<key>Debian Packages</key>
+	<string>請輸入查看插件包資訊的分類名稱</string>
+	<key>Depiction</key>
+	<string>描述</string>
+	<key>Donations</key>
+	<string>捐款</string>
+	<key>Dylibs Title</key>
+	<string>禁用插件：</string>
+	<key>Email Support</key>
+	<string>郵件聯繫</string>
+	<key>Enabled</key>
+	<string>啟用插件</string>
+	<key>Follow me on twitter</key>
+	<string>跟我上推特</string>
+	<key>General</key>
+	<string>其他設置</string>
+	<key>General Settings</key>
+	<string>常規設置</string>
+	<key>Help compensate me for my efforts</key>
+	<string>幫助補償我的努力。</string>
+	<key>Help support future development</key>
+	<string>幫助支持未來的發展。</string>
+	<key>Info</key>
+	<string>信息</string>
+	<key>Join my Slack group &amp; stay up to date</key>
+	<string>加入我的Slack小組&amp;保持最新的插件狀況。</string>
+	<key>Learn more about shuffle</key>
+	<string>關於 shuffle 的一些資訊</string>
+	<key>Make a Donation</key>
+	<string>捐贈</string>
+	<key>Move To Top</key>
+	<string>移至頂部</string>
+	<key>Move the shuffle section to the top</key>
+	<string>將分類選項移至設置頂部</string>
+	<key>Need help? Send me an email and I'll do my best.</key>
+	<string>需要幫助嗎?給我發封郵件,我會盡力的。</string>
+	<key>Needing a list of all installed tweaks?</key>
+	<string>需要所有已安裝的插件列表嗎?</string>
+	<key>New item 4</key>
+	<string>New string</string>
+	<key>Package Dylibs</key>
+	<string>請輸入禁用插件選項的分類名稱</string>
+	<key>Packages Title</key>
+	<string>插件信息：</string>
+	<key>Preference Bundles</key>
+	<string>請輸入隱藏插件設置選項的分類名稱</string>
+	<key>Reach Out</key>
+	<string>捐贈</string>
+	<key>Report A Bug</key>
+	<string>報告 Bug</string>
+	<key>Report a bug on GitHub and feel warm and fuzzy</key>
+	<string>在GitHub上報告一個錯誤</string>
+	<key>Section Titles</key>
+	<string>自訂“設置分類”標題</string>
+	<key>Sources Title</key>
+	<string>插件源址：</string>
+	<key>Stay informed by following me on Reddit</key>
+	<string>在Reddit上跟蹤我，保持聯繫。</string>
+	<key>Submit an Issue</key>
+	<string>提交問題</string>
+	<key>Support</key>
+	<string>支持</string>
+	<key>Support &amp; Creator</key>
+	<string>聯繫作者：</string>
+	<key>System Apps</key>
+	<string>請輸入系統應用程式的分類名稱</string>
+	<key>System Apps Title</key>
+	<string>系統程式：</string>
+	<key>Tweaks</key>
+	<string>請輸入設置中的插件選項分類名稱</string>
+	<key>Tweaks Title</key>
+	<string>插件標題：</string>
+	<key>Twitter</key>
+	<string>推特</string>
+	<key>Use 3DTouch throughout settings</key>
+	<string>在整個設置中使用3DTouch</string>
+	<key>Version:</key>
+	<string>插件版本：</string>
+	<key>shuffle</key>
+	<string>設置歸類</string>
+</dict>
+</plist>

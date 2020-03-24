@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Bottom</key>
+	<string>底部</string>
+	<key>Cydia Repo</key>
+	<string>Cydia 源</string>
+	<key>Disable User Interaction</key>
+	<string>禁用用戶交互</string>
+	<key>Download hidestatusbars to hide statusbar</key>
+	<string>下載Hide Statusbars隱藏狀態列</string>
+	<key>Enable FrontPage, choose your user interaction option, top or bottom, hide elements you want hidden, finally press show Menu.</key>
+	<string>啟用FrontPage，選擇你的使用者交互選項，頂部或底部，你想隱藏的隱藏要素，最後按顯示功能表。</string>
+	<key>Enable/Disable FrontPage. Note: Screen will dim to lockscreen when disabled.</key>
+	<string>啟用/禁用FrontPage。注意：當螢幕變暗，鎖屏時禁用。</string>
+	<key>FrontPage</key>
+	<string>FrontPage</string>
+	<key>FrontPage Info</key>
+	<string>FrontPage 信息</string>
+	<key>FrontPage Themes</key>
+	<string>FrontPage 主題</string>
+	<key>FrontPage © 2017 by @JunesiPhone</key>
+	<string>FrontPage 版權所有 © 2017 @JunesiPhone</string>
+	<key>Hide Dock</key>
+	<string>隱藏 Dock</string>
+	<key>Hide Icons</key>
+	<string>隱藏圖示</string>
+	<key>Hide Page Dots</key>
+	<string>隱藏翻頁點</string>
+	<key>Hide SB Statusbar</key>
+	<string>隱藏桌面狀態列</string>
+	<key>IMPORTANT: On iOS8 you will need to have top selected, otherwise menu will be below icons.</key>
+	<string>重要: 在iOS8你必須有選擇，否則功能表將在圖示下方。</string>
+	<key>Keep Current Icons</key>
+	<string>保持當前圖示</string>
+	<key>Once you enable FrontPage the current SpringBoard icons are cached. If a FrontPage theme uses icons it can use these cached icons and therefore doesn't require Anemone to theme those icons. If you want to disable Anemone, but keep the themed icons, enable this.</key>
+	<string>一旦你啟用FrontPage當前桌面圖示將緩存。FrontPage主題如果使用圖示可以使用這些緩存的圖示，因此不需要海葵的主題圖示。如果你想禁用海葵，但保持主題圖示，啟用這個選項。</string>
+	<key>Quick Start</key>
+	<string>快速啟動</string>
+	<key>Respring</key>
+	<string>重啟主畫面 (繁體中文: 阿拉花瓜團隊)</string>
+	<key>Show installed themes, and apply them. Must have FrontPage enabled.</key>
+	<string>顯示已安裝的主題並應用它們，必須啟用FrontPage。</string>
+	<key>ShowMenu</key>
+	<string>顯示功能表</string>
+	<key>Some devices may require respring for the statusbar options.</key>
+	<string>狀態列選項某些設備可能需要登出。</string>
+	<key>Some themes have a one finger swipe down gesture. If user interaction is not disabled and you swipe down with one finger, the FrontPage menu will show. Two finger swipe up will show iWidget Menu. If FrontPage is set to bottom you can move iWidgets by tap hold.</key>
+	<string>有些主題有一個手指向下滑動的手勢。如果用戶交互是沒有被禁用，你用一根手指向下滑動，FrontPage功能表將顯示。兩個手指滑動將小部件功能表顯示。如果FrontPage設置為底部你可以通過點擊移動保存小部件。</string>
+	<key>The top and bottom options set where FrontPage is placed. Top will put FrontPage on top of the icons, bottom will put it below the icons. When below SpringBoard icons can still be pressed. You can also still interact with the FrontPage theme below. A theme must define its size to benefit from this.</key>
+	<string>頂部和底部的首頁放置選項。頂部將FrontPage圖示放在上面，底部將把圖示放在下面。當低於桌面圖示仍然可以按下。您還可以與下面的FrontPage主題互動，主題必須定義其大小以便從中受用。</string>
+	<key>Tips:</key>
+	<string>提示:</string>
+	<key>Top</key>
+	<string>頂部</string>
+	<key>Twitter @JunesiPhone</key>
+	<string>推特上關注我 @JunesiPhone</string>
+	<key>When enabled the applied FrontPage widget will not receive or block any touches. (SBHTML Mode)</key>
+	<string>當開關打開時，FrontPage應用組件將不會受到任何觸發。（SBHTML 模式）</string>
+</dict>
+</plist>

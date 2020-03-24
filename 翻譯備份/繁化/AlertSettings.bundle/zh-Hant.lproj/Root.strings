@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Select a theme</key>
+	<string>選擇主題</string>
+	<key>Enable</key>
+	<string>啟用</string>
+	<key>Show on wake</key>
+	<string>喚醒時顯示</string>
+	<key>When device sleeps and you wake it up again if you wish to show the animation again then turn on show on wake.</key>
+	<string>如果你希望當設備休眠後再次喚醒時再次顯示動畫,那您必須開啟"喚醒時顯示"</string>
+	<key>Black BG</key>
+	<string>黑色背景</string>
+	<key>Place black BG above LockPlus</key>
+	<string>將黑色BG覆蓋在LockPlus上方</string>
+	<key>BlackBG adds black background when animations come in. If "Place black BG" is disabled it will place the black background below LockPlus.
+
+If "Black Out Everything" is enabled you will only see the animation. Tap the screen to dismiss the animation.</key>
+	<string>動畫進入時，BlackBG會添加黑色背景。如果禁用了“覆蓋黑色BG”，則會將黑色背景放置在LockPlus下方。
+
+如果啟用了“Black Out Everything”，則只會看到動畫。點擊屏幕以關閉動畫。</string>
+	<key>Test Animation</key>
+	<string>動畫測試</string>
+	<key>Enabling test animation will always play the animation on the lockscreen. Use this to try themes. Also good for when your making a theme. Themes are in /Library/AlertAni/</key>
+	<string>啟用測試動畫將永遠在鎖定屏幕上播放動畫。使用它來測試主題。也適合製作主題。主題位於/Library/AlertAni/</string>
+	<key>Changing themes doesn't require a respring. Rest of the options do.
+
+© JunesiPhone 2020</key>
+	<string>變更主題不需重啟主畫面
+繁體中文: 阿拉花瓜團隊
+© JunesiPhone 2020</string>
+</dict>
+</plist>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+<plist version="1.0"> 
+<dict> 
+        <key>ActionBar Position</key> 
+        <string>顯示位置</string> 
+        <key>Apply (Respring)</key> 
+        <string>應用 (註銷)</string> 
+        <key>Background Color</key> 
+        <string>背景顏色</string> 
+        <key>Bottom (below keyboard)</key> 
+        <string>底部 (鍵盤下方)</string> 
+        <key>COLOR OPTIONS</key> 
+        <string>顏色選項</string> 
+        <key>Dark Keyboard Background Color</key> 
+        <string>黑色鍵盤背景顏色</string> 
+        <key>Dark Keyboard Text Color</key> 
+        <string>黑色鍵盤文字顏色</string> 
+        <key>Email Me</key> 
+        <string>給我發電子郵件</string> 
+        <key>Enable Custom Colors</key> 
+        <string>啟用自訂顏色</string> 
+        <key>Enabled</key> 
+        <string>功能啟用</string> 
+        <key>Follow Me</key> 
+        <string>在推特上關注我</string> 
+        <key>Light Keyboard Background Color</key> 
+        <string>白色鍵盤背景顏色</string> 
+        <key>Light Keyboard Text Color</key> 
+        <string>白色鍵盤文字顏色</string> 
+        <key>Like my work? Buy me a coffee :)</key> 
+        <string>通過PayPal捐贈我</string> 
+        <key>Note: Bottom only works on iPhone X devices (or devices with iPhone X keyboard enabled). Top replaces predictive text.</key> 
+        <string>注意: 底部僅適用於 iPhone X 設備 (或啟用了 iPhone X 鍵盤的設備). 頂部替換了預測文本. 
+  
+繁體中文: 阿拉花瓜團隊</string> 
+        <key>Note: Only enable iPhone X keyboard if you have an older device.</key> 
+        <string>注意：如果您有舊設備(非iPhone X設備)，則需要啟用iPhone X鍵盤。</string> 
+        <key>Position</key> 
+        <string>位置</string> 
+        <key>SETTINGS</key> 
+        <string>設置</string> 
+        <key>Text Color</key> 
+        <string>文本顏色</string> 
+        <key>Top (replace predictive text)</key> 
+        <string>頂部 (替換預測文本)</string> 
+        <key>iPhone X Keyboard</key> 
+        <string>iPhone X 鍵盤</string> 
+        <key>iPhone X Keyboard (Older Devices)</key> 
+        <string>iPhone X鍵盤（非X設備）</string> 
+</dict> 
+</plist> 

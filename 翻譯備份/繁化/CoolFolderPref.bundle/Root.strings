@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Border Color</key>
+	<string>邊框顏色</string>
+	<key>Custom corner radius</key>
+	<string>圓角半徑</string>
+	<key>Disabled in open state</key>
+	<string>在打開狀態下禁用</string>
+	<key>Enabled</key>
+	<string>啟用功能</string>
+	<key>Please donate</key>
+	<string>捐贈作者</string>
+	<key>Twitter @4nni3_</key>
+	<string>作者推特(繁體中文: Darryl)</string>
+</dict>
+</plist>

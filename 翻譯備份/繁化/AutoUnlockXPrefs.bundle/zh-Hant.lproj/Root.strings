@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+<plist version="1.0"> 
+<dict> 
+		<key>Enable Auto Unlock</key> 
+		<string>啟用自動解鎖</string> 
+		<key>Disable if notifications</key> 
+        <string>當有通知時禁用</string> 
+        <key>@akusio_RR (helped with iOS 13 support)</key> 
+        <string>特別感謝</string> 
+        <key>Settings</key> 
+        <string>設定</string> 
+        <key>Disable if music playing</key> 
+        <string>當音樂播放時禁用</string> 
+        <key>Disable if flashlight on</key> 
+        <string>當手電筒開啟時禁用</string> 
+        <key>Tap to block auto unlock</key> 
+        <string>點擊鎖定自動解鎖</string> 
+        <key>Auto Retry Interval</key> 
+        <string>繁體中文: 阿拉花瓜團隊
+自動重試間隔</string> 
+        <key>Enable</key> 
+        <string>設置</string> 
+        <key>Enable Auto Retry</key> 
+        <string>啟用自動重試</string> 
+        <key>Delay Before Unlock</key> 
+        <string>解鎖前延遲</string> 
+        <key>Enable Delay Before Unlock</key> 
+        <string>啟用解鎖延遲</string> 
+        <key>Respring</key> 
+        <string>重啟主畫面</string>
+		<key>Support</key> 
+        <string>支持</string> 		
+        <key>Follow me on Twitter @SparkDev_</key> 
+        <string>追蹤@SparkDev_推特 </string> 
+</dict> 
+</plist> 

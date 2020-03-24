@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>
+
+These options allow you to disable certain info in XenInfo. This will be great for debugging and assist in making XenInfo "lighter" by not passing info that is not needed. If you have a widget with only battery percent then all you would need enabled is battery. If you only have a clock widget, then disable all the toggles. Each setting requires a respring to take affect.
+
+
+
+*** Info Breakdown ***
+
+* Alarm: (Any alarm info)
+alarmString, alarmTime, alarmHour, alarmMinute, alarmDay.
+
+* Battery: (Battery and Ram info)
+batteryPercent, batteryCharging, ramFree, ramUsed, ramAvailable, ramPhysical.
+
+* Events: (Calendar info)
+events object
+
+* Music: (Music info)
+artist, album, title, isplaying. Note: It does not disable music controls.
+
+* Reminders: (Reminder app info)
+reminders object
+
+* Statusbar: (Statusbar info)
+signalStrength, signalBars, signalName, wifiStrength, wifiBars, wifiName, bluetoothOn.
+
+* System:
+systemVersion, deviceName, twentyfourhour, deviceType, ipAddress, notificationShowing.
+
+* Weather: (All weather info)
+city, address, temperature, low, high, feelsLike, chanceofrain, condition, naturalCondition, dayForecasts, hourForecast, latlong, celsius, isDay, conditionCode, updateTimeString, humidity, dewPoint, windChill, windDirection, windSpeed, visibility, sunsetTime, sunriseTime, sunsetTimeFormatted, sunriseTimeFormatted, precipitationForecast, pressure, precipitation24hr, heatIndex, moonPhase, cityState
+
+
+Created by JunesiPhone and Matchstic 2019</key>
+	<string>這些選項允許您禁用XenInfo中的某些資訊。這將非常適合調試，並通過不傳遞不需要的資訊來説明使XenInfo“更輕”。如果你有一個只有電池百分比的小部件，那麼你需要啟用的就是電池。如果您只有一個時鐘小部件，則禁用所有切換。每個設置都需要登出設備才能生效。
+
+
+
+***信息***
+
+*警報:(任何報警資訊）
+警報字串，警報時間，警報時間，警報時間，警報日期。
+
+*電池:(電池和記憶體資訊）
+電池百分比，電池充電，無記憶體，記憶體使用，記憶體可用，記憶體物理。
+
+*活動:(日曆信息）
+事件物件
+
+*音樂:(音樂資訊）
+藝術家，專輯，標題，正在播放。注意：它不會禁用音樂控制項。
+
+*提醒:(提醒應用資訊）
+提醒對象
+
+*狀態列:(狀態列信息）
+信號強度，信號條，信號名，WiFi強度，WiFi條，WiFi名，bluetooth0n。
+
+*系統：
+系統版本，設備名稱，二十四小時，設備類型，IP位址，通知顯示。
+
+*天氣:(全天候信息）
+城市，位址，溫度，低，高，感覺像，下雨機率，條件，自然條件，一天的預測，小時預測，經緯度，攝氏，isDay，條件碼，更新時間設置，濕度，露點，風寒，風向，風速，能見度，日落時間，日出時間，日落時間格式，日出時間格式，降水預報，壓力，降水24小時，熱指數，月相，城市狀態！
+
+
+由JunesiPhone和Matchstic 2019創建
+
+繁體中文: 阿拉花瓜團隊</string>
+	<key>Alarm</key>
+	<string>警報</string>
+	<key>Battery</key>
+	<string>電池</string>
+	<key>Events</key>
+	<string>活動</string>
+	<key>JunesiPhone Twitter</key>
+	<string>JunesiPhone 推特</string>
+	<key>Matchstic Twitter</key>
+	<string>Matchstic 推特</string>
+	<key>Music</key>
+	<string>音樂</string>
+	<key>Reminders</key>
+	<string>提醒事項</string>
+	<key>Respring</key>
+	<string>重啟主畫面</string>
+	<key>Statusbar</key>
+	<string>狀態列</string>
+	<key>System</key>
+	<string>系統</string>
+	<key>Weather</key>
+	<string>天氣</string>
+	<key>Xen Info</key>
+	<string>Xen Info</string>
+	<key>XenInfo API</key>
+	<string>XenInfo 介紹</string>
+</dict>
+</plist>

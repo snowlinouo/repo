@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>slide to power off</key>
+	<string>滑動來關機</string>
+	<key>enabled</key>
+	<string>啟用</string>
+	<key>slide to reboot</key>
+	<string>滑動來重關機</string>
+	<key>slide to ldrestart</key>
+	<string>滑動來軟體重關機</string>
+	<key>slide to respring</key>
+	<string>滑動來重啟主畫面</string>
+	<key>slide for safe mode</key>
+	<string>滑動來安全模式</string>
+	<key>slide to uicache</key>
+	<string>滑動來清除使用者介面快取</string>
+	<key>PowerDown</key>
+	<string>關機</string>
+	<key>Reboot</key>
+	<string>重關機</string>
+	<key>LDRestart</key>
+	<string>軟體重關機</string>
+	<key>Respring</key>
+	<string>重啟主畫面</string>
+	<key>SafeMode</key>
+	<string>安全模式</string>
+	<key>UICache</key>
+	<string>清除使用者介面快取</string>
+</dict>
+</plist>

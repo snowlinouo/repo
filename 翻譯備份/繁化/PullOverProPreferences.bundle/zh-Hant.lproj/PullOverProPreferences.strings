@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"> 
+<plist version="1.0"> 
+<dict> 
+   <key>Full Screen Keyboard (ios 13 only)</key> 
+   <string>全螢幕鍵盤切換(僅限iOS 13)</string> 
+   <key>Keyboard Avoiding</key> 
+        <string>避免鍵盤切換</string> 
+        <key>@akusio_RR (helped with iOS 13 support)</key> 
+        <string>特別感謝</string> 
+        <key>Activator</key> 
+        <string>啟動手勢 
+  
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>0 = center of screen, negative numbers move it up and positive move it down. PRO-TIP: 3D touch the value to the right of the slider to enter a value using the numberpad</key>
+	<string>"0"=螢幕中心，"負數值"=向上移動，"正數值"=向下移動。 
+
+PRO-TIP: 觸控反饋滑塊，使用數位鍵盤輸入數值！
+
+
+繁體中文: 阿拉花瓜團隊</string>
+	<key>Choose Label Color</key>
+	<string>選擇標籤顏色</string>
+	<key>Choose Spinner Color</key>
+	<string>活動指示器顏色</string>
+	<key>Donate with PayPal</key>
+	<string>PayPal 捐贈</string>
+	<key>Enable Tweak</key>
+	<string>啟動插件</string>
+	<key>Follow Our Team !!</key>
+	<string>關注我們的團隊!!</string>
+	<key>Follow me on Twitter</key>
+	<string>在推特上關注我</string>
+	<key>Label Font Size</key>
+	<string>標籤字體大小</string>
+	<key>Like my work ? I like coffee</key>
+	<string>喜歡我的工作？我喜歡咖啡</string>
+	<key>Links</key>
+	<string>連結</string>
+	<key>Show Spinner</key>
+	<string>顯示活動指示器</string>
+	<key>Show Title Label</key>
+	<string>顯示標題標籤</string>
+	<key>Vertical Offset</key>
+	<string>垂直偏移(上下)</string>
+	<key>Wanna chat with the team ?</key>
+	<string>想和團隊聊天嗎？</string>
+</dict>
+</plist>
+</string> 
+        <key>Appearance</key> 
+        <string>外觀(⬇️QuickSwitch Item Scale -&gt; 快速切換專案大小)</string> 
+        <key>Behavior</key> 
+        <string>行為</string> 
+        <key>Dark Mode</key> 
+        <string>暗黑模式</string> 
+        <key>Donate</key> 
+        <string>PayPal捐贈</string> 
+        <key>Enable</key> 
+        <string>設置</string> 
+        <key>Enabled</key> 
+        <string>功能啟用</string> 
+        <key>Extra Stuff</key> 
+        <string>更多 (繁體中文: Darryl)</string> 
+        <key>Favorite Apps</key> 
+        <string>喜歡應用</string> 
+        <key>Follow @c1d3rDev (Developer)</key> 
+        <string>推特關注</string> 
+        <key>Haptic Feedback</key> 
+        <string>振動回饋</string> 
+        <key>Hide QuickSwitch Labels</key> 
+        <string>隱藏快速切換標籤</string> 
+        <key>Hide in Landscape</key> 
+        <string>橫屏隱藏</string> 
+        <key>Hold the grabber when closed to show the quickswitch menu. Slide up and down to select.</key> 
+        <string>Recent Apps -&gt; 最近應用  |  Favorite Apps -&gt; 喜歡應用 
+Show ✻ Recent Apps -&gt; 顯示最近應用數量 
+  
+按住抓取器顯示快速切換功能表,上下滑動選擇. 
+  
+按住應用拖到中間方框區域內,全屏打開應用.</string> 
+        <key>Landscape rotation is not supported, so the app will just remain in portrait mode</key> 
+        <string>不支援橫屏旋轉, 因此程式將保持豎屏模式.</string> 
+        <key>Left Handed Mode</key> 
+        <string>左手模式</string> 
+        <key>QuickSwitch</key> 
+        <string>快速切換</string> 
+        <key>QuickSwitch Item Scale</key> 
+        <string>快速切換專案大小</string> 
+        <key>QuickSwitch Scale</key> 
+        <string>快速切換大小</string> 
+        <key>Recent Apps</key> 
+        <string>最近應用</string> 
+        <key>Requires Respring</key> 
+        <string>需要重啟主畫面生效</string> 
+        <key>Select Favorite Apps</key> 
+        <string>選擇喜歡的應用</string> 
+</dict> 
+</plist> 

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Enabled</key>
+	<string>開啟</string>
+	<key>Respring</key>
+	<string>重啟主畫面</string>
+	<key>Configurations</key>
+	<string>自訂配置</string>
+	<key>Create Configurations</key>
+	<string>建立自訂配置</string>
+	<key>Preview Keyboard</key>
+	<string>預覽鍵盤</string>
+	<key>Donate</key>
+	<string>Donate(繁體中文: 阿拉花瓜團隊)</string>
+	<key>Get More Configurations</key>
+	<string>取得更多配置</string>
+	<key>addColorToList</key>
+	<string>加入顏色到清單</string>
+	<key>Add Color</key>
+	<string>加入顏色</string>
+	<key>Configuration Name</key>
+	<string>配置名稱</string>
+	<key>Visible Keycaps</key>
+	<string>顯示鍵帽</string>
+	<key>Text Color</key>
+	<string>文字顏色</string>
+	<key>NudeKeys Enabled</key>
+	<string>插件功能開啟</string>
+	<key>Highlight Color</key>
+	<string>醒目顏色</string>
+	<key>Basic Options</key>
+	<string>基本選項</string>
+	<key>Background Type</key>
+	<string>背景類型</string>
+	<key>Effects Type</key>
+	<string>效果類型</string>
+	<key>Background Options</key>
+	<string>背景選項</string>
+	<key>Background Colors</key>
+	<string>背景顏色</string>
+	<key>Select Image</key>
+	<string>選擇圖片</string>
+	<key>Image Alpha</key>
+	<string>圖片透明度</string>
+	<key>Animation Duration</key>
+	<string>動畫時長</string>
+	<key>Effect Colors</key>
+	<string>效果顏色</string>
+	<key>Frequently Asked Questions</key>
+	<string>FAQ</string>
+</dict>
+</plist>

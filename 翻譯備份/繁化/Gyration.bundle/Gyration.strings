@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Add My Repo on Cydia 📦</key>
+	<string>加作者源📦</string>
+	<key>Additional Features</key>
+	<string>附加功能</string>
+	<key>Apply toggle to Enable Large Scrolling Folders when Rotation is Active.</key>
+	<string>旋轉啟動時，桌面為大型滾動資料夾排布。</string>
+	<key>Apply toggle to Enable-Disable On iOS 9 and iOS 10 the SplitView and the SlideOver Features.</key>
+	<string>在iOS 9和iOS 10上“啟用-禁用”SplitView和SlideOver分屏功能旋轉。</string>
+	<key>Apply toggle to Rotate only the HomeScreen.</key>
+	<string>僅作用於主畫面旋轉。</string>
+	<key>Apply toggle to Rotate the LockScreen.
+
+This Feature also enables the HomeScreen Rotation.</key>
+	<string>作用於鎖屏旋轉，也可以作用於主畫面旋轉。</string>
+	<key>Apply toggle to iPad Style Rotate with the Dock at the Bottom.</key>
+	<string>旋轉啟動時，桌面(包括Dock欄)為iPad風格。注:很彆扭，不建議開啟。</string>
+	<key>Block Medusa Rotation on Selected Applications.</key>
+	<string>選定的應用程式禁用旋轉。</string>
+	<key>Block apps</key>
+	<string>旋轉黑名單</string>
+	<key>Cheers a Beer 🍻</key>
+	<string>捐贈作者🍻</string>
+	<key>Contacts 🌐</key>
+	<string>聯繫方式🌐</string>
+	<key>Disable Rotation!</key>
+	<string>禁用螢幕旋轉</string>
+	<key>Disable the Rotation on HomeScreen.</key>
+	<string>在主畫面上禁用旋轉。</string>
+	<key>Email Me ✉</key>
+	<string>作者郵件✉</string>
+	<key>Enable Gyration!</key>
+	<string>啟用全域旋轉</string>
+	<key>Enable HomeScreen Rotation!</key>
+	<string>啟用主畫面旋轉</string>
+	<key>Enable LandScape Large Folders!</key>
+	<string>橫向大資料夾</string>
+	<key>Enable LockScreen Rotation!</key>
+	<string>啟用鎖屏旋轉</string>
+	<key>Enable SplitView/SlideOver!</key>
+	<string>啟用分屏旋轉</string>
+	<key>Enable iPad Style Rotation!</key>
+	<string>啟用平板風格</string>
+	<key>Enable-Disable the Rotation All Over All Applications and HomeScreen!</key>
+	<string>啟用-禁用外掛程式作用于所有的應用程式和主畫面！</string>
+	<key>Enable/Disable Tweak</key>
+	<string>啟用/禁用外掛程式總開關</string>
+	<key>Follow me on Twitter 🌀</key>
+	<string>作者推特🌀</string>
+	<key>Gyration</key>
+	<string>Gyration</string>
+	<key>Gyration ©️ 2018 by Luca Geek (@CydiaGeek), enjoy it!
+
+Thanks my Brother @lorenzo_noide for testing the Tweak!
+
+Settings Icon made by Freepik.</key>
+	<string>Gyration©️2019 Luca Geek(@CydiaGeek)
+
+盡情享受吧!感謝我的兄弟@lorenzo_noide測試！Freepik製作的設置圖示。
+
+繁體中文: Darryl
+</string>
+	<key>My Tweaks on BigBoss Repo 🛠</key>
+	<string>作者的其他外掛程式在BigBoss源🛠</string>
+	<key>Other Tweaks by Me:</key>
+	<string>其他資訊：</string>
+	<key>Respring</key>
+	<string>重啟主畫面生效</string>
+	<key>Respring to apply any Changes if Needed!</key>
+	<string>某些變更需要重啟主畫面生效。</string>
+	<key>Select System Apps</key>
+	<string>選擇系統程式</string>
+	<key>Select User Apps</key>
+	<string>選擇使用者程式</string>
+	<key>System Applications</key>
+	<string>系統程式</string>
+	<key>Take Change</key>
+	<string>變更設置</string>
+	<key>User Applications</key>
+	<string>使用者程式</string>
+</dict>
+</plist>
