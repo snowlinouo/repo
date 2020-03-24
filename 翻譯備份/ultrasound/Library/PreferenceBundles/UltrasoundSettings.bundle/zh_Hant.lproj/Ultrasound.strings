@@ -28,8 +28,8 @@
 	<string>OLED 模式</string>
 	<key>OLED Mode lets you view your volume at a glance as you adjust it, while the device's screen is off.</key>
 	<string>OLED 模式可讓您在調整時查看音量，同時設備的螢幕關閉。</string>
-	<key>Play Haptic Feedback when adjusting the volume reaches 0% or 100%. Requires iPhone 7 or later.</key>
-	<string>調節音量達到0％或100％時播放觸覺反饋。 需要 iPhone 7 或更高機種。</string>
+	<key>Play Haptic Feedback when adjusting the volume reaches 0% or 100%. Requires iPhone 6s or later.</key>
+	<string>調節音量達到0％或100％時播放觸覺反饋。 需要 iPhone 6s 或更高機種。</string>
 	<key>Refined</key>
 	<string>精緻</string>
 	<key>Show Volume Icon</key>

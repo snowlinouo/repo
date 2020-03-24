@@ -1,0 +1,10 @@
+Package: com.nightsnowlin.xenhtml.tw
+Name: Xen HTML 繁化中文包
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Xen HTML 繁化中文包 夜雪鈴製作,請先安裝Xen HTML
+Depends: firmware (>=11.0)
+Conflicts: com.nightsnowlin.xenhtml.tw
+Maintainer: NightSnowLin <yenhank0531@gmail.com>
+Author: NightSnowLin <yenhank0531@gmail.com>
+Section: Localization
