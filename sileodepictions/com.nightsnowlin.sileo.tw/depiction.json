@@ -14,7 +14,7 @@
 				{
 					"useSpacing": true,
 					"class": "DepictionMarkdownView",
-					"markdown": "針對 Sileo & Sileo (Beta Channel) 加入繁體中文化語系<br />checkra1n 的 Sileo 也可以適用<br />Sileo 繁體中文 夜雪鈴製作"
+					"markdown": "針對 Sileo & Sileo (Beta Channel) 加入繁體中文化語系<br/>checkra1n 的 Sileo 也可以適用<br/>Sileo 繁體中文 夜雪鈴製作"
 				},
 				{
 					"class":"DepictionStackView",
