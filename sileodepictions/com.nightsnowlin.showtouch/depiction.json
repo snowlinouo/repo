@@ -13,6 +13,7 @@
                 },
 				{
 					"useSpacing": true,
+					"useRawFormat":true,
 					"class": "DepictionMarkdownView",
 					"markdown": "Shows where you touch the screen<br>ShowTouch 夜雪鈴重新打包"
 				},

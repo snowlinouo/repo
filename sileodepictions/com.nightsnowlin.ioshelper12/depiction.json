@@ -13,6 +13,7 @@
                 },
 				{
 					"useSpacing": true,
+					"useRawFormat":true,
 					"class": "DepictionMarkdownView",
 					"markdown": "An awesome MobileSubstrate tweak! <br>iOS Helper 12 夜雪鈴重新打包"
 				},

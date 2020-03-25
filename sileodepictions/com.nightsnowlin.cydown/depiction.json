@@ -13,6 +13,7 @@
                 },
 				{
 					"useSpacing": true,
+					"useRawFormat":true,
 					"class": "DepictionMarkdownView",
 					"markdown": "Cydia Download Manager & Extra Features!<br>CyDown 夜雪鈴重新打包"
 				},

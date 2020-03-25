@@ -13,6 +13,7 @@
                 },
 				{
 					"useSpacing": true,
+					"useRawFormat":true,
 					"class": "DepictionMarkdownView",
 					"markdown": "Sileo Icon 主題 夜雪鈴製作<br>把Cydia圖示變成Sileo圖示"
 				},
