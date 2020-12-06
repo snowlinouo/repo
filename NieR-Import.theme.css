@@ -1,4 +1,4 @@
-/*@import url("https://accrazed.github.io/YoRHA-UI-BetterDiscord/font/stylesheet.css");*/
+@import url("https://accrazed.github.io/YoRHA-UI-BetterDiscord/font/stylesheet.css");
 @keyframes pulsingBackground {
   0% {
     background-color: var(--color-low);
@@ -774,9 +774,9 @@ path[d="M14 8C14 7.44772 13.5523 7 13 7H9.76001L10.3657 3.58738C10.4201 3.28107 
   box-shadow: 3px 3px 0 var(--color-alert);
 }
 
-.username-1A8OIy.clickable-1bVtEA {
+/*.username-1A8OIy.clickable-1bVtEA {
   color: var(--color-low) !important;
-}
+}*/
 
 .isUnread-3Ef-o9 .content-1o0f9g,
 .unreadPill-2HyYtt,
