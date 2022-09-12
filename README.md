@@ -1,7 +1,8 @@
 # NightSnowLin Repo
-歡迎來到夜雪鈴的 Cydia 軟體源.
+歡迎來到雪鈴的 Cydia 軟體源.
 
 軟體源網址：https://nightsnowlin.github.io/repo/
+https://nightsnowlinouo.github.io/repo/
 
 &nbsp;
 
