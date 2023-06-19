@@ -3,7 +3,7 @@
 
 由於作者本人已沒有在越獄過，所以也無法更新此軟體源，所以停止更新。
 
-軟體源網址：https://nightsnowlin.github.io/repo/
+軟體源網址：https://snowlinouo.github.io/repo/
 
 https://nightsnowlinouo.github.io/repo/
 
